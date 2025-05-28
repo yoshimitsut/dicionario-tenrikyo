@@ -1,0 +1,772 @@
+[
+  {
+    "romaji": "AIDEN",
+    "kanji": "合殿",
+    "significado": "Recinto de Ligação"
+  },
+  {
+    "romaji": "AIZU",
+    "kanji": "合図",
+    "significado": "sinal / kore ga aizu no fushigui naru zo ya (これがあいずのふしきなるそや) Isto será o sinal para as coisas maravilhosas (Of) I-15 / aizu tateai (合図立て合い) sinais em confronto (Of) XVII-74"
+  },
+  {
+    "romaji": "AIZUGUI",
+    "kanji": "合図木",
+    "significado": "toquinho (SS) p.1"
+  },
+  {
+    "romaji": "AJIA-IKKA",
+    "kanji": "アジア一課",
+    "significado": "Divisão de Asia I"
+  },
+  {
+    "romaji": "AJIA-NIKA",
+    "kanji": "アジア二課",
+    "significado": "Divisão de Asia II"
+  },
+  {
+    "romaji": "AJIKENAI",
+    "kanji": "味気ない",
+    "significado": "insípido"
+  },
+  {
+    "romaji": "AJIWAI",
+    "kanji": "味わい",
+    "significado": "sabor / kokoro ajiwai (心味) sabores espirituais (D) p.21"
+  },
+  {
+    "romaji": "AKAGUI",
+    "kanji": "赤衣",
+    "significado": "vide akaki"
+  },
+  {
+    "romaji": "AKAKI",
+    "kanji": "赤衣",
+    "significado": "1. vestes vermelhas / akaki o mesareta (赤衣を召された) veio a vestir vestes vermelhas (D) p.12; 2. quimono vermelho / hajimete akaki o mesareta (初めて赤衣を召された) vestiu-se de quimono vermelho pela primeira vez. (VO) p.92"
+  },
+  {
+    "romaji": "AKA-NI-MAMIRETA",
+    "kanji": "垢に塗れた",
+    "significado": "encardida (VO) p.16"
+  },
+  {
+    "romaji": "AMAGOI",
+    "kanji": "雨乞い",
+    "significado": "preces pelas chuvas (Of) XIII-118, pedido de chuva (VO) p.142 / amagoi zutome (雨乞いづとめ) Serviço pela Chuva (VO) p.193"
+  },
+  {
+    "romaji": "AMEAZUKE",
+    "kanji": "雨あづけ",
+    "significado": "cessação de chuva (VO) p.142 / amagoi zutome (雨乞いづとめ) o serviço de cessação de chuva (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "ANJIRU",
+    "kanji": "案じる",
+    "significado": "preocupar (preocupo-me) (Of) VII-9"
+  },
+  {
+    "romaji": "ARAKITOURYOU",
+    "kanji": "あらきとうりょう",
+    "significado": "1. arakitoryo / arakitouryou kenshuukai (あらきとうりょう研修会) Encontro de Treinamento dos Arakitoryos; 2. o mestre madeireiro (M) XII-8"
+  },
+  {
+    "romaji": "ASAHAKA",
+    "kanji": "あさはか",
+    "significado": "leviandade / asahaka na ninguen shian (あさはか な 人 間 思 案) leviandade das cogitações humanas (D) p.43"
+  },
+  {
+    "romaji": "ASAOKI",
+    "kanji": "朝起き",
+    "significado": "levantar de manhã / asaoki shojiki hataraki (朝起き、正直、働き) levantar de manhã, ser honesto e trabalhador (E) p.85"
+  },
+  {
+    "romaji": "ASA-ZUTOME",
+    "kanji": "朝づとめ",
+    "significado": "serviço matutino, serviço matinal"
+  },
+  {
+    "romaji": "ASHIKI",
+    "kanji": "あしき",
+    "significado": "1. males / sekaijuu doko ga ashiki ya itamisho (せかいぢうとこがあしきやいたみしよ) No mundo, dizem sofrer-se de males e dores (Of) II-22 / ashiki o haroute (あしきをはろうて) limpando os males (M) 1º setsu; 2. mau / ashiki no mono wa sarani nai zo ya (あしきのものハさらにないぞや) não há em absoluto quem seja mau (Of) I-52; 3. mal / doko ga ashiki to sarani omouna (どこがあしきとさらにをもうな) Não pensem jamais que aí haja algum mal (Of) III-131"
+  },
+  {
+    "romaji": "ATAE",
+    "kanji": "あたえ",
+    "significado": "1. dádiva / ten no atae (天の与え) a dádiva celeste (VO) p.137 / ten yori ni atae o morau (天よりに与えをもらう) que receberá a dádiva do céu (Of) IX-62; 2. o valor / atae wa nanihodo iru totemo (あたえはなにほどいるとても) não importa qual seja o valor necessário (M) VII-7"
+  },
+  {
+    "romaji": "AWARE-NI-OBOSHIMESARERU",
+    "kanji": "あわれに思召される",
+    "significado": "compadecer"
+  },
+  {
+    "romaji": "BAIKA-UNDOU",
+    "kanji": "倍加運動",
+    "significado": "vide kyousei-baika-undou"
+  },
+  {
+    "romaji": "BAI-NO-CHIKARA",
+    "kanji": "倍の力",
+    "significado": "a força dobrada (E) p.113"
+  },
+  {
+    "romaji": "BESSEKI",
+    "kanji": "腹席",
+    "significado": "Besseki / besseki daihon 腹席台本 livro-base do Besseki / besseki dansan 腹席団参 caravana para ouvir Besseki / besseki fuda 腹席札 ficha do Besseki / besseki no chikai 腹席の誓い Juramento do Besseki, voto do Besseki / besseki jou 腹席場 Prédio do Besseki / besseki no junjo o hakobu 腹席の順序を運ぶ conduzimo-nos ordenadamente às sessões de Besseki (D) p.62 / besseki seido 腹席制度 sistema do Besseki / besseki-sha 腹席者 ouvinte do Besseki"
+  },
+  {
+    "romaji": "BESSEKI-GAKARI",
+    "kanji": "腹席掛",
+    "significado": "Seção do Besseki"
+  },
+  {
+    "romaji": "BESSEKI-TORITSUGUI-NIN",
+    "kanji": "腹席取次人",
+    "significado": "vide toritsugui-nin"
+  },
+  {
+    "romaji": "BETSUBI-BETSUNABE",
+    "kanji": "腹火腹鍋",
+    "significado": "alimentos em fogos e panelas separados dos demais (VO) p.81"
+  },
+  {
+    "romaji": "BOCHI-GAKARI",
+    "kanji": "墓地掛",
+    "significado": "Seção do Cemitério"
+  },
+  {
+    "romaji": "BONBORI",
+    "kanji": "ぼんぼり",
+    "significado": "lanterna"
+  },
+  {
+    "romaji": "BU",
+    "kanji": "分",
+    "significado": "unidade de comprimento japonês (1 bu = 0.303cm)"
+  },
+  {
+    "romaji": "BUCHOU",
+    "kanji": "部 長",
+    "significado": "chefe de departamento / tenrikyou kaigaibu buchou 天理教海外道部部長 chefe do Departamento de Missões Exteriores"
+  },
+  {
+    "romaji": "BUNAI",
+    "kanji": "部内",
+    "significado": "afiliado / bunai-junkyou 部内巡教 visita missionária à igreja afiliada / bunai-kyoukai 部内教会 igreja afiliada"
+  },
+  {
+    "romaji": "BUNAN",
+    "kanji": "無難",
+    "significado": "sem dificuldades (vide dainan)"
+  },
+  {
+    "romaji": "BUNKAI",
+    "kanji": "分会",
+    "significado": "associação filial"
+  },
+  {
+    "romaji": "BUNKA-KA",
+    "kanji": "文化体育課",
+    "significado": "Divisão de Cultura e Esportes"
+  },
+  {
+    "romaji": "BUNKYOUKAI",
+    "kanji": "分教会",
+    "significado": "igreja filial (ET) p.9"
+  },
+  {
+    "romaji": "BUNKYOUKAI-CHOU",
+    "kanji": "分教会長",
+    "significado": "condutor da igreja filial"
+  },
+  {
+    "romaji": "BUNSHO",
+    "kanji": "分署",
+    "significado": "sub-delegacia policial / ichinomoto bunsho 檪本分署 Sub-Delegacia Policial de Itinomoto (VO) p.219"
+  },
+  {
+    "romaji": "BUZOKU",
+    "kanji": "部属",
+    "significado": "1. afiliado / buzoku-bunkai 部属分会 associação afiliada, sub-filial / buzoku-bunkyoukai 部属分教会 igreja afiliada / 2. mediata / buzoku-kyoukai 部属教会 igreja mediata (ET) p.24"
+  },
+  {
+    "romaji": "CHANPON",
+    "kanji": "チャンポン",
+    "significado": "címbalo (SS) p.44"
+  },
+  {
+    "romaji": "CHASEN",
+    "kanji": "茶筅",
+    "significado": "tyassen (VO) p.127"
+  },
+  {
+    "romaji": "CHIE-NO-SHIKOMI",
+    "kanji": "知恵の仕込み",
+    "significado": "instrução de inteligência (D) p.23"
+  },
+  {
+    "romaji": "CHIHOU-IIN",
+    "kanji": "地方委員",
+    "significado": "comissário distrital (ET) p.14"
+  },
+  {
+    "romaji": "CHINBA",
+    "kanji": "ちんば",
+    "significado": "manqueira / chinba no tsutome ちんばのつとめ serviço da manqueira (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "CHINZA-HOUKOKU-SAI",
+    "kanji": "鎮座奉告祭",
+    "significado": "Cerimônia do Assentamento do Altar"
+  },
+  {
+    "romaji": "CHINZA-SAI",
+    "kanji": "鎮座祭",
+    "significado": "Festa de Consagração dos Altares (ET) p.20"
+  },
+  {
+    "romaji": "CHOKUZOKU",
+    "kanji": "直属",
+    "significado": "1. diretamente filiada / chokuzoku-bunkai 直属分会 associação diretamente filiada / chokuzoku-bunkai-iinchou 直属分会委員長 diretor da associação diretamente filiada / chokuzoku-bunkyoukai 直属分教会 igreja diretamente filiada / chokuzoku-hinokishin 直属ひのきしん hinokishin da igreja diretamente filiada / chokuzoku-hinokishin-tai 直属ひのきしん隊 corpo de hinokishin da igreja diretamente filiada / chokuzoku-iin-chou 直属委員長 chefe da associação diretamente filiada\n2. imediata / chokuzoku-kyoukai 直属教会 igreja imediata (ET) p.24 / chokuzoku-kyoukai-chou 直属教会長 condutor da igreja imediata"
+  },
+  {
+    "romaji": "CHOUSA-JOUHOU-KA",
+    "kanji": "調査情報課",
+    "significado": "Divisão de Pesquisa e Processamento de Dados"
+  },
+  {
+    "romaji": "CHUUDAN",
+    "kanji": "中段",
+    "significado": "estrado médio (SS) p.8"
+  },
+  {
+    "romaji": "DAI",
+    "kanji": "台",
+    "significado": "1. base, fundamento / hanashi no dai 話の台 a base da explanação (VO) p.47 / hitotsu dai 一つ台 uma base do que se diz / michi no dai 道の台 base do caminho / oshie no dai 教えの台 a base do ensinamento / satoshi no dai 諭しの台 o fundamento da explicação\n2. pedestal (Of) IX-47"
+  },
+  {
+    "romaji": "DAIHYOU-YAKUIN",
+    "kanji": "代表役員",
+    "significado": "diretor representativo"
+  },
+  {
+    "romaji": "DAIKU",
+    "kanji": "大工",
+    "significado": "carpinteiro (M) XII-10"
+  },
+  {
+    "romaji": "DAIKYOUKAI",
+    "kanji": "大教会",
+    "significado": "Igreja-Mor"
+  },
+  {
+    "romaji": "DAIKYOUKAI-CHOU",
+    "kanji": "大教会長",
+    "significado": "condutor da Igreja-Mor"
+  },
+  {
+    "romaji": "DAIMU-SHA",
+    "kanji": "代務者",
+    "significado": "representante"
+  },
+  {
+    "romaji": "DAINAN",
+    "kanji": "大難",
+    "significado": "os grandes males, os grandes infortúnios / dainan wa shounan ni shounan wa bunan ni shuugo saseru 大難は小難に、小難は無難に守護させる reduzirá as grandes dificuldades em pequenas e estas em nada (VO) p.93 / dainan wa shounan ni shounan wa bunan ni michibikareru oyagokoro 大難は小難に小難は無難に導かれる親心 o amor parental que nos guia dos grandes infortúnios para pequenos e destes para a sua extinção (D) p.46"
+  },
+  {
+    "romaji": "DAI-NI-GOYOUBA",
+    "kanji": "第二御用場",
+    "significado": "vide goyouba"
+  },
+  {
+    "romaji": "DAI-NI-SENSHUUKA",
+    "kanji": "第二専修科",
+    "significado": "1. Dai-ni-senshuuka\n2. Curso de Especialização Dai-ni do Seminário de Tenri (ET) p.32"
+  },
+  {
+    "romaji": "DAME-NO-OSHIE",
+    "kanji": "最後の教え",
+    "significado": "1. derradeiro ensinamento (D) p.26\n2. última doutrina (VO) p.255"
+  },
+  {
+    "romaji": "DAN-SAN",
+    "kanji": "団参",
+    "significado": "caravana em grupo"
+  },
+  {
+    "romaji": "DANJI-AU",
+    "kanji": "談示合う",
+    "significado": "deliberar (Of) VI-84"
+  },
+  {
+    "romaji": "DANJIKI",
+    "kanji": "断食",
+    "significado": "jejum (VO) p.81"
+  },
+  {
+    "romaji": "DENAOSHI",
+    "kanji": "出直し",
+    "significado": "retornamento (Dn) 28"
+  },
+  {
+    "romaji": "DENDOU",
+    "kanji": "伝道",
+    "significado": "missão (transmissão)"
+  },
+  {
+    "romaji": "DENDOU-CHOU",
+    "kanji": "伝道庁",
+    "significado": "1. sede missionária\n2. Igreja Tenrikyo de Dendotyo / burajiru dendouchou ブラジル伝道庁 Igreja Tenrikyo de Dendotyo do Brasil"
+  },
+  {
+    "romaji": "DENDOU-CHOU-CHOU",
+    "kanji": "伝道庁長",
+    "significado": "primaz da sede missionária (ET) p.5"
+  },
+  {
+    "romaji": "DENDOU-KATEI",
+    "kanji": "伝道課程",
+    "significado": "Currículo de Missionário (da Universidade Tenri) (ET) p.29"
+  },
+  {
+    "romaji": "DENDOU-SHICHOU",
+    "kanji": "伝道支庁",
+    "significado": "sucursal missionária (ET) p.35"
+  },
+  {
+    "romaji": "DENGU",
+    "kanji": "伝供",
+    "significado": "portadores (SS) p.21"
+  },
+  {
+    "romaji": "DENJI",
+    "kanji": "田地",
+    "significado": "o terreno de plantio (M) VII-7"
+  },
+  {
+    "romaji": "DENKI-KA",
+    "kanji": "電気課",
+    "significado": "Divisão de Eletricidade"
+  },
+  {
+    "romaji": "DENSAN-KA",
+    "kanji": "電算課",
+    "significado": "Divisão de Informática"
+  },
+  {
+    "romaji": "DOKUIMI",
+    "kanji": "毒いみ",
+    "significado": "1. não comer certos alimentos considerados tabus (VO) p.30\n2. dietas (E) p.26"
+  },
+  {
+    "romaji": "DOUGU",
+    "kanji": "道具",
+    "significado": "instrumentos / dougu hinagata no tamashii 道具雛型の魂 as almas dos protótipos e instrumentos (VO) p.241 / nanto dougu o midasu moyou o なんとどふぐをみたすもよふを Preparos foram feitos para procurar os instrumentos (Of) VI-82"
+  },
+  {
+    "romaji": "DOUGU-SHUU",
+    "kanji": "道具衆",
+    "significado": "servo ou instrumento"
+  },
+  {
+    "romaji": "DOJOU",
+    "kanji": "どじょう",
+    "significado": "1. cadozes / sono naka yori mo dojou bakari ya そのなかよりもどちよばかりや no seu interior, existiam somente cadozes (Of) IV-122\n2. dojôs; peixe de água-doce, alongada e sem escamas, que vive comumente no Japão, conhecido cientificamente como misgurus anguillicaudata (cf. dicionário da Kenkyuusha e da Shougakukan) ou cobitis bimae, com muitas características semelhantes ao siluro, espécime inexistente no Brasil, ou ao muçum (symbranchus marmotus cf. Moderno Dicionário de Língua Portuguesa Michaelis) no Brasil (Dn) 22"
+  },
+  {
+    "romaji": "DOUJOU",
+    "kanji": "道場",
+    "significado": "academia / tasuke no doujou たすけの道場 academia da salvação"
+  },
+  {
+    "romaji": "DORO-MIZU",
+    "kanji": "泥水",
+    "significado": "1. o mar de lama / kono okata doromizu naka o misumashite よくにきりないどろみずや Eles, observando por todo o mar de lama, (Of) XVI-13\n2. as águas lamacentas / doromizu naka i hameru gotoku ya とろみづなかいはめるごとくや será o mesmo que lançá-los nas águas lamacentas (Of) XVI-73\n3. lamaçal / yoku ni kiri nai doromizu ya よくにきりないどろみずや a ambição é um lamaçal sem fim (M) X-4"
+  },
+  {
+    "romaji": "DORO-UMI",
+    "kanji": "泥海",
+    "significado": "1. lamacento mar / doro umi 泥海 lamacento mar (VO) p.163\n2. o mar de lama / doro no umi 泥の海 um mar de lama (Of) IV-122"
+  },
+  {
+    "romaji": "DOUYUU-SHA",
+    "kanji": "道友社",
+    "significado": "Editora Doyusha"
+  },
+  {
+    "romaji": "EIZEN-BU",
+    "kanji": "営繕部",
+    "significado": "Departamento de Construção e Manutenção"
+  },
+  {
+    "romaji": "EIZEN-KA",
+    "kanji": "営繕課",
+    "significado": "Divisão de Construção e Manutenção"
+  },
+  {
+    "romaji": "ENSUI-GYOUJI",
+    "kanji": "塩水行事",
+    "significado": "cerimônia da purificação com sal e água"
+  },
+  {
+    "romaji": "ENZA",
+    "kanji": "円座",
+    "significado": "almofada redonda"
+  },
+  {
+    "romaji": "FUCHINAKA",
+    "kanji": "淵中",
+    "significado": "abismos profundos (Of) I-48"
+  },
+  {
+    "romaji": "FUDESAKI",
+    "kanji": "筆先",
+    "significado": "vide ofudesaki"
+  },
+  {
+    "romaji": "FUE",
+    "kanji": "笛",
+    "significado": "flauta (SS) p.44"
+  },
+  {
+    "romaji": "FUUFU",
+    "kanji": "夫 婦",
+    "significado": "1. casal humano / fuufu-no-hinagata 夫婦の雛型 o modelo original de casal humano (D) p.20\n2. marido e mulher / fuufu-no-ri 夫婦の理 a razão do marido e mulher (VO) p.79\n/ fuufu-soroute-hinokishin 夫婦そろうてひのきしん marido e mulher juntos no hinokishin (M) XI-2"
+  },
+  {
+    "romaji": "FUGU",
+    "kanji": "ふぐ",
+    "significado": "baiacu (D) p.21"
+  },
+  {
+    "romaji": "FUJIN-KAI",
+    "kanji": "婦人会",
+    "significado": "Associação Feminina / fujin-kai-honbu 婦人会本部 Sede da Associação Feminina /\nfujin-kai-joshi-seinen-bu 婦人会女子青年部 Grupo de Moças da Associação Feminina"
+  },
+  {
+    "romaji": "FUKU",
+    "kanji": "吹く",
+    "significado": "brotar / eda ga fuku 枝が吹く os ramos brotaram /\nfushi kara me ga fuku 節から芽が吹く do nó saem brotos (VO) p.218"
+  },
+  {
+    "romaji": "FUKUGUEN",
+    "kanji": "復元",
+    "significado": "restauração (C) p.110"
+  },
+  {
+    "romaji": "FUKUMEN",
+    "kanji": "覆蔓",
+    "significado": "máscara"
+  },
+  {
+    "romaji": "FUKU-SAISHUU",
+    "kanji": "副祭主",
+    "significado": "vice-oficiante"
+  },
+  {
+    "romaji": "FUKUSHI-KA",
+    "kanji": "福祉課",
+    "significado": "Divisão de Assistência Social"
+  },
+  {
+    "romaji": "FUKUSHI-YOUBOKU-TAIKAI",
+    "kanji": "福祉よふぼく大会",
+    "significado": "Encontro Assistencial de Yobokus"
+  },
+  {
+    "romaji": "FUKYOU",
+    "kanji": "布教",
+    "significado": "missionamento / chiiki fukyou 地域布教 missionamento regional /\nkaigai fukyou 海外布教 missionamento ultramarino /\nkokunai fukyou 国内布教 missionamento doméstico /\ntandoku fukyou 単独布教 missionamento isolado /\ntandoku fukyou sha 単独布教者 missionário que atua isoladamente /\nyoko no fukyou 横の布教 missionamento horizontal /\nfukyou katsudou 布教活動 atividades missionárias /\nfukyou kouwa 布教講話 palestra missionária"
+  },
+  {
+    "romaji": "FUKYOU-BU",
+    "kanji": "布教部",
+    "significado": "Departamento de Divulgação"
+  },
+  {
+    "romaji": "FUKYOU-IIN-KAI",
+    "kanji": "布教委員会",
+    "significado": "Comissão de Missionamento / amerika fukyou iin kai アメリカ布教委員会 Comissão Missionária dos Estados Unidos"
+  },
+  {
+    "romaji": "FUKYOU-IKKA",
+    "kanji": "布教一課",
+    "significado": "Divisão de Divulgação I"
+  },
+  {
+    "romaji": "FUKYOU-JISSHUU-GAKARI",
+    "kanji": "布教実習掛",
+    "significado": "Seção de Práticas Missionárias"
+  },
+  {
+    "romaji": "FUKYOU-KANRI-SHO",
+    "kanji": "布教管理所",
+    "significado": "escritório administrativo de missões /\ntenrikyou chousen fukyou kanri sho 天理教朝鮮布教管理所 Escritório Administrativo de Missões da Tenrikyo da Coréia"
+  },
+  {
+    "romaji": "FUKYOU-KENSHUU-SHO",
+    "kanji": "布教研修所",
+    "significado": "centro de treinamento missionário"
+  },
+  {
+    "romaji": "FUKYOU-KENSHUU-TAI",
+    "kanji": "布教研修隊",
+    "significado": "corpo de treinamento missionário"
+  },
+  {
+    "romaji": "FUKYOU-KYOUTEN",
+    "kanji": "布教拠点",
+    "significado": "base missionária"
+  },
+  {
+    "romaji": "FUKYOU-NIKA",
+    "kanji": "布教二課",
+    "significado": "Divisão de Divulgação II"
+  },
+  {
+    "romaji": "FUKYOU-NO-IE",
+    "kanji": "布教の家",
+    "significado": "casa de missionamento (FD)"
+  },
+  {
+    "romaji": "FUKYOU-SHI",
+    "kanji": "布教師",
+    "significado": "missionário"
+  },
+  {
+    "romaji": "FUKYOU-SHO",
+    "kanji": "布教所",
+    "significado": "casa de divulgação"
+  },
+  {
+    "romaji": "FUKYOU-SHO-CHOU",
+    "kanji": "布教所長",
+    "significado": "condutor de casa de divulgação"
+  },
+  {
+    "romaji": "FUKYOU-SUISHIN-YOUIN",
+    "kanji": "布教推進要員",
+    "significado": "líder-promotor do missionamento"
+  },
+  {
+    "romaji": "FUKYOU-SURU",
+    "kanji": "布教する",
+    "significado": "divulgar, missionar"
+  },
+  {
+    "romaji": "FUNBARU",
+    "kanji": "踏ん張る",
+    "significado": "sustentar / oya ga funbaru をやがふんばる o Parens os sustentará (Of) XV-8 /\nshika to funbaru しかとふんばる sustentará firme (Of) XIII-99"
+  },
+  {
+    "romaji": "FUSEKOMI",
+    "kanji": "伏せ込み",
+    "significado": "devotamento (E) p.90, dedicação sincera"
+  },
+  {
+    "romaji": "FUSEKOMU",
+    "kanji": "伏せ込む",
+    "significado": "dedicar / kono yashiki ni shougai fusekomu この屋敷に生涯伏せ込む dedicar toda vida à Residência /\nkyokai ni fusekomu 教会に伏せ込む dedicar-se à igreja"
+  },
+  {
+    "romaji": "FUSHI",
+    "kanji": "節",
+    "significado": "1. nó / fushi kara me ga deru 節から芽が出る do nó saem brotos (D) p.55 /\nfushi kara me ga fuku 節から芽が吹く do nó saem brotos (VO) p.218\n2. oportunidade (de reformar o espírito) / kokoro o irekaeru fushi 心を入れ替える節 oportunidades de reformar o nosso espírito (D) p.45"
+  },
+  {
+    "romaji": "FUSHIGUI",
+    "kanji": "不思議",
+    "significado": "1. maravilhosa / korekara mieru fushigui aizu ga これからみゑるふしぎあいづが Doravante, os sinais maravilhosos serão vistos (Of) III-5\n2. extraordinária / fushigui na tasuke ふしぎなたすけ graças extraordinárias (VO) p.107"
+  },
+  {
+    "romaji": "FUSHIN",
+    "kanji": "ふしん",
+    "significado": "construção / fushin no jama ni naru to koso shire ふしんのしやまになるとこそしれ saibam que será um obstáculo para a construção (Of) I-35 /\nkirinashi fushin きりなしふしん a incessante construção (D) p.69 /\noyasato fushin おやさとふしん construção de Oyassato /\noyasato fushin seinen kai hinokishin tai おやさとふしん青年会ひのきしん隊 Corpo de Hinokishin da Construção de Oyassato da Associação dos Moços (C) p.117"
+  },
+  {
+    "romaji": "FUSHIN-IIN-KAI",
+    "kanji": "ふしん委員会",
+    "significado": "comitê de construção"
+  },
+  {
+    "romaji": "FUSOKU",
+    "kanji": "不足",
+    "significado": "deficiência (Of) XII-118"
+  },
+  {
+    "romaji": "FUTATSU-HITOTSU",
+    "kanji": "二つ一つ",
+    "significado": "\"dois em um\" / futatsu hitotsu ga ten no ri 二つ一つが天の理 “Dois em um é a razão celeste” (K)"
+  },
+  {
+    "romaji": "FUTOKORO",
+    "kanji": "懐",
+    "significado": "o seio / atatakai oyagami no futokoro ni idakareru 温かい親神の懐に抱かれる estar abrigado no terno seio de Deus-Parens (D) p.67"
+  },
+  {
+    "romaji": "FUTOKU",
+    "kanji": "不徳",
+    "significado": "desvirtude (E) p.85"
+  },
+  {
+    "romaji": "FUZOKU-KOUKOU",
+    "kanji": "付属高校",
+    "significado": "Colégio Fuzoku do Seminário de Tenri (ET) p.30"
+  },
+  {
+    "romaji": "GAGAKU",
+    "kanji": "雅楽",
+    "significado": "gagaku (SS) p.1"
+  },
+  {
+    "romaji": "GAKEMICHI",
+    "kanji": "崖道",
+    "significado": "trilhas em precipício (Of) I-47"
+  },
+  {
+    "romaji": "GAKKOU-HOUJIN-XXX",
+    "kanji": "学校法人 XXX",
+    "significado": "procure por “XXX”"
+  },
+  {
+    "romaji": "GAKKOU-HONBU",
+    "kanji": "学校本部",
+    "significado": "Sede Administrativa das Escolas"
+  },
+  {
+    "romaji": "GAKUNIN",
+    "kanji": "楽人",
+    "significado": "gakunin (4) p.290"
+  },
+  {
+    "romaji": "GAKURYOU",
+    "kanji": "学寮",
+    "significado": "dormitório escolar"
+  },
+  {
+    "romaji": "GAKUSEI-KAI",
+    "kanji": "学生会",
+    "significado": "Associação dos Estudantes"
+  },
+  {
+    "romaji": "GAKUSEI-TANTOU-IIN-KAI",
+    "kanji": "学生生徒修養会",
+    "significado": "Comissão de Encarregados de Estudantes"
+  },
+  {
+    "romaji": "GAN-MICHIRU",
+    "kanji": "願満ちる",
+    "significado": "completar o período prometido das preces (VO) p.17"
+  },
+  {
+    "romaji": "GANTAN-SAI",
+    "kanji": "元旦祭",
+    "significado": "Festa do Ano-Novo (FD)"
+  },
+  {
+    "romaji": "GENKAN-GAKARI",
+    "kanji": "玄関掛",
+    "significado": "Seção de Recepção"
+  },
+  {
+    "romaji": "GO-HEI",
+    "kanji": "御幣",
+    "significado": "gohei / gohei no sazuke 御幣のさづけ - Concessão do Gohei (VO) p.262"
+  },
+  {
+    "romaji": "GOJUU-SODEN",
+    "kanji": "五重相傳",
+    "significado": "a Transmissão dos Cinco Mistérios da Jodo (VO) p.13"
+  },
+  {
+    "romaji": "GOKINAI",
+    "kanji": "五畿内",
+    "significado": "Gokinai; é a grande área formada de Kyoto e cinco regiões circunvizinhas (Dn) 35"
+  },
+  {
+    "romaji": "GOKU",
+    "kanji": "御供",
+    "significado": "goku, oferenda abençoada ou consagrada em Jiba (VO) p.256"
+  },
+  {
+    "romaji": "GOKU-SHO-GAKARI",
+    "kanji": "御供所掛",
+    "significado": "Seção do Goku"
+  },
+  {
+    "romaji": "GOKURAKU",
+    "kanji": "極楽",
+    "significado": "o paraíso / konoyo no gokuraku この世の極楽 - o paraíso deste mundo (M) IV-9"
+  },
+  {
+    "romaji": "GO-KUROU",
+    "kanji": "御苦労",
+    "significado": "os sacrifícios / saigo no gokurou 最後の御苦労 - último sacrifício (VO) p.212"
+  },
+  {
+    "romaji": "GO-KYUUSOKU-SHO",
+    "kanji": "御休息所",
+    "significado": "a Casa de Repouso de Oyassama (VO) p.200"
+  },
+  {
+    "romaji": "GOMA",
+    "kanji": "護摩",
+    "significado": "o fogo (sagrado) (VO) p.3, queimar cedros (VO) p.113"
+  },
+  {
+    "romaji": "GONCHUUKYOUSEI",
+    "kanji": "権中教正",
+    "significado": "instrutor doutrinário (VO) p.220"
+  },
+  {
+    "romaji": "GO-ON-HOUJI",
+    "kanji": "御恩報じ",
+    "significado": "retribuição das graças"
+  },
+  {
+    "romaji": "GOU",
+    "kanji": "合",
+    "significado": "unidade de medida de volume japonês (1 gou = 180 ml)"
+  },
+  {
+    "romaji": "GOUSHI",
+    "kanji": "合祀",
+    "significado": "assentamento da alma no altar / goushi sai 合祀祭 - festa do assentamento da alma no altar"
+  },
+  {
+    "romaji": "GO-SHUGO",
+    "kanji": "御守護",
+    "significado": "vide shugo"
+  },
+  {
+    "romaji": "GOYOUBA",
+    "kanji": "御用場",
+    "significado": "Recinto de Trabalho / dai ni goyouba 第二御用場 - segundo recinto de trabalho / dai san goyouba 第三御用場 - terceiro recinto de trabalho"
+  },
+  {
+    "romaji": "GOYOUKATA-SHITSU",
+    "kanji": "御用方室",
+    "significado": "Escritório de Concessões e Sanções"
+  },
+  {
+    "romaji": "GOUYOKU",
+    "kanji": "ごうよく",
+    "significado": "ambição desmedida (Of) VI-121"
+  },
+  {
+    "romaji": "GUENKAN-GAKARI",
+    "kanji": "玄関掛",
+    "significado": "Seção da Recepção"
+  },
+  {
+    "romaji": "GUENTEN",
+    "kanji": "原典",
+    "significado": "textos originais"
+  },
+  {
+    "romaji": "GYOUMU-KA",
+    "kanji": "業務課",
+    "significado": "Divisão de Serviços"
+  }
+]
