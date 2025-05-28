@@ -26,14 +26,19 @@ function App() {
 //filtered: armazena a lista filtrada de termos com base na query.
   const [filtered, setFiltered] = useState<Termo[]>([]);
 
+  const [loading, setLoading] = useState(true);
 // Carrega JSON ao iniciar
 // useEffect: executa a função ao montar o componente.
   useEffect(() => {
     const fetchJSON = async () => {
       try {
         // fetch('/works.json'): busca o arquivo JSON no servidor.
-        const response = await fetch('../src/data/works.json');
+        const response = await fetch('/data/works.json');
         
+         if (!response.ok) {
+          throw new Error(`Erro HTTP! status: ${response.status}`);
+        }
+
         // await response.json(): converte a resposta para um objeto JavaScript(JSON)
         const data: Termo[] = await response.json();
         
@@ -43,6 +48,8 @@ function App() {
         setFiltered(data);
       }catch(error){
         console.error('Erro ao carregar JSON:', error);
+      }finally {
+        setLoading(false);
       }
     };
     
@@ -111,7 +118,10 @@ function App() {
         {/* Botão que permite executar manual a busca, além da automática.
         Ao clicar, chama filtrar(). */}
       </div>
-
+      
+      {loading ? (
+        <p>Carregando...</p>
+      ):(
       <ul>
         {/* Percorre cada termo da lista filtered.
             Mostra romaji, kanji e significado.
@@ -124,6 +134,7 @@ function App() {
           </li>
         ))}
       </ul>
+      )}
     </div>
   );
 }
