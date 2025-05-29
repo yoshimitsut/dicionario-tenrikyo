@@ -768,5 +768,4350 @@
     "romaji": "GYOUMU-KA",
     "kanji": "業務課",
     "significado": "Divisão de Serviços"
+  },
+  {
+    "romaji": "HABIKARU",
+    "kanji": "はびかる",
+    "significado": "alastrar / imamade wa takai yama ya to habikarite いまゝでハ高い山やとはびかりて Embora até agora os altos montes viessem se alastrando (Of) VI-72"
+  },
+  {
+    "romaji": "HACCHOU-SHIHOU",
+    "kanji": "八丁四方",
+    "significado": "oito chôs, quatro lados (8 chôs = 873 metros)"
+  },
+  {
+    "romaji": "HAEDE",
+    "kanji": "萌え出",
+    "significado": "brotamento / haede no tsutome はえでのつとめ serviço do brotamento (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "HAHAOYA-KOUZA",
+    "kanji": "母親講座",
+    "significado": "curso para as mães"
+  },
+  {
+    "romaji": "HAI-O-SURU",
+    "kanji": "拝をする",
+    "significado": "fazer reverência / shinzen o toru toki niwa hai o suru 神前を帳る時には、拝をする fazer reverência ao passar em frente aos santuários (VO) p.45"
+  },
+  {
+    "romaji": "HAI-SURU",
+    "kanji": "拝する",
+    "significado": "reverenciar / oyagami o haisuru 親神を拝する reverenciar Deus-Parens"
+  },
+  {
+    "romaji": "HAKKA-GUSURI",
+    "kanji": "薄荷薬",
+    "significado": "medicamentos como o analgésico de mentol (VO) p.2"
+  },
+  {
+    "romaji": "HAKOBU",
+    "kanji": "運 ぶ",
+    "significado": "conduzir / besseki junjo o hakobu 腹 席 順 序 を 運 ぶ conduzimo-nos ordenadamente às sessões de Besseki (D) p.62 / hakobu tsukusu hitotsu no ri 運ぶ尽くす一つの理 razão do conduzir-se e dedicar-se (K) / sekai no jijou hakobu 世界の事情運ぶ conduzir de acordo com as condições do mundo"
+  },
+  {
+    "romaji": "HANASHI-NO-DAI",
+    "kanji": "話の台",
+    "significado": "vide dai"
+  },
+  {
+    "romaji": "HAORI",
+    "kanji": "羽織",
+    "significado": "haori"
+  },
+  {
+    "romaji": "HAPPI",
+    "kanji": "はっぴ",
+    "significado": "happi"
+  },
+  {
+    "romaji": "HARADACHI",
+    "kanji": "はらだち",
+    "significado": "raiva (D) p.50"
+  },
+  {
+    "romaji": "HARAOBI",
+    "kanji": "腹帯",
+    "significado": "faixa obstétrica (E) p.26, faixa protetora do ventre"
+  },
+  {
+    "romaji": "HARASU",
+    "kanji": "はらす",
+    "significado": "dissipar / kami no zannen harasu 神のさんねんはらす Dissiparei o pesar de Deus (Of) XVII-33"
+  },
+  {
+    "romaji": "HASHIRA",
+    "kanji": "柱",
+    "significado": "pilar / kuni no hashira 国の柱 pilares da nação (Of) VII-17 / shin no hashira 真の柱 pilar central (Of) III-12 / hashira o tateta 柱をたてた levantarem o pilar (Of) X-11"
+  },
+  {
+    "romaji": "HASSOKU",
+    "kanji": "八足",
+    "significado": "mesinha (SS) p.27"
+  },
+  {
+    "romaji": "HATARAKI",
+    "kanji": "働き",
+    "significado": "1. trabalho / hataraki mo ikanaru koto to omou kana 働きもいかなることと思うかな O que pensam serem estes trabalhos? (Of) V-50 / juuyo jizai no hataraki o suru 自由自在の働きをする realizarei os trabalhos onipotentes (Of) X-100 / shinjitsu no hataraki 真実の働き o verdadeiro trabalho (E) p.85 2. trabalhador / asaoki shojiki hataraki 朝起き、正直、働き levantar de manhã, ser honesto e trabalhador (E) p.85"
+  },
+  {
+    "romaji": "HATARAKU",
+    "kanji": "働 く",
+    "significado": "trabalhar / kami ga hataraku 神 が 働 く o Deus trabalhará (D) p.63 / korekara wa nichinichi tsukihi hataraku de これからハにち／＼月日はたらくで Doravante, Tsukihi trabalhará dia a dia. (Of) XIV-15"
+  },
+  {
+    "romaji": "HATSUKA-TAI",
+    "kanji": "二十日隊",
+    "significado": "corpo de hinokishin de vinte dias"
+  },
+  {
+    "romaji": "HATTAIKO",
+    "kanji": "ハッタイ粉",
+    "significado": "hattaiko; pó de cevada ou trigo torrado levemente (VO) p.256"
+  },
+  {
+    "romaji": "HEIHAKU",
+    "kanji": "幤帛",
+    "significado": "as tiras de tecidos de seda (VO) p.92"
+  },
+  {
+    "romaji": "HENSHUU-SHUPPAN-KA",
+    "kanji": "編集出版課",
+    "significado": "Divisão de Edição e Publicação"
+  },
+  {
+    "romaji": "HIGASHI-RAIHAI-JOU",
+    "kanji": "東礼拝場",
+    "significado": "Recinto de Reverência Leste"
+  },
+  {
+    "romaji": "HIKIDASHI",
+    "kanji": "引き出し",
+    "significado": "a função da extração / hikidashi issai 引き出し一切 extração em geral (D) p.31"
+  },
+  {
+    "romaji": "HIKIDASU",
+    "kanji": "引き出す",
+    "significado": "extrair / oya no tainai kara ko o hikidasu 親の胎内から子を引き出す extrair a criança do útero da mãe (D) p.31"
+  },
+  {
+    "romaji": "HIKITORU",
+    "kanji": "引き取る",
+    "significado": "cortar / iki o hikitoru 息を引き取る cortar a respiração (D) p.31"
+  },
+  {
+    "romaji": "HIMITSU-KUNREI",
+    "kanji": "秘密訓令",
+    "significado": "Portaria Confidencial (C) p.19"
+  },
+  {
+    "romaji": "HINAGATA",
+    "kanji": "雛型",
+    "significado": "1. modelo / fuufu no hinagata 夫婦の雛型 o modelo original de casal humano (D) p.20 / hinagata kanrodai 雛型かんろだい modelo de Pedestal do Néctar 2. vida-modelo / hinagata ひながた vida-modelo (D) p.35 / tasukaru michi no hinagata たすかる道の雛型 caminho da salvação através da vida-modelo (VO) p.19 3. protótipo / onna hinagata 女雛型 o protótipo da mulher (D) p.21 / otoko hinagata 男雛型 o protótipo do homem (D) p.21"
+  },
+  {
+    "romaji": "HIN-NO-DONZOKO",
+    "kanji": "貧のどん底",
+    "significado": "profunda pobreza / hin no donzoko ni ochikiru 貧のどん底に落ちきる mergulhar na profunda pobreza (D) p.5"
+  },
+  {
+    "romaji": "HINOKISHIN",
+    "kanji": "ひのきしん",
+    "significado": "1. hinokishin / hinokishin dee ひのきしんデー dia de hinokishin / washi mo korekara hinokishin わしもこれからひのきしん Doravante, eu também farei o hinokishin (M) III-8 2. dedicação do dia ou diária / hinokishin to oshierareru ひのきしんと教えられる ensinado como hinokishin ou dedicação do dia. (D) p.55"
+  },
+  {
+    "romaji": "HINOKISHIN-GAKARI",
+    "kanji": "ひのきしん掛",
+    "significado": "Seção de Hinokishin"
+  },
+  {
+    "romaji": "HINOKISHIN-KA",
+    "kanji": "ひのきしん課",
+    "significado": "Divisão de Hinokishin"
+  },
+  {
+    "romaji": "HINOKISHIN-TAI",
+    "kanji": "ひのきしん隊",
+    "significado": "corpo de hinokishin / shounen hinokishintai 少年ひのきしん隊 Corpo de Hinokishin Infanto-Juvenil"
+  },
+  {
+    "romaji": "HINOMOTO",
+    "kanji": "ひのもと",
+    "significado": "fonte do sol (M) XI-1 (vide também nihon)"
+  },
+  {
+    "romaji": "HINOMOTO-BUNKO",
+    "kanji": "ひのもと文庫",
+    "significado": "biblioteca Hinomoto"
+  },
+  {
+    "romaji": "HIRABACHI",
+    "kanji": "平鉢",
+    "significado": "um tacho raso (VO) p.98"
+  },
+  {
+    "romaji": "HIRABONE-NO-OUGUI",
+    "kanji": "平骨の扇",
+    "significado": "o leque de armação plana (VO) p.38"
+  },
+  {
+    "romaji": "HI-SAMA",
+    "kanji": "日様",
+    "significado": "Hi-sama (Sol) (D) p.22"
+  },
+  {
+    "romaji": "HITSUJI-SARU",
+    "kanji": "坤",
+    "significado": "sudoeste (D) p.21"
+  },
+  {
+    "romaji": "HITO-DASUKE",
+    "kanji": "人だすけ",
+    "significado": "a salvação dos outros (D) p.59 / hito tasuketara wagami tasukaru 人たすけたら我が身たすかる salvar os outros é salvar a ti mesmo (S) p.10"
+  },
+  {
+    "romaji": "HITOSUJI",
+    "kanji": "一すじ",
+    "significado": "1. sincero / oyagokoro hitosuji 親心一すじ sincero amor parental (VO) p.253 2. intenso / kodomo kawaii hitosuji no oboshimeshi kara 子供可愛い一すじの思召しから Em virtude do intenso amor pelos filhos (VO) p.20 3. único / hitosuji gokoro 一すじ心 espírito único (M) III-6 4. plenamente / hitosuju ni oyagami ni moterete 一すじに親神にもたれて amparados plenamente nele (D) p.7"
+  },
+  {
+    "romaji": "HO",
+    "kanji": "法",
+    "significado": "ritos / imamade wa ika naru hou to yuuta tote いまゝでハいかなるほふとゆうたとて Até agora, vieram falando de certos ritos (Of) V-36"
+  },
+  {
+    "romaji": "HOAN-SHITSU",
+    "kanji": "保安室",
+    "significado": "Escritório da Segurança"
+  },
+  {
+    "romaji": "HOKORI",
+    "kanji": "ほこり",
+    "significado": "poeira / kokoro no hokori 心のほこり as poeiras do espírito (D) p.50 / 10yattsu no hokori 八つのほこり oito espécies de poeiras (D) p.50"
+  },
+  {
+    "romaji": "HOKUBEI-OSEANIA-KA",
+    "kanji": "北米・ｵｾｱﾆｱ課",
+    "significado": "Divisão de América do Norte e Oceania"
+  },
+  {
+    "romaji": "HONBU",
+    "kanji": "本部",
+    "significado": "Sede / fujin kai honbu 婦人会本部 Sede da Associação Feminina / seinen kai honbu 青年会本部 Sede da Associação dos Moços / shounen kai honbu 少年会本部 Sede da Associação Infanto-Juvenil / tenrikyou kyoukai honbu 天理教教会本部 Sede da Igreja Tenrikyo"
+  },
+  {
+    "romaji": "HONBU-FUJIN",
+    "kanji": "本部婦人",
+    "significado": "Honbu-fujin, senhoras da Sede"
+  },
+  {
+    "romaji": "HONBU-IN",
+    "kanji": "本部員",
+    "significado": "1. Honbu-in 2. ministros da Sede (ET) p.5"
+  },
+  {
+    "romaji": "HONBU-IN-KAIGUI",
+    "kanji": "本部員会議",
+    "significado": "Conselho dos Ministros da Sede (ET) p.4"
+  },
+  {
+    "romaji": "HONBU-JOSHI-SEINEN",
+    "kanji": "本部女子青年",
+    "significado": "Honbu-joshi-seinen, moças da Sede"
+  },
+  {
+    "romaji": "HONBU-JUN’IN",
+    "kanji": "本部准員",
+    "significado": "Honbu-jun’in, vice-ministros da Sede (ET) p.5"
+  },
+  {
+    "romaji": "HONBU-KAIGUI-SHO",
+    "kanji": "本部会議所",
+    "significado": "Salão de reunião da Sede"
+  },
+  {
+    "romaji": "HONBU-KAIKEI-KANSA-KAI",
+    "kanji": "本部会計監査会",
+    "significado": "Comissão Fiscal da Sede"
+  },
+  {
+    "romaji": "HONBU-NAKANIWA",
+    "kanji": "本部中庭",
+    "significado": "pátio central da Sede"
+  },
+  {
+    "romaji": "HONBU-SEINEN",
+    "kanji": "本部青年",
+    "significado": "Honbu-seinen, moços da Sede"
+  },
+  {
+    "romaji": "HONBU-SHINDEN",
+    "kanji": "本部神殿",
+    "significado": "Santuário Principal (FD)"
+  },
+  {
+    "romaji": "HONBU-SHOKUDOU",
+    "kanji": "本部食堂",
+    "significado": "Refeitório da Sede / dai ichi shokudo 第一食堂 Primeiro Refeitório da Sede / dai ni shokudo 第二食堂 Segundo Refeitório da Sede"
+  },
+  {
+    "romaji": "HONBU-TSUKINAMI-SAI",
+    "kanji": "本部月次祭",
+    "significado": "serviço mensal da Sede"
+  },
+  {
+    "romaji": "HONBU-TSUMESHO",
+    "kanji": "本部詰所",
+    "significado": "local de reunião dos encarregados da Sede"
+  },
+  {
+    "romaji": "HONCHI",
+    "kanji": "本地",
+    "significado": "a matriz (VO) p.51"
+  },
+  {
+    "romaji": "HONE-TSUPPARI",
+    "kanji": "骨つっぱり",
+    "significado": "estrutura óssea ou esqueleto suportador / hone tsuppari 骨 つ っ ぱ り esqueleto suportador (D) p.31 / hone tsuppari no dougu 骨 つ っ ぱ り の 道 具 a estrutura óssea com a função de suportar o corpo (D) p.21"
+  },
+  {
+    "romaji": "HONKA",
+    "kanji": "本科",
+    "significado": "Curso Fundamental ou Superior do Seminário de Tenri (ET) p.32"
+  },
+  {
+    "romaji": "HON-MICHI",
+    "kanji": "本道",
+    "significado": "caminho real / tada hitosuji no honmichi ni deyo ただ一すぢのほんみちに出でよ sigam apenas o caminho real (Of) V-30"
+  },
+  {
+    "romaji": "HONSEKI",
+    "kanji": "本席",
+    "significado": "Honseki (VO) p.256"
+  },
+  {
+    "romaji": "HON’YAKU-GOUDOU-KAIGUI",
+    "kanji": "翻訳合同会議",
+    "significado": "reunião conjunta de tradução"
+  },
+  {
+    "romaji": "HON’YAKU-IIN",
+    "kanji": "翻訳委員",
+    "significado": "membros da Comissão de Tradução"
+  },
+  {
+    "romaji": "HON’YAKU-IIN-KAI",
+    "kanji": "翻訳委会",
+    "significado": "Comissão de Tradução"
+  },
+  {
+    "romaji": "HON’YAKU-KA",
+    "kanji": "翻訳課",
+    "significado": "Divisão de Tradução"
+  },
+  {
+    "romaji": "HON-ZUTOME",
+    "kanji": "本づとめ",
+    "significado": "o serviço autêntico (VO) p.263"
+  },
+  {
+    "romaji": "HOSHII",
+    "kanji": "ほしい",
+    "significado": "1. cobiça / kono michi ha oshii hoshii to kawaii to yoku to kouman kore ga hokoriya このみちハをしいほしいと よくとこふまんこれがほこりや Este caminho é a mesquinhez, cobiça e o amor-próprio, a ambição e o orgulho. Estas são as poeiras. (Of) III-96 2. desejar / ooku youki ga hoshii koto kara をふくよふきがほしい事から pois desejo muitas árvores usáveis. (Of) III-130"
+  },
+  {
+    "romaji": "HOSOI-MICHI",
+    "kanji": "細い道",
+    "significado": "um caminho estreito (Of) I-48"
+  },
+  {
+    "romaji": "HOSO-MICHI",
+    "kanji": "細道",
+    "significado": "o caminho estreito (Of) I-49"
+  },
+  {
+    "romaji": "HOUKE",
+    "kanji": "ほうけ",
+    "significado": "vide houki"
+  },
+  {
+    "romaji": "HOUKI",
+    "kanji": "ほうき",
+    "significado": "vassoura / oyagami o houki to shite 親神をほうきとして tomando Deus-Parens como vassoura (D) p.8"
+  },
+  {
+    "romaji": "HOUNEN",
+    "kanji": "ほうねん",
+    "significado": "fartura (M) I-8"
+  },
+  {
+    "romaji": "HOUSAI-KIN",
+    "kanji": "奉賽金",
+    "significado": "oferenda"
+  },
+  {
+    "romaji": "HOUSOU",
+    "kanji": "ほうそう",
+    "significado": "varíola / houso no tsutome ほうそのつとめ serviço da varíola (derivado de (VO) p.142 e (Of) VII-98~99) / kurobousou 黒ぼうそう varíola negra (VO) p.17 / obiya houso no yurushi dasu おびやほうそのゆるしだす onde concedo a graça do parto e varíola (M) V-2"
+  },
+  {
+    "romaji": "HYAKU-TOUMYOU",
+    "kanji": "百燈明",
+    "significado": "a oferenda de cem luzes (VO) p.2"
+  },
+  {
+    "romaji": "HYOUSHIGUI",
+    "kanji": "拍子木",
+    "significado": "ritmadeira (SS) p.44"
+  },
+  {
+    "romaji": "IBARA-GUROU",
+    "kanji": "いばらぐろう",
+    "significado": "sarças espinhosas (D) p.7"
+  },
+  {
+    "romaji": "ICHIJOU",
+    "kanji": "一条",
+    "significado": "1. unicamente / kanroudai no ichijo no koto かんろふたいのいちじよの事 É unicamente sobre o Kanrodai (Of) XVII-2 2. devoção única / kami ichijo 神一条 a devoção única a Deus (Of) I-50 3. dedicação única / tasuke ichijou たすけ一条 dedicação única à salvação (Of) III-17"
+  },
+  {
+    "romaji": "ICHI-NO",
+    "kanji": "一の",
+    "significado": "1. primeiro / ichi no dougu 一の道具 primeiros instrumentos (Of) XII-143 / ichi no takara 一のたから primeiro tesouro (Of) XVII-3 2. maior, principal / ichi no zannen 一のざんねん maior pesar (Of) I-31 3. órgão genital / otoko ichi no dougu 男一の道具 o órgão genital masculino (D) p.30"
+  },
+  {
+    "romaji": "ICHIRETSU",
+    "kanji": "一れつ",
+    "significado": "1. todos igualmente / ichiretsu kyoudai 一れつきょうだい igualmente irmãos (VO) p.125 / ichiretsu ni hayaku tasuke o isogu kara 一れつにはやくたすけをいそぐから Por apressar a salvação de todos igualmente (Of) I-8 / ichiretsu ni hayaku tasuke o isogu 一れつにはやくたすけをいそぐ Por apressar a salvação de todos igualmente (M) Y-8º 2. todos (pessoas, mundo, humanidade) / ichiretsu kodomo ijirashii koto 一 れ つ こ ど も い ぢ ら し い 事 todos os filhos me inspiram compaixão (Of) XIII-6 / ichiretsu ni kami ga souji o suru naraba 一れつに神がそふちをするならば Se Deus fizer a limpeza em todas as pessoas (Of) III-54 / ichiretsu ninguen no oya 一れつ人間の親 o Parens real de toda humanidade (D) p.10 / ichiretsu ni kami ni motareru kono kodomo 一れつに神にもたれるこのこども Todos os filhos que se amparam em Deus, (Of) IV-83 / ichiretsu rokuji 一れつろくぢ o nivelamento de todo o 12mundo (VO) p.245 / ichiretsu tasuke 一れつたすけ a salvação da humanidade (VO) p.253"
+  },
+  {
+    "romaji": "ICHIRETSU-KAI",
+    "kanji": "一 れ つ 会",
+    "significado": "Fundação Ichiretsukai (nome oficial: zaidan houjin tenrikyou ichiretsu kai-Fundação Tenrikyo Ichiretsukai)"
+  },
+  {
+    "romaji": "ICHIRETSU-FUIKU-SEI",
+    "kanji": "一れつ扶育生",
+    "significado": "estudante com bolsa de estudo da Ichiretsukai"
+  },
+  {
+    "romaji": "ICHIRYUU-MANBAI",
+    "kanji": "一 粒 万 倍",
+    "significado": "um grão multiplicado em milíades / ichiryu manbai ni shite kaesu 一粒万倍にして返す Devolverei um grão multiplicado em miríades (E) p.2"
+  },
+  {
+    "romaji": "IIN-BU-CHOU",
+    "kanji": "委員部長",
+    "significado": "diretoras / iin bu chou koushuu kai 委員部長講習会 Curso de Comissárias e Diretoras (Miti no Dai 11)"
+  },
+  {
+    "romaji": "IIN-CHOU",
+    "kanji": "委員長",
+    "significado": "comissária / joshi seinen iin chou koushuu kai 女子青年委員長講習会 Curso para Comissárias Moças (Miti no Dai 10)"
+  },
+  {
+    "romaji": "IKEN",
+    "kanji": "意見",
+    "significado": "advertência / donna iken o suruya shiren de どんないけんをするやしれんで Não sabem que advertência poderei fazer (Of) XIV-73"
+  },
+  {
+    "romaji": "IKEN-SURU",
+    "kanji": "意見する",
+    "significado": "advertir / sashitome bakari iken shitaredo さしとめはかりいけんしたれと somente proibiram e advertiram (Of) XIV-87"
+  },
+  {
+    "romaji": "IKI-FUKIWAKE",
+    "kanji": "息吹き分け",
+    "significado": "a função da respiração (D) p.31"
+  },
+  {
+    "romaji": "IKI-NO-SAZUKE",
+    "kanji": "息のさずけ",
+    "significado": "Concessão do Sopro (D) p.17"
+  },
+  {
+    "romaji": "IKI-TEODORI-NO-SAZUKE",
+    "kanji": "息てをどりのさづけ",
+    "significado": "Concessão do Sopro e da Dança das Mãos (D) p.71"
+  },
+  {
+    "romaji": "IKI-O-KAKERU",
+    "kanji": "息をかける",
+    "significado": "lançar o sopro (E) p.109"
+  },
+  {
+    "romaji": "IKKAGUETSU-TAI",
+    "kanji": "一カ月隊",
+    "significado": "corpo de hinokishin de um mês"
+  },
+  {
+    "romaji": "IKOI-NO-IE",
+    "kanji": "憩 の 家（ ＝ 財 団 法 人 天 理 よ ろ づ 相 談 所 )",
+    "significado": "hospital Ikoi-no-ie (Fundação Tenri Yorozu-soudansho)"
+  },
+  {
+    "romaji": "IKUSEI",
+    "kanji": "育成",
+    "significado": "criação, treinamento"
+  },
+  {
+    "romaji": "INNEN",
+    "kanji": "いんねん",
+    "significado": "1. causalidade / innen tsukeru koto wa ikan de いんねんつける事ハいかんで não devem impregnar-se de más causalidades (Of) I-62 2. predestinação / aku innen 悪いんねん má predestinação (E) p.69 / ashiki innen あしきいんねん má predestinação (VO) p.257 / haku innen 白いんねん predestinação branca (VO) p.257 / moto no innen 元のいんねん predestinação original (D) p.51 / yorozu innen よろづいんねん a predestinação de todas as coisas (Of) III-147 / zenshou innen 前生いんねん predestinação das vidas anteriores (D) p.55, (Of) I-74 3. innen /innen no jikaku いんねんの自覚 a convicção do innen (D) p.52 4. também significa destinação, afinidade, causa ou efeito (Dn) 42"
+  },
+  {
+    "romaji": "IN-REKI",
+    "kanji": "陰暦",
+    "significado": "calendário lunar"
+  },
+  {
+    "romaji": "INUI",
+    "kanji": "乾",
+    "significado": "noroeste (D) p.20"
+  },
+  {
+    "romaji": "IPPA-DOKURITSU",
+    "kanji": "一派独立",
+    "significado": "autonomia / ippa dokuritsu undou 一派独立運動 campanha de autonomia (C) p.25"
+  },
+  {
+    "romaji": "IPPAN-KYOUKAI",
+    "kanji": "一箱教会",
+    "significado": "igreja geral"
+  },
+  {
+    "romaji": "IREKAERU",
+    "kanji": "入れ替える",
+    "significado": "reformar / ichiya no ma nimo kokoro irekae いちやのまにも心いれかえ reformem-no (o espírito) mesmo numa noite (Of) XVII-14"
+  },
+  {
+    "romaji": "IRYOU-DENDOU",
+    "kanji": "医療伝道",
+    "significado": "divulgação com medicina"
+  },
+  {
+    "romaji": "ISAME-KAKERU",
+    "kanji": "勇めかける",
+    "significado": "animar / sekai no kokoro o isame kake せかいの心いさめかけ animando o espírito de todas as pessoas (Of) III-114"
+  },
+  {
+    "romaji": "ISAMERU",
+    "kanji": "勇める",
+    "significado": "animar (Of) II-1"
+  },
+  {
+    "romaji": "ISAMI-TATSU",
+    "kanji": "勇みたつ",
+    "significado": "encorajar-se, animar-se"
+  },
+  {
+    "romaji": "ISAMU",
+    "kanji": "勇む",
+    "significado": "animar (Of) XII-55"
+  },
+  {
+    "romaji": "ISANDE",
+    "kanji": "勇んで",
+    "significado": "animado (Of) IV-49, animando (Of) VI-17"
+  },
+  {
+    "romaji": "ISHA-NO-TEAMARI",
+    "kanji": "医者の手余り",
+    "significado": "os que estão fora das mãos dos médicos"
+  },
+  {
+    "romaji": "ISOISO-TO",
+    "kanji": "いそいそと",
+    "significado": "animadamente (VO) p.89"
+  },
+  {
+    "romaji": "ISSHI",
+    "kanji": "一子",
+    "significado": "um filho / isshi no tsutome 一子のつとめ serviço de um filho (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "ITSUKA-TAI",
+    "kanji": "五日隊",
+    "significado": "corpo de hinokishin de cinco dias"
+  },
+  {
+    "romaji": "ITSUWA-HEN",
+    "kanji": "逸話篇",
+    "significado": "episódios (E)"
+  },
+  {
+    "romaji": "ITTE-HITOTSU",
+    "kanji": "一手一つ",
+    "significado": "1. unidade (de espírito) / itte hitotsu no kokoro 一手一つの心 a unidade de espírito (D) p.68 / sekai niwa itte hitotsu no yoki ga minaguiru 世界には一手一つの陽気がみなぎる a alegria da unidade de espírito estenderá ao mundo inteiro. (D) p.57 2. harmonia da união espiritual (Y) p.3"
+  },
+  {
+    "romaji": "IWAN-IEN-NO-RI",
+    "kanji": "言わん言えんの理",
+    "significado": "a razão do não dizer e do não poder dizer"
+  },
+  {
+    "romaji": "IZANAGUI-NO-MIKOTO",
+    "kanji": "いざなぎのみこと",
+    "significado": "Izanagui-no-Mikoto (D) p.31"
+  },
+  {
+    "romaji": "IZANAMI-NO-MIKOTO",
+    "kanji": "いざなみのみこと",
+    "significado": "Izanami-no-Mikoto (D) p.31"
+  },
+  {
+    "romaji": "IZUMU",
+    "kanji": "いづむ",
+    "significado": "estar desanimado ou triste / kami no kokoro ga izumu nara 神の心がいづむなら o espírito de Deus se desanimar (Of) I-12 / kokoro ga isamazuni izunde itewa 心が勇まずにいづんでいては se estivermos com espírito desanimado ou triste (D) p.67"
+  },
+  {
+    "romaji": "JI",
+    "kanji": "ぢ",
+    "significado": "1. terra / ji to ten to o katadorite ぢいとてんとをかたどりて Modelando pela terra e céu (M) 2º setsu 2. região / kara no ji o nihon no jii ni shita naraba からのぢをにほんぢいんいしたならば Se a região dos não-esclarecidos for transformada na dos esclarecidos (Of) IV-103 3. terreno / yoki ji よきぢ um bom terreno (M) VII-4"
+  },
+  {
+    "romaji": "JIBA",
+    "kanji": "ぢば",
+    "significado": "1. Jiba / kono tokoro moto naru jiba no koto naraba このところ元なるぢばの事ならば Como esta lugar é Jiba original (Of) VII-4 / kono tsukihi moto naru jiba ya moto naru no innen aru de juuyojizai o この月日もとなるぢばや元なるのいんねんあるでちうよぢさいを Tsukihi mostrará sua onipotência porque existem a predestinação original e a Jiba da origem (Of) VIII-47 / jiba no ri ぢばの理 a verdade da Jiba (D) p.65 2. Terra Parental 3. lugar original"
+  },
+  {
+    "romaji": "JIBA-SADAME",
+    "kanji": "ぢば 定め",
+    "significado": "a identificação da Jiba (VO) p.77"
+  },
+  {
+    "romaji": "JICHOU",
+    "kanji": "次長",
+    "significado": "vice-diretor / tenrikyou kaigai-bu jichou 天理教海外部次長 vice-diretor do 14Departamento de Missões Exteriores"
+  },
+  {
+    "romaji": "JIJOU",
+    "kanji": "事情",
+    "significado": "1. problema, problema espiritual / jijou kyoukai 事情教会 igreja problemática / mijou jijou 身上事情 doenças e problemas (vide mijou-jijou) 2. complicação, complicação espiritual / jijou no motsure 事情のもつれ complicação espiritual (D) p.50 3. circunstância / hitotsu jijou 一つ事情 uma circunstância / hitotsu no jijou 一つの事情 o meio circunstancial / ichiji no jijou 一時の事情 circunstâncias de um momento 3. estado / ninguen jijou 人間事情 o estado humano 4. condição / sekai no jijou 世界の事情 as condições do mundo (VO) p.246 5. fato / tazuneru jijou 尋ねる事情 o fato que indagais"
+  },
+  {
+    "romaji": "JIKATA",
+    "kanji": "地方",
+    "significado": "cantor (SS) p.2"
+  },
+  {
+    "romaji": "JIKIMOTSU",
+    "kanji": "ぢきもつ",
+    "significado": "o alimento celeste / soreyori tashika jikimotsu o yaro それよりたしかぢきもつをやろ desde então, darei certamente o alimento celeste (Of) IX-60"
+  },
+  {
+    "romaji": "JINRUI-KYUUKYOKU-NO-MOKUTEKI",
+    "kanji": "人類究極の目的",
+    "significado": "o objetivo final de toda a humanidade (D) p.67"
+  },
+  {
+    "romaji": "JINZAI-IKUSEI-KA",
+    "kanji": "人材育成課",
+    "significado": "Divisão de Formação de Recursos Humanos"
+  },
+  {
+    "romaji": "JITSU",
+    "kanji": "実",
+    "significado": "1. sinceridade / sah sah jitsu ga areba jitsu ga aru de さあ／＼実があれば実があるで se houver a sinceridade, haverá a verdade (VO) p.243 2. verdade / jitsu no kami 実の神 o Deus verdadeiro (D) p.3 / jitsu no oya 実の親 o verdadeiro Parens (Of) X-54"
+  },
+  {
+    "romaji": "JIUTA",
+    "kanji": "地歌",
+    "significado": "o Hino / kagura no jiuta かぐらの地歌 o Hino de Kagura (VO) p.58"
+  },
+  {
+    "romaji": "JOSHI-SEINEN",
+    "kanji": "女子青年",
+    "significado": "moça / joshi seinen taikai 女子青年大会 Convenção das Moças (FD)"
+  },
+  {
+    "romaji": "JOU",
+    "kanji": "情",
+    "significado": "sentimentos / jo ni nagareru 情に流れる arrastar-se por sentimentos"
+  },
+  {
+    "romaji": "JOUDAN",
+    "kanji": "上段",
+    "significado": "estrado superior (SS) p.8, recinto de piso elevado (VO) p.50"
+  },
+  {
+    "romaji": "JOUMYOU",
+    "kanji": "定命",
+    "significado": "1. a vida natural / kono tasuke hyaku juu go sai joumyou to sadame tsuketai kami no ichijo このたすけ百十五才ぢよみよとさだめつけたい神の一ぢよ esta salvação é a intenção única de Deus de fixar a vida natural em cento e quinze anos. (Of) III-100 2. o período determinado da vida (D) p.51"
+  },
+  {
+    "romaji": "JOUZUME",
+    "kanji": "常詰",
+    "significado": "1. encarregado permanente / yashiki no jouzume 屋敷の常詰 encarregado permanente da Residência (E) p.134 / jouzume kaigui 常詰会議 reunião dos encarregados permanentes 2. lotado permanente (ET) p.6"
+  },
+  {
+    "romaji": "JUGYOU-GAKARI",
+    "kanji": "授業掛",
+    "significado": "Seção de Aulas"
+  },
+  {
+    "romaji": "JUN’IN",
+    "kanji": "准員",
+    "significado": "jun’in, vice-ministro"
+  },
+  {
+    "romaji": "JUNJOU",
+    "kanji": "順 序",
+    "significado": "a ordem / junjou no michi 順 序 の 道 o caminho da ordem (VO) p.237 / konpon no junjou no ri 根本の順序の理 a razão fundamental dessa ordem (VO) p.242"
+  },
+  {
+    "romaji": "JUNKAI",
+    "kanji": "巡回",
+    "significado": "caravana missionária"
+  },
+  {
+    "romaji": "JUNKAI-IRYOU-TAI",
+    "kanji": "巡回医療隊",
+    "significado": "caravana de assistência médica / raosu junkai iryo tai ラオス巡回医療隊 caravana de assistência médica ao Laos"
+  },
+  {
+    "romaji": "JUN-KANGOFU-YOUSEI-SHO",
+    "kanji": "准看護婦養成所",
+    "significado": "Escola de Auxiliar de Enfermagem (FD)"
+  },
+  {
+    "romaji": "JUNKYOU",
+    "kanji": "巡教",
+    "significado": "visita missionária / honbu junkyo 本部巡教 visita missionária de ministro da Sede"
+  },
+  {
+    "romaji": "JUUNI-KUDARI",
+    "kanji": "十二下り",
+    "significado": "os Doze Hinos / juuni kudari no teodori 十二下りのてをどり Dança dos Doze Hinos (VO) p.220"
+  },
+  {
+    "romaji": "JUUSAN-TOUGUE",
+    "kanji": "十三峠",
+    "significado": "Passo Jussan (VO) p.27"
+  },
+  {
+    "romaji": "JUUYOU",
+    "kanji": "自由",
+    "significado": "1. a onipotência / kami no juuyou kore o shiran ka 神のぢうよふこれをしらんか não conhecem a onipotência de Deus? (Of) III-126 / juyo no shugo 自由の守護 a proteção divina onipotente (D) p.29 2. liberdade, livre funcionamento / kokoro no juyo 心の自由 a liberdade de espírito (VO) p.57 / minouchi no juyo 身の内の自由 o gozo do livre funcionamento do corpo (D) p.49 3. proteção onipotente / juuyou to iu hitotsu no ri 自由という一つの理 proteção divina onipotente (K)"
+  },
+  {
+    "romaji": "JUUYOU-JIZAI",
+    "kanji": "自由自在",
+    "significado": "1. plena onipotência / kora hodono juuyojizai o yuu no mo na こらほどのぢうよじさいをゆうのもな Embora diga sobre a minha plena onipotência (Of) VIII-33 / juyo jizai to iu ri 自由自在という理 a razão que se diz plena onipotência 2. a onipotência / juuyojizai no hataraki o suru ぢうようぢざいのはたらきをする realizarei os trabalhos onipotentes (Of) X-100 / juyojizai no shugo 自由自在の守護 a providência onipotente (D) p.18"
+  },
+  {
+    "romaji": "JUZEN-NO-SHUGO",
+    "kanji": "十全の守護",
+    "significado": "as dez graças de proteção (D) p.24"
+  },
+  {
+    "romaji": "KACHOU",
+    "kanji": "課長",
+    "significado": "chefe de Divisão / raten amerikaka kacho ラテン・アメリカ課課長 chefe da Divisão da América Latina"
+  },
+  {
+    "romaji": "KADODE",
+    "kanji": "角出",
+    "significado": "nova partida (I1)"
+  },
+  {
+    "romaji": "KAGAMI-BIRAKI",
+    "kanji": "鏡開き",
+    "significado": "corte de massa de arroz moti oferendado para o Ano-Novo (FD)"
+  },
+  {
+    "romaji": "KAGAMI-YASHIKI",
+    "kanji": "鏡屋敷",
+    "significado": "residência-espelho / shihou shoumen kagami yashiki 四方正蔓鏡屋敷 residência-espelho de quatro frentes (G) p.2"
+  },
+  {
+    "romaji": "KAGUEZEN-O-SUERU",
+    "kanji": "陰膳を据える",
+    "significado": "consagrar a comida em segredo (E) p.82"
+  },
+  {
+    "romaji": "KAGO",
+    "kanji": "駕篭",
+    "significado": "palanquim (VO) p.11"
+  },
+  {
+    "romaji": "KAGURA",
+    "kanji": "かぐら",
+    "significado": "(o Serviço de) Kagura (prazer de Deus - 神楽 ) / kagura men かぐら蔓 máscaras do Serviço (de Kagura) (VO) p.83 / kagura ryounin かぐら両人 casal do Serviço de Kagura (VO) p.156 / kagura zutome かぐらづとめ o Serviço de Kagura (D) p.14"
+  },
+  {
+    "romaji": "KAICHOU",
+    "kanji": "会長",
+    "significado": "condutor (de igreja) / kaichou daimusha 会長代務者 substituto do condutor (vide também kyoukai-chou)"
+  },
+  {
+    "romaji": "KAIEN-SHIKI",
+    "kanji": "開苑式",
+    "significado": "inauguração (E) p.57"
+  },
+  {
+    "romaji": "KAIGAI",
+    "kanji": "海外",
+    "significado": "exterior / kaigai furusato ryou 海外ふるさと寮 dormitório de estudantes do exterior"
+  },
+  {
+    "romaji": "KAIGAI-BU",
+    "kanji": "海外部",
+    "significado": "Departamento de Missões Exteriores ajia-ikka アジア一課 Divisão de Asia I ajia-nika アジア二課 Divisão de Asia II 16hokubei-oseania-ka 北米・ｵｾｱﾆｱ課 Divisão de América do Norte e Oceania hon’yaku-ka 翻訳課 Divisão de Tradução jinzai-ikusei-ka 人材育成課 Divisão de Formação de Recursos Humanos raten-amerika-ka ラテン・アメリカ課 Divisão de América Latina shomu-ka 庶務課 Divisão de Serviços Gerais yooroppa-afurika-ka ヨーロッパ・アフリカ課 Divisão de Europa e África"
+  },
+  {
+    "romaji": "KAIGUI-SHO",
+    "kanji": "会議所",
+    "significado": "Salão Nobre de Conferências (G) p.7"
+  },
+  {
+    "romaji": "KAIHI",
+    "kanji": "開扉",
+    "significado": "abrir o portal do santuário"
+  },
+  {
+    "romaji": "KAIKAN",
+    "kanji": "会館",
+    "significado": "centro cultural e social / san pauro tenri kaikan サンパウロ天理会館 troca de nome da igreja"
+  },
+  {
+    "romaji": "KAIKEI-KANSA-KAI",
+    "kanji": "会計監査会",
+    "significado": "comissão fiscal"
+  },
+  {
+    "romaji": "KAIKEI-SHITSU",
+    "kanji": "会計室",
+    "significado": "Escritório da Contadoria"
+  },
+  {
+    "romaji": "KAIROU",
+    "kanji": "回廊",
+    "significado": "corredor"
+  },
+  {
+    "romaji": "KAISHOU",
+    "kanji": "改称",
+    "significado": "troca de nome / kyoukai meisho kaishou 教会名称改称 troca de nome da igreja"
+  },
+  {
+    "romaji": "KAJI-KITOU",
+    "kanji": "加持祈祷",
+    "significado": "preces e encantamentos (E) p.44"
+  },
+  {
+    "romaji": "KAKISAGUE",
+    "kanji": "かきさげ",
+    "significado": "Kakisague"
+  },
+  {
+    "romaji": "KAME",
+    "kanji": "かめ",
+    "significado": "tartaruga (D) p.21"
+  },
+  {
+    "romaji": "KAMI",
+    "kanji": "神",
+    "significado": "Deus; palavra que significa divindade ou Deus (Dn) 2 / kami no ri 神の理 a razão de Deus / kami no yakata 神のやかた Morada de Deus (M) XI-1"
+  },
+  {
+    "romaji": "KAMI",
+    "kanji": "上",
+    "significado": "superiores / kamishimo 上下 superiores e dos inferiores (Of) III-142"
+  },
+  {
+    "romaji": "KAMI-ICHIJOU",
+    "kanji": "神一条",
+    "significado": "vide ichijou"
+  },
+  {
+    "romaji": "KAMI-NA",
+    "kanji": "神名",
+    "significado": "o nome divino / tenri-ou-no-mikoto no kamina 天理王命の神名 o nome divino de Tenri-Ô-no-Mikoto (D) p.11 / dougu shuu no kamina 道具衆の神名 nomes divinos dos instrumentos"
+  },
+  {
+    "romaji": "KAMI-NA-O-NAGASU",
+    "kanji": "神名を流す",
+    "significado": "divulgar o nome de Deus (D) p.36"
+  },
+  {
+    "romaji": "KAMI-NO-MICHIOSE",
+    "kanji": "神のみちをせ",
+    "significado": "sinais e orientações de Deus / kami no michiose tebiki shirazu ni 神のみちうぃせてびきしらすに sem saberem que são indicações e orientações de Deus. (Of) II-22"
+  },
+  {
+    "romaji": "KANADORO",
+    "kanji": "金燈竜",
+    "significado": "lanterna de metal (VO) p.89"
+  },
+  {
+    "romaji": "KANAME-KAI",
+    "kanji": "かなめ会",
+    "significado": "kanamekai"
+  },
+  {
+    "romaji": "KANCHOU",
+    "kanji": "管長",
+    "significado": "patriarca (VO) p.220"
+  },
+  {
+    "romaji": "KANDOKO",
+    "kanji": "神床",
+    "significado": "altar (VO) p.50, o altar divino (E) p.9"
+  },
+  {
+    "romaji": "KANRI-GAKARI",
+    "kanji": "管理掛",
+    "significado": "Seção de Administração"
+  },
+  {
+    "romaji": "KANRO",
+    "kanji": "甘露",
+    "significado": "o néctar (D) p.17"
+  },
+  {
+    "romaji": "KANROUDAI",
+    "kanji": "かんろだい",
+    "significado": "1. Kanrodai / kanroudai no jiba かんろだいのぢば Jiba, o local a assentar o Kanrodai (VO) p.96 / kanrodai no jiba sadame o sekikomareta かんろだいのぢば定めを急き込まれた apressou a identificação de Jiba para assentar o Kanrodai (VO) p.95 172. o Pedestal do Néctar / kanroudai no hinagata かんろだいの雛型 o modelo do Pedestal do Néctar (VO) p.81 / kanroudai no ri かんろだいの理 a Razão do Pedestal do Néctar / kanroudai no tsutome かんろだいのつとめ o Serviço do Pedestal do Néctar (Of) X-21 / kanroudai sazuke かんろだいさづけ o Sazuke do Pedestal do Néctar"
+  },
+  {
+    "romaji": "KANROUDAI-SUEKAE-NO-GUI",
+    "kanji": "かんろだい据え替えの儀",
+    "significado": "Cerimônia de Recolocação do Pedestal do Néctar (FD)"
+  },
+  {
+    "romaji": "KANTOU",
+    "kanji": "関東",
+    "significado": "Kantô; zona leste do contraforte de Hakone, vizinha de Tokyo e Yokohama. (Dn) 37"
+  },
+  {
+    "romaji": "KANWA",
+    "kanji": "感話",
+    "significado": "discurso de experiência na fé"
+  },
+  {
+    "romaji": "KANZAI-BU",
+    "kanji": "管財部",
+    "significado": "Departamento de Procuradoria"
+  },
+  {
+    "romaji": "KANZAI-IKKA",
+    "kanji": "管財一課",
+    "significado": "Divisão de Procuradoria I"
+  },
+  {
+    "romaji": "KANZAI-NIKA",
+    "kanji": "管財二課",
+    "significado": "Divisão de Procuradoria II"
+  },
+  {
+    "romaji": "KANZANE",
+    "kanji": "神実",
+    "significado": "1. kanzane 2. Símbolo de Adoração em Família (ET) p.7"
+  },
+  {
+    "romaji": "KARA",
+    "kanji": "から",
+    "significado": "região dos não-esclarecidos (Of) IV-57"
+  },
+  {
+    "romaji": "KAREI",
+    "kanji": "かれい",
+    "significado": "solha (D) p.21"
+  },
+  {
+    "romaji": "KARIMONO",
+    "kanji": "かりもの",
+    "significado": "tomado emprestado (Of) III-137"
+  },
+  {
+    "romaji": "KARISEKI",
+    "kanji": "仮席",
+    "significado": "Karisseki (SK)"
+  },
+  {
+    "romaji": "KASHIKONE-NO-MIKOTO",
+    "kanji": "かしこねのみこと",
+    "significado": "Kashikone-no-Mikoto"
+  },
+  {
+    "romaji": "KASHIMONO-KARIMONO",
+    "kanji": "かしもの・かりもの",
+    "significado": "coisa emprestada e tomada emprestada (D) p.47"
+  },
+  {
+    "romaji": "KATTE",
+    "kanji": "勝手",
+    "significado": "1. caprichoso / katte gokoro 勝手心 o espírito caprichoso / katte ni kore o tsukaou to suru 勝手にこれをつかおうとする usamo-lo ao nosso bel-prazer e capricho (D) p.48 2. egoísta 3. por si / katte ni ikite iru 勝手に生きている vivendo por si mesmo (D) p.42"
+  },
+  {
+    "romaji": "KAWAII",
+    "kanji": "かわいい",
+    "significado": "1. amor-próprio / kono michi ha oshii hoshii to kawaii to yoku to kouman kore ga hokoriya このみちハをしいほしいと よくとこふまんこれがほこりや Este caminho é a mesquinhez, cobiça e o amor-próprio, a ambição e o orgulho. Estas são as poeiras. (Of) III-96 2. afeição / kodomo kawaii 子供可愛い afeição pelos filhos (Of) XI-47"
+  },
+  {
+    "romaji": "KAWA-TSUNAGUI",
+    "kanji": "皮つなぎ",
+    "significado": "função conexadora da pele (D) p.30"
+  },
+  {
+    "romaji": "KAWA-TSUNAGUI-NO-DOUGU",
+    "kanji": "皮つなぎの道具",
+    "significado": "a pele com a função conexadora (D) p.21"
+  },
+  {
+    "romaji": "KAYASHI",
+    "kanji": "かやし",
+    "significado": "devolução / kokoro uketori shidai kayashi o 心うけとりしだいかやしを É a devolução tão logo aceite o espírito (Of) V-50"
+  },
+  {
+    "romaji": "KAYU",
+    "kanji": "粥",
+    "significado": "papa de arroz (VO) p.16"
+  },
+  {
+    "romaji": "KAZUTORI",
+    "kanji": "数取り",
+    "significado": "contador"
+  },
+  {
+    "romaji": "KEIDAI",
+    "kanji": "境内",
+    "significado": "área sagrada"
+  },
+  {
+    "romaji": "KEIDAI-GAKARI",
+    "kanji": "境内掛",
+    "significado": "Seção da Área Sagrada"
+  },
+  {
+    "romaji": "KEIDAI-HONSHO",
+    "kanji": "境内本所",
+    "significado": "escritório principal da área sagrada"
+  },
+  {
+    "romaji": "KEIJI",
+    "kanji": "啓示",
+    "significado": "revelação (VO) p.1"
+  },
+  {
+    "romaji": "KEIRI-BU",
+    "kanji": "経理部",
+    "significado": "Departamento de Finanças"
+  },
+  {
+    "romaji": "KEIRI-GAKARI",
+    "kanji": "計理掛",
+    "significado": "Seção de Contas"
+  },
+  {
+    "romaji": "KEIRI-KA",
+    "kanji": "計理課",
+    "significado": "Divisão de Contas"
+  },
+  {
+    "romaji": "KEISHOU-HOUKOKU-SAI",
+    "kanji": "継承奉告祭",
+    "significado": "Festa da Sucessão / shinbashira keisho hokoku sai 真柱継承奉告祭 Festa de Sucessão de Shimbashira (I1)"
+  },
+  {
+    "romaji": "KEISHOU-NO-GUI",
+    "kanji": "継承の儀",
+    "significado": "Cerimônia da Sucessão / shinbashira keishou no gui 真柱継承の儀 Cerimônia da Sucessão do Shimbashira (FD)"
+  },
+  {
+    "romaji": "KEKKI-NO-TSUDOI",
+    "kanji": "決起の集い",
+    "significado": "encontro de incitação"
+  },
+  {
+    "romaji": "KEKKOU",
+    "kanji": "結構",
+    "significado": "excelente / michi mo kekko ni naru 道も結構になる o caminho também só tenderá a ser excelente (E) p.78"
+  },
+  {
+    "romaji": "KENSEN",
+    "kanji": "献饌",
+    "significado": "colocação da oferenda (SS) p.19"
+  },
+  {
+    "romaji": "KENSEN-CHOU",
+    "kanji": "献饌長",
+    "significado": "portador-mor das oferendas (SS) p.20"
+  },
+  {
+    "romaji": "KENTEI-JUKOU-HINOKISHIN-TAI",
+    "kanji": "検定受講ひのきしん隊",
+    "significado": "Corpo de Hinokishin de dois meses"
+  },
+  {
+    "romaji": "KENTEI-KAI",
+    "kanji": "検定会",
+    "significado": "Comissão Examinadora (ET) p.30"
+  },
+  {
+    "romaji": "KENTEI-KOUSHUU",
+    "kanji": "検定講習",
+    "significado": "vide kyoukai-chou-shikaku-kentei"
+  },
+  {
+    "romaji": "KENTIKU-KA",
+    "kanji": "建築課",
+    "significado": "Divisão de Arquitetura"
+  },
+  {
+    "romaji": "KIKI-WAKERU",
+    "kanji": "聞き分ける",
+    "significado": "compreender (Of) X-53"
+  },
+  {
+    "romaji": "KIM",
+    "kanji": "斤",
+    "significado": "unidade de peso japonês (1 kin = 600g)"
+  },
+  {
+    "romaji": "KINEN-SURU",
+    "kanji": "祈念する",
+    "significado": "consagrar / oyagami o tenri-ou-no-mikoto to tataete kinen suru 親神を天理王命とたたえて祈念する Consagramos Deus-Parens, glorificando-o como Tenri-Ô-no-Mikoto (D) p.29"
+  },
+  {
+    "romaji": "KINEN-TATEMONO",
+    "kanji": "記念建物",
+    "significado": "construção comemorativa"
+  },
+  {
+    "romaji": "KIRINASHI-FUSHIN",
+    "kanji": "きりなしふしん",
+    "significado": "vide fushin"
+  },
+  {
+    "romaji": "KIRU-DOUGU",
+    "kanji": "切る道具",
+    "significado": "a função de corte e separação (D) p.21"
+  },
+  {
+    "romaji": "KIRU-KOTO-ISSAI",
+    "kanji": "切ること一切",
+    "significado": "corte em geral (D) p.31"
+  },
+  {
+    "romaji": "KISAN-SHA",
+    "kanji": "帰参者",
+    "significado": "seguidores"
+  },
+  {
+    "romaji": "KISHIN",
+    "kanji": "きしん",
+    "significado": "contribuição (M) XI-7"
+  },
+  {
+    "romaji": "KITA-RAIHAI-JOU",
+    "kanji": "北礼拝場",
+    "significado": "Recinto de Reverência Norte"
+  },
+  {
+    "romaji": "KODOMO-KAI",
+    "kanji": "子供会",
+    "significado": "encontro infantil"
+  },
+  {
+    "romaji": "KODOMO-OJIBA-GAERI",
+    "kanji": "子供おぢば帰り",
+    "significado": "Regresso das Crianças a Jiba"
+  },
+  {
+    "romaji": "KOE-MARUKIRI-NO-SAZUKE",
+    "kanji": "肥 の ま る き り さ づ け",
+    "significado": "Concessão do Fertilizante Integral (VO) p.262"
+  },
+  {
+    "romaji": "KOE-NO-SAZUKE",
+    "kanji": "肥のさづけ",
+    "significado": "o Sazuke do Fertilizante (M) I-1"
+  },
+  {
+    "romaji": "KOE-NO-TSUTOME",
+    "kanji": "肥 の つ と め",
+    "significado": "serviço do fertilizante (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "KOKORO",
+    "kanji": "心",
+    "significado": "espírito / katte gokoro 勝手心 o espírito caprichoso / kokoro dasuke no michi 心だすけの道 caminho da salvação espiritual (D) p.64 / kokoro douri ni shugou suru 心帳りに守護する protejer de acordo com o espírito / kokoro ne 心根 o sabor espiritual (D) p.21 / kokoro e chigai 心得違い erros espirituais (M) VI-8 / kokoro no seijin 心の成人 maturidade 19espiritual (D) p.65 / kokoro hitotsu ga waga no ri 心一つが我の理 somente o espírito nos pertence (D) p.49 / kokoro no motikata 心の持ち方 atitude espiritual (D) p.52 / makoto no kokoro 誠の心 espírito sincero, a sinceridade do espírito / mugoi kokoro むごい心 o espírito cruel (M) V-6 / sunao na kokoro 素直な心 o espírito honesto / yasashiki kokoro 優しき心 o espírito gentil (M) V-6"
+  },
+  {
+    "romaji": "KOKORO-NO-HOKORI",
+    "kanji": "心のほこり",
+    "significado": "vide hokori"
+  },
+  {
+    "romaji": "KOKORO-SHIDAI",
+    "kanji": "心次第",
+    "significado": "conforme o espírito / kokoro shidai ni itsumademo iyo 心したいにいつまでもいよ fiquem até quando for, conforme o espírito (Of) IV-37"
+  },
+  {
+    "romaji": "KOKORO-ZUKAI",
+    "kanji": "心遣い",
+    "significado": "as ações do espírito humano / wagami katte no kokorozukai 我が身勝手の心遣い as ações egoísticas do espírito humano. (D) p.8"
+  },
+  {
+    "romaji": "KOKU",
+    "kanji": "石",
+    "significado": "unidade de volume japonês (1 koku = 180,381 l)"
+  },
+  {
+    "romaji": "KOKUGUEN",
+    "kanji": "刻限",
+    "significado": "o tempo oportuno / kokuguen banashi 刻限話し as explanações em tempo oportuno (VO) p.260"
+  },
+  {
+    "romaji": "KOKUGUEN-OSASHIZU",
+    "kanji": "刻限おさしづ",
+    "significado": "vide osashizu"
+  },
+  {
+    "romaji": "KOKYUU",
+    "kanji": "胡弓",
+    "significado": "1. kokyuu 2. rabequinha (SS) p.44"
+  },
+  {
+    "romaji": "KOMAZARAE",
+    "kanji": "駒ざらえ",
+    "significado": "rastelo (VO) p.2"
+  },
+  {
+    "romaji": "KOMORIIRU",
+    "kanji": "こもりいる",
+    "significado": "encontrar-se abrigado (Of) VI-63"
+  },
+  {
+    "romaji": "KOMOTO",
+    "kanji": "こもと",
+    "significado": "o Lar original / hayaku komoto e yosete oke はやくこもとへよせておけ deixem-nos reunidos depressa no Lar original (M) XII-4/ hayaku komoto e tazune deyo はやくこもとへたづねでよ venham depressa à procura do Lar original (M) IX-10"
+  },
+  {
+    "romaji": "KONPEITOU",
+    "kanji": "金米糖",
+    "significado": "1. kompeito (VO) p.108 2. confeito (VO) p.256"
+  },
+  {
+    "romaji": "KORORI",
+    "kanji": "ころり",
+    "significado": "1. completamente / imamade to michi ga korori to kawarude na いまゝでとみちがころりとかハるでな O caminho mudar-se-á completamente (Of) XV-46 2. imediata conversão / tojin korori kore o matsu nari とうぢんころりこれを待つなり desejar a imediata conversão dos não-esclarecidos. (Of) IV-17"
+  },
+  {
+    "romaji": "KOSHA",
+    "kanji": "扈者",
+    "significado": "assistente (SS) p.34"
+  },
+  {
+    "romaji": "KOTEKI-TAI",
+    "kanji": "鼓笛隊",
+    "significado": "banda de koteki"
+  },
+  {
+    "romaji": "KOTO",
+    "kanji": "琴",
+    "significado": "1. koto 2. harpa deitada (SS) p.44"
+  },
+  {
+    "romaji": "KOTSUZUMI",
+    "kanji": "小鼓",
+    "significado": "tamboril (SS) p.44"
+  },
+  {
+    "romaji": "KOU",
+    "kanji": "こう",
+    "significado": "um mérito / hitotsu no kou mo minya naran ひ と つ の こ う も み に ゃ な ら ん devereis ver também um mérito. (M) VI-9"
+  },
+  {
+    "romaji": "KOU",
+    "kanji": "講",
+    "significado": "a irmandade / kou o musubo ya nai kaina こうをむすぼやないかいな formemos uma irmandade (M) V-10"
+  },
+  {
+    "romaji": "KOUKEI-SHA",
+    "kanji": "後 継 者",
+    "significado": "sucessor / koukeisha kenshuukai 後 継 者 研 修 会 Curso para Sucessores (FD)"
+  },
+  {
+    "romaji": "KOUKI",
+    "kanji": "こふき",
+    "significado": "1. registro-sagrado (VO) p.58 2. história-modelo (VO) p.258"
+  },
+  {
+    "romaji": "KOUKI-IIN-KAI",
+    "kanji": "こふき委員会",
+    "significado": "Comissão Kôki (E) p.i"
+  },
+  {
+    "romaji": "KOUKO-BIJUTSU-BU",
+    "kanji": "考古美術部",
+    "significado": "divisão de arte arqueológica"
+  },
+  {
+    "romaji": "KOUMAN",
+    "kanji": "こうまん",
+    "significado": "orgulho / kono michi ha oshii hoshii to kawaii to yoku to kouman kore ga hokoriya このみちハをしいほしいと よくとこふまんこれがほこりや Este caminho é a mesquinhez, cobiça e o amor-próprio, a ambição e o orgulho. Estas são as poeiras. (Of) III-96"
+  },
+  {
+    "romaji": "KOU-MOTO",
+    "kanji": "講元",
+    "significado": "elemento principal (VO) p.108, responsável (E) p.120"
+  },
+  {
+    "romaji": "KOUNOU",
+    "kanji": "こうのう",
+    "significado": "eficácia / kono no ri こうのうの理 o dom da eficácia (D) p.18"
+  },
+  {
+    "romaji": "KOUSHA",
+    "kanji": "講社",
+    "significado": "1. irmandade / kousha sai (~ matsuri / ~ zutome) 講社祭（ ~ まつり / ~ づとめ） serviço da irmandade / tenrin-ou kousha 轉輪王講社 a Irmandade Tenrin-ô (VO) p.113 2. Comunidade / tenrin-ou kousha 轉輪王講社 Comunidade Tenrim-ô (E) p.57"
+  },
+  {
+    "romaji": "KOUSHUU-EISEI-KA",
+    "kanji": "公衆衛生課",
+    "significado": "Divisão de Vigilância Sanitária"
+  },
+  {
+    "romaji": "KOUSHUU-KA",
+    "kanji": "講習課",
+    "significado": "Divisão de Cursos"
+  },
+  {
+    "romaji": "KOUSHUU-KAI",
+    "kanji": "講習会",
+    "significado": "1. curso / youboku yakushin chihou koushuu kai ようぼく躍進地方講習会 Curso Regional de Incentivo ao Yoboku (FD) 2. seminário/ narimono koushuu kai 鳴物講習会 seminário de instrumentos musicais"
+  },
+  {
+    "romaji": "KOZAIKU-TOURYOU",
+    "kanji": "こざいくとうりょう",
+    "significado": "o mestre marceneiro (M) XII-9"
+  },
+  {
+    "romaji": "KUMI",
+    "kanji": "組",
+    "significado": "Irmandade / shinmei-gumi 真明組 Irmandade Shinmei (VO) p.117"
+  },
+  {
+    "romaji": "KUMOYOMI-NO-MIKOTO",
+    "kanji": "くもよみのみこと",
+    "significado": "Kumoyomi-no-Mikoto"
+  },
+  {
+    "romaji": "KUNISAZUCHI-NO-MIKOTO",
+    "kanji": "くにさづちのみこと",
+    "significado": "Kunisazuchi-no-Mikoto"
+  },
+  {
+    "romaji": "KUNITOKOTACHI-NO-MIKOTO",
+    "kanji": "くにとこたちのみこと",
+    "significado": "Kunitokotachi-no-Mikoto"
+  },
+  {
+    "romaji": "KUNWA",
+    "kanji": "訓話",
+    "significado": "palestra"
+  },
+  {
+    "romaji": "KUROBONE-NO-OUGUI",
+    "kanji": "黒骨の扇",
+    "significado": "o leque de armação negra (VO) p.38"
+  },
+  {
+    "romaji": "KUROBOUSOU",
+    "kanji": "黒疱瘡",
+    "significado": "varíola negra (VO) p.17"
+  },
+  {
+    "romaji": "KUROGUTSUNA",
+    "kanji": "くろぐつな",
+    "significado": "cobra preta (D) p.21"
+  },
+  {
+    "romaji": "KURO-MONTSUKI",
+    "kanji": "黒紋付",
+    "significado": "vide montsuki"
+  },
+  {
+    "romaji": "KUROU",
+    "kanji": "苦労",
+    "significado": "as dificuldades (VO) p.253"
+  },
+  {
+    "romaji": "KUSE-SHOUBUN",
+    "kanji": "癖性分",
+    "significado": "hábitos e gênios (E) p.92"
+  },
+  {
+    "romaji": "KUYOU-NO-TAME",
+    "kanji": "供養のため",
+    "significado": "em homenagem às almas (VO) p.3"
+  },
+  {
+    "romaji": "KYOUCHOU",
+    "kanji": "教庁",
+    "significado": "Centro Administrativo da Sede"
+  },
+  {
+    "romaji": "KYOUDOUSHOKU",
+    "kanji": "教導職",
+    "significado": "instrutor religioso / kyousoushoku 教導職補名 nomeação para instrutor religioso (VO) p.209"
+  },
+  {
+    "romaji": "KYOUFUKU",
+    "kanji": "教服",
+    "significado": "batina (SS) p.48"
+  },
+  {
+    "romaji": "KYOUGAKU",
+    "kanji": "教学",
+    "significado": "estudos doutrinais"
+  },
+  {
+    "romaji": "KYOUGUI",
+    "kanji": "教義",
+    "significado": "doutrina"
+  },
+  {
+    "romaji": "KYOUGUI-OYOBI-SHIRYOU-SHUUSEI-BU",
+    "kanji": "教義及史料集成部",
+    "significado": "Departamento de Doutrina e Materiais Históricos"
+  },
+  {
+    "romaji": "KYOUHI",
+    "kanji": "教費",
+    "significado": "taxa da igreja"
+  },
+  {
+    "romaji": "KYOUKAI",
+    "kanji": "教会",
+    "significado": "igreja / kyoukai naiyou no juujitsu 教会内容の充実 o aprimoramento do conteúdo das igrejas"
+  },
+  {
+    "romaji": "KYOUKAI-CHOU",
+    "kanji": "教会長",
+    "significado": "condutor da igreja, kyoukaityô, kaityô-san, missionário, responsável ou líder da igreja (Dn) 46"
+  },
+  {
+    "romaji": "KYOUKAI-CHOU-KOUSHUU-KAI",
+    "kanji": "教会長講習会",
+    "significado": "vide koushuu-kai"
+  },
+  {
+    "romaji": "KYOUKAI-CHOU-NINMEI-KOUSHUU-KAI",
+    "kanji": "教 会 長 任 命 講 習 会",
+    "significado": "curso para nomeação dos condutores"
+  },
+  {
+    "romaji": "KYOUKAI-CHOU-SHIKAKU-KENTEI",
+    "kanji": "教 会 長 資 格 検 定",
+    "significado": "habilitação para condutor de igreja /kyoukai chou shikaku kentei koushuukai 教会長資格検定講習会 Curso de Habilitação para Condutor de Igreja (ET) p.33 /kyoukai chou shikaku kentei koushuu zenki 教会長資格検定講習前期 1º estágio do Curso de Habilitação para Condutor de Igreja / kyoukai chou shikaku kentei koushuu kouki 教会長資格検定講習後期 2º estágio do Curso de Habilitação para Condutor de Igreja"
+  },
+  {
+    "romaji": "KYOUKAI-HONBU",
+    "kanji": "教会本部",
+    "significado": "Sede da Igreja"
+  },
+  {
+    "romaji": "KYOUKAI-KYOUHI",
+    "kanji": "教会教費",
+    "significado": "vide kyouhi"
+  },
+  {
+    "romaji": "KYOUKAI-MEISHOU-NO-RI",
+    "kanji": "教会名称の理",
+    "significado": "a denominação de igreja (D) p.65"
+  },
+  {
+    "romaji": "KYOUKAI-YAKUIN",
+    "kanji": "教会役員",
+    "significado": "diretor da igreja"
+  },
+  {
+    "romaji": "KYOUKAN",
+    "kanji": "教 館",
+    "significado": "salão / yokohama tenri kyoukan 横 浜 天 理 教 館 Salão Tenrikyo de Yokohama"
+  },
+  {
+    "romaji": "KYOUKU",
+    "kanji": "教区",
+    "significado": "circunscrição regional (ET) p.14"
+  },
+  {
+    "romaji": "KYOUKU-CHOU",
+    "kanji": "教 区 長",
+    "significado": "supervisor regional (ET) p.10 / nara kyouku chou 奈 良 教 区 長 Supervisor regional de Nara"
+  },
+  {
+    "romaji": "KYOUKU-SHUJI",
+    "kanji": "教区主事",
+    "significado": "diretor de supervisoria regional / nara kyouku shuji 奈良教区主事 diretor da supervisoria regional de Nara"
+  },
+  {
+    "romaji": "KYOUMU",
+    "kanji": "教務",
+    "significado": "serviço da igreja"
+  },
+  {
+    "romaji": "KYOUMU-BU",
+    "kanji": "教務部",
+    "significado": "Departamento de Assuntos Eclesiásticos"
+  },
+  {
+    "romaji": "KYOUMU-KA",
+    "kanji": "教務課",
+    "significado": "Divisão de Assuntos Eclesiásticos"
+  },
+  {
+    "romaji": "KYOUMU-SHICHOU",
+    "kanji": "教務支庁",
+    "significado": "supervisoria regional"
+  },
+  {
+    "romaji": "KYOURI",
+    "kanji": "教理",
+    "significado": "doutrina"
+  },
+  {
+    "romaji": "KYOUSEI-BAIKA-UNDOU",
+    "kanji": "教勢倍加運動",
+    "significado": "Atividades para a Duplicação da Tenrikyo (C) p.64"
+  },
+  {
+    "romaji": "KYOUSHINJA",
+    "kanji": "教信者",
+    "significado": "seguidor"
+  },
+  {
+    "romaji": "KYOUSHINTO",
+    "kanji": "教信徒",
+    "significado": "vide kyoushinja"
+  },
+  {
+    "romaji": "KYOUSO-DEN",
+    "kanji": "教祖殿",
+    "significado": "1. Santuário de Oyassama (G) p.2 2. Residência de Oyassama (ET) p.6"
+  },
+  {
+    "romaji": "KYOUSO-DEN",
+    "kanji": "教 祖 伝",
+    "significado": "Vida de Oyassama-Minuta (VO) (mesmo que “kou-hon tenrikyou kyousoden” - 『稿本天理教教祖伝』）"
+  },
+  {
+    "romaji": "KYOUSO-DEN-GAKARI",
+    "kanji": "教祖殿掛",
+    "significado": "Seção do Santuário da Oyassama"
+  },
+  {
+    "romaji": "KYOUSO-DEN-ITSUWA-HEN",
+    "kanji": "教祖伝逸話編",
+    "significado": "Episódios da Vida de Oyassama (E) (mesmo que “kou-hon tenrikyou kyousoden itsuwa-hen” - 『稿本天理教教祖伝逸話編』）"
+  },
+  {
+    "romaji": "KYOUTEN",
+    "kanji": "教典",
+    "significado": "Doutrina de Tenrikyo (D) (mesmo que “tenrikyou kyouten” - 『天理教教典』）"
+  },
+  {
+    "romaji": "KYOUTO",
+    "kanji": "教人",
+    "significado": "mestre religioso (ET) p.8, mestre do ensinamento, missionário"
+  },
+  {
+    "romaji": "KYOUTO-TOUROKU",
+    "kanji": "教人登録",
+    "significado": "registro do mestre do ensinamento"
+  },
+  {
+    "romaji": "KYOUWA",
+    "kanji": "教話",
+    "significado": "palestra"
+  },
+  {
+    "romaji": "MAGOKORO",
+    "kanji": "真心",
+    "significado": "espírito sincero"
+  },
+  {
+    "romaji": "MAIZOU-BUNKAZAI-TENRIKYOU-CHOUSA-DAN",
+    "kanji": "埋 蔵 文 化 財 天 理 教 調 査 団",
+    "significado": "Grupo de Pesquisa Arqueológica da Tenrikyo"
+  },
+  {
+    "romaji": "MAKOTO",
+    "kanji": "誠",
+    "significado": "sinceridade / makoto hitotsu no ri 誠一つの理 sinceridade (D) p.60 / makoto no kokoro 誠 の 心 espírito de sinceridade (K) / makoto no michi 誠 の 道 o caminho da sinceridade"
+  },
+  {
+    "romaji": "MAKOTO-SHINJITSU",
+    "kanji": "誠真実",
+    "significado": "a sinceridade verdadeira / makoto shinjitsu no ri 誠真実の理 virtude da sinceridade verdadeira (D) p.60"
+  },
+  {
+    "romaji": "MAMORI",
+    "kanji": "守り",
+    "significado": "vide o-mamori"
+  },
+  {
+    "romaji": "MANABI",
+    "kanji": "まなび",
+    "significado": "aprendizagem / otsutome manabi おつとめまなび serviço de treinamento"
+  },
+  {
+    "romaji": "MANSEKI",
+    "kanji": "満席",
+    "significado": "uma série completa ou manseki"
+  },
+  {
+    "romaji": "MATSUDAI",
+    "kanji": "末代",
+    "significado": "1. as últimas gerações / matsudai no fushin 末代の普請 a construção que será até as últimas gerações 2. eterna / matsudai kawaranu oyasato 末代かわらあ親里 eterna terra parental (D) p.11 3. todas as gerações futuras / matsudai no ri 末代の理 a virtude de todas as gerações futuras (E) p.69"
+  },
+  {
+    "romaji": "MATSURU",
+    "kanji": "祀る",
+    "significado": "consagrar / kami o matsuru 神を祀る consagrar Deus (E) p.21 / kami to omote taisetsu ni matsure 神と思うて大切に祀れ Consagre-o no altar com todo o respeito, considerando-o como se fosse Deus (VO) p.38"
+  },
+  {
+    "romaji": "ME",
+    "kanji": "芽",
+    "significado": "brotos / chotto no me ちょっとの芽 pequenos brotos / fushi kara me ga deru 節から芽が出る do nó saem brotos (D) p.55"
+  },
+  {
+    "romaji": "MEDOU",
+    "kanji": "目標",
+    "significado": "1. meta, meta final / kami ga medou 神がめど Deus é a meta (E) p.93 / michi no medou 道の目標 a meta final deste caminho (D) p.72 / ninguen seikatsu no medou 人間 生 活 の 目 標 a meta final, o ideal da vida humana (D) p.27 2. símbolo, símbolo divino, símbolo de adoração / kousha no medou 講社のめど o símbolo divino da irmandade (E) p.94 / oyasama no omedou 教祖の御目標 Símbolo de Adoração de Oyassama (ET) p.4 / shinjin no medo 信心の目標 símbolo da fé / tsutome no medo つとめの目標 o símbolo divino do serviço 3. marco / raihai no medou 礼拝の目標 um marco para a reverência (VO) p.82"
+  },
+  {
+    "romaji": "MEISHOU",
+    "kanji": "名称",
+    "significado": "a denominação / kyoukai meishou no ri 教会名称の理 a denominação da igreja (D) p.65"
+  },
+  {
+    "romaji": "MEMATSU-OMATSU",
+    "kanji": "女松男松",
+    "significado": "pinheiro fêmea ou macho (Of) VII-21"
+  },
+  {
+    "romaji": "ME-URUOI",
+    "kanji": "目潤い",
+    "significado": "olhos e umidade (D) p.30"
+  },
+  {
+    "romaji": "MEZARU",
+    "kanji": "女猿",
+    "significado": "macaca (D) p.23"
+  },
+  {
+    "romaji": "MEZURASHII",
+    "kanji": "珍 し い",
+    "significado": "extraordinário / yare mezurashii や れ め づ ら し い come é extraordinário (M) I-1"
+  },
+  {
+    "romaji": "MI",
+    "kanji": "み",
+    "significado": "cobra branca (D) p.20"
+  },
+  {
+    "romaji": "MICHI",
+    "kanji": "道",
+    "significado": "caminho / anzuru michi 案ずる道 o caminho da preocupação / chotto no michi ちょっとの道 o caminho pequeno / daidai no michi 代々の道 o caminho da geração em geração / ima no michi 今の道 o caminho atual (Of) III-37 / michi ichijou 道一条 a dedicação única ao Caminho / michi no dai 道の台 base do Caminho / michi no sendachi 道の先達 pioneiros do caminho (D) p.72 / michi o tsukeru 道をつける abrir um caminho / sekai tasuke no michi 世界たすけの道 o caminho da salvação do mundo (VO) p.107 / shinjin no michi 信心の道 o caminho religioso (D) p.35 / tanomoshii michi 頼もしい道 um caminho promissor (Of) V-24"
+  },
+  {
+    "romaji": "MICHI-AKE",
+    "kanji": "道 あ け",
+    "significado": "1. o caminho da doutrinação (D) p.37 2. aurora do caminho/ yorozu tasuke no michiake よろづたすけの道あけ a aurora do caminho de todas as salvações (D) p.4"
+  },
+  {
+    "romaji": "MICHIOSE",
+    "kanji": "道をせ",
+    "significado": "indicações de Deus / kami no michiose tebiki shirazu ni 神のみちをせてびきしらすに sem saberem que são indicações e orientações de Deus (Of) II-22"
+  },
+  {
+    "romaji": "MICHI-SHIRUBE",
+    "kanji": "道標",
+    "significado": "guia"
+  },
+  {
+    "romaji": "MICHI-SUGARA",
+    "kanji": "道すがら",
+    "significado": "a caminhada a seguir (D) p.54"
+  },
+  {
+    "romaji": "MIJOU",
+    "kanji": "身上",
+    "significado": "1. doença, enfermidade, problemas (incômodos ou males) físicos / mijou jijou 身上事情 molestamento físico e complicação espiritual (D) p.50, problemas físicos e espirituais (D) p.45 / mijou tasuke no michi 身上たすけの道 o caminho da salvação dos sofrimentos físicos (D) p.17 2. o corpo / mijou wa kami no kashimono 身上は神のかしもの o corpo é um empréstimo de Deus / mijou o kaesu 身上を返す restituir o corpo (D) p.51"
+  },
+  {
+    "romaji": "MIKAGURA-UTA",
+    "kanji": "み か ぐ ら う た",
+    "significado": "1. Mikagura-uta 2. Hinos, Hinos Sagrados, Hinos do Serviço de Kagura (VO) p.259"
+  },
+  {
+    "romaji": "MIKI",
+    "kanji": "神酒",
+    "significado": "saqué sagrado"
+  },
+  {
+    "romaji": "MIKI-SUZU",
+    "kanji": "神酒すず",
+    "significado": "recipiente de saqué (SS) p.4"
+  },
+  {
+    "romaji": "MIKI-TOKKURI",
+    "kanji": "神酒徳利",
+    "significado": "vaso específico para saqué"
+  },
+  {
+    "romaji": "MIKKA-TAI",
+    "kanji": "三日隊",
+    "significado": "corpo de Hinokishin de três dias"
+  },
+  {
+    "romaji": "MINAMI-RAIHAI-JOU",
+    "kanji": "南礼拝場",
+    "significado": "recinto de reverência sul"
+  },
+  {
+    "romaji": "MINORI",
+    "kanji": "みのり",
+    "significado": "frutificação / minori no tsutome みのりのつとめ serviço da frutificação (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "MINOUCHI",
+    "kanji": "身の内",
+    "significado": "corpo / minouchi no juuyou 身の内の自由 o gozo do livre funcionamento do corpo (D) p.49 / ninouchi sawari 身の内さわり os incômodos no corpo (Of) II-23"
+  },
+  {
+    "romaji": "MINUKI-MITOOSU",
+    "kanji": "見 抜 き 見 帳 す",
+    "significado": "ver e saber de tudo / kamisama wa minuki mitoshi de 24araserareta 神様は見抜き見帳しであらされた Deus via e sabia de tudo (E) p.101"
+  },
+  {
+    "romaji": "MI-O-KAKUSARERU",
+    "kanji": "身を隠される",
+    "significado": "ocultar o corpo físico"
+  },
+  {
+    "romaji": "MIRIN",
+    "kanji": "みりん",
+    "significado": "mirim (E) p.17"
+  },
+  {
+    "romaji": "MISADAMERU",
+    "kanji": "見定める",
+    "significado": "1. observar / mina sorezore to misadamete みなそれ／＼とみさだめて observando todas as pessoas individualmente (Of) VIII-52 2. verificar / ikanaru koto mo misadameru いかなることもみさだめる verifico toda e qualquer coisa (M) VI-2 / tashika ni kokoro misadamete たしかに心みさだめて tendo verificado certamente o espírito (Of) IX-63"
+  },
+    {
+    "romaji": "MISU",
+    "kanji": "みす",
+    "significado": "as persianas finas de bambu (VO) p.89"
+  },
+  {
+    "romaji": "MITAMA",
+    "kanji": "霊",
+    "significado": "alma / shunki mitama sai 春季霊祭 primeiro culto às almas / shuuki mitama sai 秋季霊祭 segundo culto às almas / mitama sama 霊様 alma / mitama utsushi 霊遷し conduzir alma"
+  },
+  {
+    "romaji": "MIZU-NO-SAZUKE",
+    "kanji": "水のさずけ",
+    "significado": "Concessão da Água (VO) p.262"
+  },
+  {
+    "romaji": "MIZUTAMA",
+    "kanji": "水侠",
+    "significado": "1. mizutama 2. recipiente de água (SS) p.4"
+  },
+  {
+    "romaji": "MOKKO",
+    "kanji": "もっこ",
+    "significado": "a padiola ou mokko; rede quadrada dependurada no meio de um varal e carregada por duas pessoas-uma em cada extremidade-para transportar terra, lixo, etc. (Dn) 43"
+  },
+  {
+    "romaji": "MONKATA",
+    "kanji": "紋型",
+    "significado": "modelo, precedentes / monkata nai tokoro 紋型無いところ sem nenhum modelo para tomar como exemplo (D) p.29 / monkata naki koto 紋型無きこと coisas difíceis nem coisas sem modelo (VO) p.173"
+  },
+  {
+    "romaji": "MONME",
+    "kanji": "匁",
+    "significado": "unidade de peso japonês (1 monme = 3,75g)"
+  },
+  {
+    "romaji": "MONODANE",
+    "kanji": "ものだね",
+    "significado": "semente das coisas / dai ichi monodane だいいちものだね a primeira semente das coisas (M) XI-2"
+  },
+  {
+    "romaji": "MONTSUKI",
+    "kanji": "紋付き",
+    "significado": "trajes ,roupas, quimono com emblemas da família / kuro-montsuki 黒紋付き quimono preto com emblemas (VO) p.213 / momen no montsuki 木綿の紋付 roupas de algodão com emblemas da família (VO) p.31"
+  },
+  {
+    "romaji": "MON’YA",
+    "kanji": "門屋",
+    "significado": "a casa-portão (VO) p.101"
+  },
+  {
+    "romaji": "MOTARERU",
+    "kanji": "もたれる",
+    "significado": "amparar / kami ni motarete 神にもたれて amparados em Deus (Of) IV-49"
+  },
+  {
+    "romaji": "MOTAREMONO",
+    "kanji": "もたれもの",
+    "significado": "materiais de apoio (VO) p.30, objetos de apoio (E) p.26"
+  },
+  {
+    "romaji": "MOTO",
+    "kanji": "元",
+    "significado": "origem / moto hitotsu no ri 元一つの理 a razão original / yamai no moto 病の元 a origem das doenças (M) X-9 / moto naru jiba 元なるぢば Jiba original (Of) VII-4 / moto no innen 元のいんねん as predestinações da origem (Of) VII-1"
+  },
+  {
+    "romaji": "MOTO-HAJIMARI",
+    "kanji": "元 始 ま り",
+    "significado": "a criação original / moto hajimari no innen aru jiba 元始まりのいんねんあるぢば Jiba, predestinada pela criação original da humanidade (D) p.34 / moto hajimari no ri 元始まりの理 verdade da origem humana (VO) p.162 / moto hajimari no shinjitsu 元始まりの真実 a verdade da criação original da humanidade (D) p.20 / moto hajimari no yashiki 元始まりの屋敷 (vide oyashiki)"
+  },
+  {
+    "romaji": "MOTO-ICHI-NICHI",
+    "kanji": "元一日",
+    "significado": "data comemorativa da origem deste Caminho (VO) p.44"
+  },
+  {
+    "romaji": "MOTO-NO-RI",
+    "kanji": "元の理",
+    "significado": "a razão da origem (D) p.20"
+  },
+  {
+    "romaji": "MOTO-NO-YASHIKI",
+    "kanji": "元の屋敷",
+    "significado": "vide oyashiki"
+  },
+  {
+    "romaji": "MOYA",
+    "kanji": "母屋",
+    "significado": "1. moya, alojamento (mesmo que tsumesho) 2. casa principal / omoya torikoboti 母屋取こぼち demolição da casa principal (VO) p.27"
+  },
+  {
+    "romaji": "MUGOI",
+    "kanji": "むごい",
+    "significado": "cruel / mugoi kokoro むごい心 o espírito cruel (M) V-6 / mugoi kotoba むごい言葉 palavras cruéis (M) X-6"
+  },
+  {
+    "romaji": "MUHON",
+    "kanji": "むほん",
+    "significado": "conflitos / muhon no ne むほんの根 raiz dos conflitos (M) II-6 / muhon no tsutome むほんのつとめ serviço dos conflitos (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "MUNE",
+    "kanji": "胸",
+    "significado": "o coração / mune no wakarita mono wa nai むねのわかりたものはない não encontro quem tenha entendido o meu coração (M) Y-1º / oshie no ri ga mune ni osamari 教えの理が胸に治まり a verdade dos ensinamentos se fixa no coração (D) p.46 / mune no oosoji 胸の大掃除 grande limpeza do coração (VO) p.110"
+  },
+  {
+    "romaji": "MUNE-NO-UCHI",
+    "kanji": "胸の内",
+    "significado": "1. coração / mune no uchi o soji suru 胸の内を掃除する limpar o coração (D) p.50 2. íntimo do coração/ mune no uchi o toki kikasu 胸の内を説ききかす revelou o íntimo do coração (D) p.4"
+  },
+  {
+    "romaji": "MUNEAGUE",
+    "kanji": "棟上げ",
+    "significado": "colocação da viga da cumeeira (VO) p.44"
+  },
+  {
+    "romaji": "MURAKATA",
+    "kanji": "むらかた",
+    "significado": "vizinhança / murakata ha naomo tasuke o seete iru 村かたハなをもたすけをせへている Apressa-se mais a salvação dos da vizinhança (Of) IV-78 / murakata hayaku ni tasuke tai むらかたはやくにたすけたい Desejo salvar depressa os da vizinhança (M) IV-6"
+  },
+  {
+    "romaji": "MUSHI-HARAI",
+    "kanji": "虫はらい",
+    "significado": "expulsão dos insetos / mushi harai no tsutome 虫はらいのつとめ serviço da expulsão dos insetos (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "MUSOKU-NIN",
+    "kanji": "無足人",
+    "significado": "o samurai sem feudo (VO) p.9"
+  },
+  {
+    "romaji": "NAIGUI-GAKARI",
+    "kanji": "内儀掛",
+    "significado": "Seção de Serviços Internos"
+  },
+  {
+    "romaji": "NAKAMINAMI-NO-MON’YA",
+    "kanji": "中南の門屋",
+    "significado": "Casa Portão Centro-Sul (G) p.8"
+  },
+  {
+    "romaji": "NAKANIWA",
+    "kanji": "中庭",
+    "significado": "pátio central"
+  },
+  {
+    "romaji": "NANGUI",
+    "kanji": "難儀",
+    "significado": "o sofrimento (M) X-7"
+  },
+  {
+    "romaji": "NANGUI-FUJUU",
+    "kanji": "難儀不自由",
+    "significado": "as dificuldades (VO) p.31"
+  },
+  {
+    "romaji": "NANJUU",
+    "kanji": "難渋",
+    "significado": "1. grandes dificuldades (VO) p.33 2. árduo / nanjuu na 難渋な árdua (D) p.7"
+  },
+  {
+    "romaji": "NANMON",
+    "kanji": "南門",
+    "significado": "Portão Sul"
+  },
+  {
+    "romaji": "NAORAI",
+    "kanji": "直会",
+    "significado": "ceia comemorativa (Y) p.41"
+  },
+  {
+    "romaji": "NARA-KANGOKUSHO",
+    "kanji": "奈良監獄所",
+    "significado": "Presídio de Nara (E) p.107"
+  },
+  {
+    "romaji": "NARIMONO",
+    "kanji": "鳴物",
+    "significado": "instrumentos musicais (VO) p.259"
+  },
+  {
+    "romaji": "NARUHODO-NO-HITO",
+    "kanji": "なるほどの人",
+    "significado": "uma pessoa admirável (“pessoa assim admirada” - K)"
+  },
+  {
+    "romaji": "NASAKENAI",
+    "kanji": "なさけない",
+    "significado": "lamentável (Of) XII-90"
+  },
+  {
+    "romaji": "NASSHOU-SURU",
+    "kanji": "納消する",
+    "significado": "extingüir / zensho no innen ga nassho sareru 前生のいんねんが納消される as más predestinações acumuladas nas vidas anteriores serão extintas (D) p.55"
+  },
+  {
+    "romaji": "NATTE-KURU",
+    "kanji": "成ってくる",
+    "significado": "ocorrer, realizar-se / natte kuru ri 成ってくる理 a verdade de tudo que acontece (D) p.74"
+  },
+  {
+    "romaji": "NAWASHIRO",
+    "kanji": "苗代",
+    "significado": "viveiro / nawashiro no ri 苗代の理 a função de viveiro (D) p.31"
+  },
+  {
+    "romaji": "NENGUEN",
+    "kanji": "年 限",
+    "significado": "1. os anos / nenguen tachita koto naraba ねんけんたちた事ならば quando os anos tiverem passado (Of) IV-38 2. tempo predeterminado / nenguen no torai 年限の到来 chegou o tempo determinado (D) p.26"
+  },
+  {
+    "romaji": "NENGUEN-NO-RI",
+    "kanji": "年限の理",
+    "significado": "o tempo de devoção à fé (D) p.65"
+  },
+  {
+    "romaji": "NENSAI",
+    "kanji": "年祭",
+    "significado": "aniversário / oyasama hyaku nensai 教祖百年祭 Centésimo aniversário do Ocultamento Físico da Oyassama"
+  },
+  {
+    "romaji": "NENSAI-JUNBI-IINKAI",
+    "kanji": "年祭準備委員会",
+    "significado": "Comissão de preparação para aniversário"
+  },
+  {
+    "romaji": "NENSAI-KATSUDOU",
+    "kanji": "年祭活動",
+    "significado": "atividade em prol de aniversário"
+  },
+  {
+    "romaji": "NERIAI",
+    "kanji": "練り合い",
+    "significado": "deliberação (D) p.39"
+  },
+  {
+    "romaji": "NIGORI-MIZU",
+    "kanji": "にごり水",
+    "significado": "a água lodosa (D) p.8"
+  },
+  {
+    "romaji": "NIHON",
+    "kanji": "にほん",
+    "significado": "região dos esclarecidos / nihon no kouki にいほんのこふき Registro da região dos esclarecidos (Of) V-31 / nihon no oya にいほんのをや Parens da região dos esclarecidos (Of) X-22 / nihon no mono にいほんのもの os esclarecidos (Of) II-46 / nihon no kokyo にいほんのこきょ berço da região dos esclarecidos (Of) XVII-8"
+  },
+  {
+    "romaji": "NIKAGUETSU-TAI",
+    "kanji": "二ケ月隊",
+    "significado": "corpos de Hinokishin de dois meses"
+  },
+  {
+    "romaji": "NIKUI",
+    "kanji": "にくい",
+    "significado": "ódio (D) p.50"
+  },
+  {
+    "romaji": "NINGUEN-GOKORO",
+    "kanji": "人間心",
+    "significado": "o espírito humano / ninguen gokoro bakari de にんけん心ばかりで é apenas o espírito humano (Of) VI-123"
+  },
+  {
+    "romaji": "NINGUEN-NO-TANE",
+    "kanji": "人間の種",
+    "significado": "sementes do ser humano (D) p.21"
+  },
+  {
+    "romaji": "NINGUEN-SHIAN",
+    "kanji": "人間思案",
+    "significado": "as cogitações humanas (D) p.3"
+  },
+  {
+    "romaji": "NINGUEN-SOUZOU",
+    "kanji": "人間創造",
+    "significado": "criação do homem / ninguen souzou no shugo 人間創造の守護 providência da criação dos seres humanos (D) p.22 / ninguen souzou to seijin no ri 人間創造と成人の理 a razão da criação e da evolução da espécie humana (D) p.13"
+  },
+  {
+    "romaji": "NINGUEN-SOUZOU-NO-BOTAI",
+    "kanji": "人間創造の母体",
+    "significado": "a progenitora do homem (D) p.26"
+  },
+  {
+    "romaji": "NINJUU",
+    "kanji": "人衆",
+    "significado": "o pessoal (do serviço) / ninjuu o soroe 人衆を揃え com o pessoal compreto (VO) p.144"
+  },
+  {
+    "romaji": "NINMEI-KOUSHUU-KAI",
+    "kanji": "任命講習会",
+    "significado": "vide kyoukai-chou-ninmei-koushuu-kai"
+  },
+  {
+    "romaji": "NIOI",
+    "kanji": "にをい",
+    "significado": "a fragrância / nioi ga kakaru にをいがかかる ser aspergida a fragrância da fé (E) p.6"
+  },
+  {
+    "romaji": "NIOIGAKE",
+    "kanji": "にをいがけ",
+    "significado": "1. propagação (VO) p.26 2. divulgação da fé (D) p.59 3. espargimento da fragrância (Dn) 44"
+  },
+  {
+    "romaji": "NIOIGAKE-DEE",
+    "kanji": "にをいがけデー",
+    "significado": "dia de divulgação"
+  },
+  {
+    "romaji": "NIOIGAKE-KA",
+    "kanji": "にをいがけ課",
+    "significado": "Divisão de Nioigake"
+  },
+  {
+    "romaji": "NIOIGAKE-OTASUKE",
+    "kanji": "にをいがけおたすけ",
+    "significado": "divulgação e salvação"
+  },
+  {
+    "romaji": "NISHI-RAIHAI-JOU",
+    "kanji": "西礼拝場",
+    "significado": "Recinto de Reverência Oeste"
+  },
+  {
+    "romaji": "NITAMONO-JIKIMOTSU-NO-SAZUKE",
+    "kanji": "にたものじきもつのさづけ",
+    "significado": "Concessão do Alimento Celeste Cozido (VO) p.262"
+  },
+  {
+    "romaji": "NOMI-KUI-DEIRI",
+    "kanji": "飲み食い出入り",
+    "significado": "a função de entrada e saída de alimentos (D) p.21"
+  },
+  {
+    "romaji": "NORITO",
+    "kanji": "のりと",
+    "significado": "dedicatória"
+  },
+  {
+    "romaji": "NUKISASHI-NARAN",
+    "kanji": "抜き差しならん",
+    "significado": "não permite hesitação (VO) p.237"
+  },
+  {
+    "romaji": "NUKUMI",
+    "kanji": "温み",
+    "significado": "o calor (D) p.9"
+  },
+  {
+    "romaji": "NYUUSHIN-SURU",
+    "kanji": "入信する",
+    "significado": "abraçar a fé, iniciar-se na fé"
+  },
+  {
+    "romaji": "OBIYA-NO-GOKU",
+    "kanji": "をびやの御供",
+    "significado": "três porções de grãos de arroz abençoados em Jiba para o parto feliz. O primeiro é o chamado mimotinari-no-goku ou graça de boa gestação. O segundo é o hayame-no-goku ou graça do aceleramento do parto. O terceiro é o ossame-kiyome-no-goku ou graça do restabelecimento."
+  },
+  {
+    "romaji": "OBIYA-TAMESHI",
+    "kanji": "をびやためし",
+    "significado": "experiência do parto (VO) p.28"
+  },
+  {
+    "romaji": "OBIYA-TASUKE",
+    "kanji": "をびやたすけ",
+    "significado": "salvação no parto"
+  },
+  {
+    "romaji": "OBIYA-YURUSHI",
+    "kanji": "をびや許し",
+    "significado": "Permissão do Parto Feliz (D) p.5"
+  },
+  {
+    "romaji": "OBIYA-ZUTOME",
+    "kanji": "をびやづとめ",
+    "significado": "serviço do parto (derivado de (VO) p.142 e (Of) VII-98~99)"
+  },
+  {
+    "romaji": "OBOSHIMESHI",
+    "kanji": "思召",
+    "significado": "1. intenção (I1) 2. vontade (D) p.5"
+  },
+  {
+    "romaji": "OFUDESAKI",
+    "kanji": "おふでさき",
+    "significado": "1. Ofudessaki (Of) 2. a ponta do pincel (Of) I-22 3. Escritura Divina (VO) p.260"
+  },
+  {
+    "romaji": "OGAMI-KITOU",
+    "kanji": "拝み祈祷",
+    "significado": "preces, exorcismos e evocações / ogami kitou no kami 拝み祈祷の神 deuses tradicionais daspreces, exorcismos e evocações (D) p.9 / tasuke demo ogami kitou de iku de nashi たすけでもをかみきとふでいくてなし Esta salvação, não farei por meio de preces e evocações (Of) III-45"
+  },
+  {
+    "romaji": "O-HAKOBI",
+    "kanji": "おはこび",
+    "significado": "1. Ohakobi 2. Condução"
+  },
+  {
+    "romaji": "O-HAKOBI-GAKARI",
+    "kanji": "おはこび掛",
+    "significado": "Seção de Conduções"
+  },
+  {
+    "romaji": "O-IKI-GAMI",
+    "kanji": "お息神",
+    "significado": "1. oikigami (E) p.80 2. papel do sopro divino"
+  },
+  {
+    "romaji": "O-IKI-NO-KAMI",
+    "kanji": "お息の紙",
+    "significado": "vide oiki-gami"
+  },
+  {
+    "romaji": "O-IRIKOMI",
+    "kanji": "お入り込み",
+    "significado": "visita, introdução / shinbashira sama no oirikomi 真柱様のお入り込み visita do Shimbashira"
+  },
+  {
+    "romaji": "OITACHI",
+    "kanji": "生い立ち",
+    "significado": "os primeiros tempos (VO) p.9"
+  },
+  {
+    "romaji": "OJIBA",
+    "kanji": "おぢば",
+    "significado": "Jiba (vide jiba) / ojiba gaeri おぢば帰り Regresso a Jiba"
+  },
+  {
+    "romaji": "OKAKISAGUE",
+    "kanji": "おかきさげ",
+    "significado": "okakisague"
+  },
+  {
+    "romaji": "O-MAMORI",
+    "kanji": "お守り",
+    "significado": "1. amuleto / shouko mamori 証拠守り amuleto-prova (VO) p.9 2. resguardo (Y) p.12"
+  },
+  {
+    "romaji": "O-MEDOU",
+    "kanji": "お目標",
+    "significado": "vide medou"
+  },
+  {
+    "romaji": "O-MIKI",
+    "kanji": "お神酒",
+    "significado": "vide miki"
+  },
+  {
+    "romaji": "O-MORI-SHO",
+    "kanji": "御守所",
+    "significado": "sala de guarda"
+  },
+  {
+    "romaji": "O-MORI-YAKU",
+    "kanji": "御 守 役",
+    "significado": "guarda / oyasama no omori yaku 教祖の御 守役 guarda de Oyassama"
+  },
+  {
+    "romaji": "OMOTARI-NO-MIKOTO",
+    "kanji": "をもたりのみこと",
+    "significado": "Omotari-no-Mikoto"
+  },
+  {
+    "romaji": "OMOTE-TOURYOU",
+    "kanji": "表統領",
+    "significado": "Diretor-Geral Administrativo"
+  },
+  {
+    "romaji": "OMOTE-TOURYOU-SHITSU",
+    "kanji": "表統領室",
+    "significado": "Escritório de Assuntos Religiosos"
+  },
+  {
+    "romaji": "OMOWAKU",
+    "kanji": "思惑",
+    "significado": "pensamento, intensão"
+  },
+  {
+    "romaji": "OMOYA",
+    "kanji": "母屋",
+    "significado": "vide moya"
+  },
+  {
+    "romaji": "ON",
+    "kanji": "恩",
+    "significado": "os dívidas (morais) / dandan to on ga kasanari たん／＼とをんかかさなり Se as dívidas se acumularem gradualmente (Of) VIII-54"
+  },
+  {
+    "romaji": "O-NEGAI-ZUTOME",
+    "kanji": "御願いづとめ",
+    "significado": "serviço de solicitação"
+  },
+  {
+    "romaji": "ONGAKU-KENKYU-KAI",
+    "kanji": "音楽研究会",
+    "significado": "Instituto de Música"
+  },
+  {
+    "romaji": "ONNA-HINAGATA",
+    "kanji": "女雛型",
+    "significado": "o protótipo de mulher (D) p.31"
+  },
+  {
+    "romaji": "ONNA-ICHI-NI-DOUGU",
+    "kanji": "女一の道具",
+    "significado": "o órgão genital feminino (D) p.30"
+  },
+  {
+    "romaji": "ONNA-NARIMONO",
+    "kanji": "女鳴物",
+    "significado": "instrumentos musicais femininos"
+  },
+  {
+    "romaji": "ONSEI-EIZO-GAKARI",
+    "kanji": "音声映像掛",
+    "significado": "Divisão Audio-Visual"
+  },
+  {
+    "romaji": "OOBUSHI",
+    "kanji": "大節",
+    "significado": "grande prova (D) p.36"
+  },
+  {
+    "romaji": "O-REI-ZUTOME",
+    "kanji": "お礼づとめ",
+    "significado": "serviço de agradecimento"
+  },
+  {
+    "romaji": "OSAMERU",
+    "kanji": "治 め る",
+    "significado": "1. acalmar / kokoro o osameru 心を治める acalmar o espírito 2. gravar / ten no ri o kokoro ni osameru 天の理を心に治める gravar no espírito a razão do céu (D) p.63 3. estabelecer / hitotsu no ri ga osamaru 一つの理が治まる estabecer-se-á uma verdade (K)"
+  },
+  {
+    "romaji": "OSASHIZU",
+    "kanji": "おさしづ",
+    "significado": "1. Ossashizu (D) p.6 2. indicação, indicação de Deus-Parens / ukagai no osashizu 伺いのおさしづ indicações às consultas (Y) p.6 / kokuguen no osashizu 刻限のおさしづ as indicações a tempo (Y) p.6 3. as explanações / kokuguen no osashizu 刻限のおさしづ as explanações de tempo oportuno"
+  },
+  {
+    "romaji": "O-SATOSHI",
+    "kanji": "お諭し",
+    "significado": "vide satosu"
+  },
+  {
+    "romaji": "O-SAZUKE",
+    "kanji": "おさづけ",
+    "significado": "vide Sazuke"
+  },
+  {
+    "romaji": "O-SECHIE",
+    "kanji": "お節会",
+    "significado": "Festa de Osseti (FD)"
+  },
+  {
+    "romaji": "OSHIE-NO-JITSU",
+    "kanji": "教えの実",
+    "significado": "1. palavras de Deus-Parens / oshie no jitsu o shimeshitsutsu 教えの実を示しつつ consiste em transmitir as palavras de Deus-Parens (D) p.63 2. frutos da missão/ oshie no jitsu wa aguerarete iku 教えの実を挙げられていく irão colhendo os frutos da sua missão (D) p.66"
+  },
+  {
+    "romaji": "OSHIE-NO-RI",
+    "kanji": "教えの理",
+    "significado": "a verdade dos ensinamentos (D) p.63"
+  },
+  {
+    "romaji": "OSHIE-NO-TENSEI",
+    "kanji": "教えの点睛",
+    "significado": "o acabamento dos seus ensinamentos (D) p.26"
+  },
+  {
+    "romaji": "OSHII",
+    "kanji": "おしい",
+    "significado": "mesquinhez / kono michi ha oshii hoshii to kawaii to yoku to kouman kore ga hokoriya このみちハをしいほしいと よくとこふまんこれがほこりや Este caminho é a mesquinhez, cobiça e o amor-próprio, a ambição e o orgulho. Estas são as poeiras. (Of) III-96"
+  },
+  {
+    "romaji": "O-SHIKOMI",
+    "kanji": "お仕込み",
+    "significado": "instruções / oyasama kara oshikomi itadaku 教祖からお仕込み頂く receber instruções de Oyassama (E) p.8"
+  },
+  {
+    "romaji": "O-SHIKOMI-SURU",
+    "kanji": "お仕込みする",
+    "significado": "instruir"
+  },
+  {
+    "romaji": "O-SONAE",
+    "kanji": "お供え",
+    "significado": "oferenda"
+  },
+  {
+    "romaji": "O-SONAE-ENSOU",
+    "kanji": "お供え演奏",
+    "significado": "oferenda de execução musical"
+  },
+  {
+    "romaji": "O-TASUKE",
+    "kanji": "おたすけ",
+    "significado": "os serviços da salvação (VO) p.31"
+  },
+  {
+    "romaji": "O-TASUKE-GAKARI",
+    "kanji": "おたすけ掛",
+    "significado": "Seção de Aconselhamento"
+  },
+  {
+    "romaji": "O-TASUKE-NIN",
+    "kanji": "おたすけ人",
+    "significado": "missionário"
+  },
+  {
+    "romaji": "O-TEFURI",
+    "kanji": "お手振り",
+    "significado": "os movimentos das mãos"
+  },
+  {
+    "romaji": "OTOKO-HINAGATA",
+    "kanji": "男雛形",
+    "significado": "o protótipo do homem (D) p.21"
+  },
+  {
+    "romaji": "OTOKO-ICHI-NO-DOUGU",
+    "kanji": "男一の道具",
+    "significado": "órgão genital masculino (D) p.21"
+  },
+  {
+    "romaji": "OTOKO-NARIMONO",
+    "kanji": "男鳴物",
+    "significado": "instrumentos musicais masculinos"
+  },
+  {
+    "romaji": "O-TSUTOME",
+    "kanji": "おつとめ",
+    "significado": "variação de tsutome onde o é prefixo de respeito. (vide tsutome)"
+  },
+  {
+    "romaji": "O-TSUTOME-GUI",
+    "kanji": "おつとめ着",
+    "significado": "vestimenta para o serviço"
+  },
+  {
+    "romaji": "OUBOU",
+    "kanji": "応法",
+    "significado": "submisso à lei / oubou no michi 応法の道 caminho submisso à lei (VO) p.116"
+  },
+  {
+    "romaji": "OUGUI",
+    "kanji": "扇",
+    "significado": "leque / ougui no sazuke 扇のさづけ a Concessão do Leque (VO) p.262 / ougui no ukagai 扇の伺い a consulta do leque (M) VI-10"
+  },
+  {
+    "romaji": "OUKAN",
+    "kanji": "往還",
+    "significado": "um amplo caminho (Of) XVI-33"
+  },
+  {
+    "romaji": "OUKAN-MICHI",
+    "kanji": "往還道",
+    "significado": "1. caminho verdadeiro (D) p.9 2. amplo caminho (Of) III-36"
+  },
+  {
+    "romaji": "OUKAN-NO-MICHI",
+    "kanji": "往還の道",
+    "significado": "amplo caminho (Of) IV-70"
+  },
+  {
+    "romaji": "OYA",
+    "kanji": "親（をや）",
+    "significado": "1. Parens; Oya designa pai e mãe indistintamente. Daí a tradução Parens, tomando emprestado do latim a palavra “parens”, que significa tanto pai como mãe (Dn) 2 / kami tsukihi oya 神、月日、親 Deus, Tsukihi, Parens (VO) p.125 / oya o shitau 親を慕う adorar o Parens (VO) p.112 2. pais, pai ou mãe / moto no oya 元の親 pais da criação original / ri no oya 理の親 pai (mãe) da razão"
+  },
+  {
+    "romaji": "OYAGAMI",
+    "kanji": "親 神",
+    "significado": "Deus-Parens; Oya designa pai e mãe indistintamente. Gami, variação de Kami, quer dizer divindade ou Deus. Daí a tradução Deus-Parens, tomando emprestado do latim a palavra “parens”, que significa tanto pai como mãe (Dn) 2 / oyagami no futokoro 親神の懐 o seio de Deus-Parens (D) p.30 / oyagami tenri ou no mikoto 親神天理王命 Deus-Parens, Tenri-Ô-no-Mikoto (D) p.3"
+  },
+  {
+    "romaji": "OYA-GOKORO",
+    "kanji": "親心",
+    "significado": "1. amor parental / atatakai oyagokoro 温かい親心 o caloroso amor parental (D) p.10 / kaguiri nai oyagokoro 限り無い親心 o ilimitado amor parental (D) p.24 2. o amor paternal e maternal (VO) p.126"
+  },
+  {
+    "romaji": "OYASAMA",
+    "kanji": "教 祖",
+    "significado": "1. Oyassama; Oya designa pai e mãe indistintamente. Sama é sufixo honorífico. É assim chamada por ser a alma da progenitora da humanidade (Dn) 4 2. Nossa Mãe (D) p.3"
+  },
+  {
+    "romaji": "OYASAMA-DEN",
+    "kanji": "教祖殿",
+    "significado": "vide kyoso-den"
+  },
+  {
+    "romaji": "OYASAMA-DEN-ITSUWA-HEN",
+    "kanji": "教祖伝逸話編",
+    "significado": "vide kyoso-den-itsuwa-hen"
+  },
+  {
+    "romaji": "OYASAMA-GOTANJOU-SAI",
+    "kanji": "教祖御誕生祭",
+    "significado": "Festa Natalícia de Oyassama (FD), Aniversário de Oyassama (FD)"
+  },
+  {
+    "romaji": "OYASAMA-HINAGATA",
+    "kanji": "教祖ひながた",
+    "significado": "a vida-modelo de Oyassama / oyasama hinagata o shitau 教祖ひながたを慕う seguir a vida-modelo de Oyassama (D) p.52"
+  },
+  {
+    "romaji": "OYASAMA-TAMASHII-NO-INNEN",
+    "kanji": "教祖魂のいんねん",
+    "significado": "a predestinação da alma (4) p.137"
+  },
+  {
+    "romaji": "OYASAMA-ZONMEI-NO-RI",
+    "kanji": "教祖存命の理",
+    "significado": "Oyassama eternamente viva"
+  },
+  {
+    "romaji": "OYASSATO",
+    "kanji": "おやさと",
+    "significado": "1. Oyassato 2. Terra Parental (VO) p.261 3. casa paterna (E) p.77 4. Lar Parental (E) p.47"
+  },
+  {
+    "romaji": "OYASSATO-FUSHIN",
+    "kanji": "おやさとふしん",
+    "significado": "vide fushin"
+  },
+  {
+    "romaji": "OYASSATO-IINKAI",
+    "kanji": "おやさと委員会",
+    "significado": "Comissão Oyassato"
+  },
+  {
+    "romaji": "OYASSATO-JIBA",
+    "kanji": "おやさとぢば",
+    "significado": "Jiba / oyasato jiba no ri おやさとぢばの理 a razão de Jiba"
+  },
+  {
+    "romaji": "OYASSATO-KENKYUU-SHO",
+    "kanji": "おやさと研究所",
+    "significado": "Centro de Pesquisas Oyassato (nome oficial: Tenri-Daigaku-Oyassato-Kenkyuu-Sho - Centro de Pesquisas Oyassato da Universidade Tenri)"
+  },
+  {
+    "romaji": "OYASSATO-KOUTOU-GAKKOU",
+    "kanji": "親 里 高 等 学 校",
+    "significado": "Colégio Oyassato (nome oficial: Tenri Kyoukou Oyassato Koutou Gakkou - Colégio Oyassato do Seminário de Tenri)"
+  },
+  {
+    "romaji": "OYASSATO-OUJI",
+    "kanji": "おやさと大路",
+    "significado": "Avenida Oyassato"
+  },
+  {
+    "romaji": "OYASSATO-YAKATA",
+    "kanji": "おやさとやかた",
+    "significado": "Oyassato-Yakata / oyasato yakata shintoto おやさとやかた真東棟 Asa Centro-Leste do Oyassato-Yakata / oyasato yakata tou dai itto おやさとやかた南右第一棟 Asa 1 Sul-Direita do Oyassato-Yakata"
+  },
+  {
+    "romaji": "OYASSATO-YAKATA-KANRI-SHITSU",
+    "kanji": "おやさとやかた管理室",
+    "significado": "Escritório da Administração do Complexo Oyassato-Yakata"
+  },
+  {
+    "romaji": "O-YASHIKI",
+    "kanji": "お屋敷",
+    "significado": "Residência (vide também yashiki)"
+  },
+  {
+    "romaji": "RAIHAI-JOU",
+    "kanji": "礼拝場",
+    "significado": "recinto de reverência (CV)"
+  },
+  {
+    "romaji": "RATEN-AMERIKA-KA",
+    "kanji": "ラテン・アメリカ課",
+    "significado": "Divisão de América Latina"
+  },
+  {
+    "romaji": "RENRAKU-SHO",
+    "kanji": "連絡所",
+    "significado": "posto missionário"
+  },
+  {
+    "romaji": "RI",
+    "kanji": "里",
+    "significado": "li; unidade linear japonesa (1 li = 3927,3m)"
+  },
+  {
+    "romaji": "RI",
+    "kanji": "理",
+    "significado": "1. natureza / oyagami no ri 親神の理 a natureza de Deus-Parens (VO) p.92 2. razão / arawarete kuru ri, natte kuru ri 現れてくる理、成ってくる理 as razões dos fatos que surgem e se realizam (D) p.50 / ashiki ri 悪しき理 razão do mal / fuufu no ri 夫婦の理 a razão do marido e mulher (VO) p.79 / hanashi no ri 話の理 as verdades de suas palavras divinas (D) p.62 3. verdade / jiba no ri ぢばの理 a verdade da Jiba (D) p.65 / ri ni awasete odoru 理にあわせて踊る dançar em harmonia com a verdade (VO) p.72 / ri no uta 理の歌 hinos da verdade (VO) p.72 4. providências / ri o fuku 理を吹く As providências brotarão (M) I-5 5. intenção divina / ri to jo 理と情 a intenção divina e o sentimento humano (VO) p.99 6. virtude / makoto shinjitsu no ri 誠真実の理 virtude da sinceridade verdadeira (D) p.60"
+  },
+  {
+    "romaji": "RIKKYOU",
+    "kanji": "立教",
+    "significado": "revelação / rikkyo 160 nen 立教 160 年 160 R.D. (revelação divina) / rikkyo 160 nen 1 gatsu 26 nichi 立教 160 年 1 月 26 日 26 de janeiro de 160 R.D. (revelação divina) / rikkyou hyakunen sai 立教百年祭 Centésimo aniversário da revelação divina / rikkyou no moto ichinichi 立教の元一日 dia original da revelação / rikkyou no sandai innen 立教の三大いんねん três grandes predestinações da revelação / rikkyou no seishin 立教の精神 o espírito da revelação"
+  },
+  {
+    "romaji": "RI-NO-OYA",
+    "kanji": "理の親",
+    "significado": "pai (mãe) espiritual"
+  },
+  {
+    "romaji": "RI-O-TATERU",
+    "kanji": "理を立てる",
+    "significado": "respeitar a razão (E) p.57"
+  },
+  {
+    "romaji": "RIPPUKU",
+    "kanji": "立腹",
+    "significado": "ira / kami no rippuku 神の立腹 ira de Deus (Of) I-25"
+  },
+  {
+    "romaji": "RITSU",
+    "kanji": "律",
+    "significado": "a lei (VO) p.247"
+  },
+  {
+    "romaji": "RIYAKU",
+    "kanji": "りやく",
+    "significado": "graça / fukai riyaku ふかいりやく imensa graça (Of) VI-126"
+  },
+  {
+    "romaji": "ROBOU-KOUEN",
+    "kanji": "路傍講演",
+    "significado": "palestra de rua (FD)"
+  },
+  {
+    "romaji": "ROGUIN",
+    "kanji": "路銀",
+    "significado": "recursos da viagem (VO) p.38"
+  },
+  {
+    "romaji": "ROKKU-NO-JI-NI-SURU",
+    "kanji": "ろっくの地にする",
+    "significado": "nivelar"
+  },
+  {
+    "romaji": "ROKUJI",
+    "kanji": "ろくぢ",
+    "significado": "o nivelamento (VO) p.245"
+  },
+  {
+    "romaji": "RYOUSHU",
+    "kanji": "領主",
+    "significado": "suserano (VO) p.9"
+  },
+  {
+    "romaji": "RYUUKE",
+    "kanji": "立毛",
+    "significado": "o alimento (D) p.30, as colheitas (Of) I-12"
+  },
+  {
+    "romaji": "RYUUTEKI",
+    "kanji": "龍笛",
+    "significado": "ryuuteki (a flauta da música de Gagaku)"
+  },
+  {
+    "romaji": "SADAMERU",
+    "kanji": "定める",
+    "significado": "determinar / kokoro ga sadamaru 心が定まる determinar o espírito / kokoro sadame 心定め a determinação espiritual (VO) p.242"
+  },
+  {
+    "romaji": "SAIBUN",
+    "kanji": "祭文",
+    "significado": "dedicatória (SS) p.32"
+  },
+  {
+    "romaji": "SAIBUN-BUKURO",
+    "kanji": "祭文袋",
+    "significado": "envólucro para dedicatória"
+  },
+  {
+    "romaji": "SAIBUN-SOUJOU",
+    "kanji": "祭文奏上",
+    "significado": "leitura da dedicatória"
+  },
+  {
+    "romaji": "SAIFUKU",
+    "kanji": "祭服",
+    "significado": "vestimenta ritual"
+  },
+  {
+    "romaji": "SAIGAI-KYUUEN-HINOKISHIN-TAI",
+    "kanji": "災 害 救 援 ひ の き し ん 隊",
+    "significado": "Corpo de Hinokishin de Emergência (FD)"
+  },
+  {
+    "romaji": "SAIGU",
+    "kanji": "祭具",
+    "significado": "instrumento ritual"
+  },
+  {
+    "romaji": "SAIGUI-GAKARI",
+    "kanji": "祭儀掛",
+    "significado": "Seção de Cerimônias"
+  },
+  {
+    "romaji": "SAIGUI-SHIKI",
+    "kanji": "祭儀式",
+    "significado": "ritual, solenidade"
+  },
+  {
+    "romaji": "SAIJI",
+    "kanji": "祭事",
+    "significado": "ritual"
+  },
+  {
+    "romaji": "SAIJIN",
+    "kanji": "祭人",
+    "significado": "celebrantes"
+  },
+  {
+    "romaji": "SAIJI-SHITSU",
+    "kanji": "祭事室",
+    "significado": "Escritório de Assuntos Cerimoniais"
+  },
+  {
+    "romaji": "SAISEN",
+    "kanji": "賽銭",
+    "significado": "oferenda (em dinheiro)"
+  },
+  {
+    "romaji": "SAISEN-BAKO",
+    "kanji": "賽銭箱",
+    "significado": "caixa de oferenda"
+  },
+  {
+    "romaji": "SAISHI",
+    "kanji": "祭祀",
+    "significado": "serviço religioso"
+  },
+  {
+    "romaji": "SAISHI-YOUGU",
+    "kanji": "祭祀用具",
+    "significado": "os objetos religiosos (VO) p.181"
+  },
+  {
+    "romaji": "SAISHUU",
+    "kanji": "祭主",
+    "significado": "oficiante"
+  },
+  {
+    "romaji": "SAITEN",
+    "kanji": "祭典",
+    "significado": "cerimônia"
+  },
+  {
+    "romaji": "SAKAKI",
+    "kanji": "榊",
+    "significado": "sakaki, ramo sagrado"
+  },
+  {
+    "romaji": "SANBOU",
+    "kanji": "三宝",
+    "significado": "1. sambô 2. bandeja com calço (SS) p.4"
+  },
+  {
+    "romaji": "SAN-DAI-INNEN",
+    "kanji": "三大いんねん",
+    "significado": "as Três Predestinações: Oyasama tamashi no innen - predestinação de Oyassama; Yashiki no innen - predestinação da Residência; Shunkokugen no ri - razão do tempo predeterminado"
+  },
+  {
+    "romaji": "SANGUE",
+    "kanji": "さんげ",
+    "significado": "arrepender, arrependimento / zensho innen no sangue 前生いんねんのさんげ o arrependimento das más predestinações das vidas anteriores (D) p.55 / zensho no sangue suru 前生のさんげする arrepender das causalidades anteriores (E) p.109"
+  },
+  {
+    "romaji": "SAN-GUENTEN",
+    "kanji": "三原典",
+    "significado": "três textos originais (VO) p.259"
+  },
+  {
+    "romaji": "SANJA",
+    "kanji": "賛者",
+    "significado": "auxiliar (SS) p.25"
+  },
+  {
+    "romaji": "SANKOUKAN",
+    "kanji": "参考館",
+    "significado": "vide Tenri-Sankokan"
+  },
+  {
+    "romaji": "SANKYOKU",
+    "kanji": "三曲",
+    "significado": "três instrumentos sagrados femininos"
+  },
+  {
+    "romaji": "SANNEN-SENNICHI",
+    "kanji": "三年千日",
+    "significado": "“três anos-mil dias” / sannen sennichi no shun 三年千日の旬 tempo oportuno de “três anos-mil dias”"
+  },
+  {
+    "romaji": "SANPAI",
+    "kanji": "参拝",
+    "significado": "reverência"
+  },
+  {
+    "romaji": "SANPAI-NIN",
+    "kanji": "参拝人",
+    "significado": "fiel"
+  },
+  {
+    "romaji": "SANSAI-GOKORO",
+    "kanji": "三才心",
+    "significado": "espírito de três anos, o espírito da idade de três anos"
+  },
+  {
+    "romaji": "SANYOU",
+    "kanji": "山陽",
+    "significado": "San-yô; zona ocidental de Honshu. (Dn) 38"
+  },
+  {
+    "romaji": "SASHIZU",
+    "kanji": "指図",
+    "significado": "a indicação (Of) IX-50, (vide também osashizu)"
+  },
+  {
+    "romaji": "SASHIZU-SURU",
+    "kanji": "指図する",
+    "significado": "indicar"
+  },
+  {
+    "romaji": "SASHIZU-KATA",
+    "kanji": "指図方",
+    "significado": "indicante (SS) p.25"
+  },
+  {
+    "romaji": "SATO-NO-SENNIN",
+    "kanji": "里の仙人",
+    "significado": "pessoa espiritualmente madura na sociedade"
+  },
+  {
+    "romaji": "SATORU",
+    "kanji": "悟 る",
+    "significado": "1. entender, entendimento / innen no satori いんねんの悟り entender a respeito da causalidade (D) p.54 2. compreender / oyagokoro o satoru 親心を悟る compreendendo o amor de Deus-Parens (D) p.55"
+  },
+  {
+    "romaji": "SATOSHI-NO-DAI",
+    "kanji": "諭しの台",
+    "significado": "base para instruir / satosu jijou no ri no dai 諭す事情の理の台 condição básica para instruir (K)"
+  },
+  {
+    "romaji": "SATOSU",
+    "kanji": "諭す",
+    "significado": "1. esclarecer (K) 2. explanar / mijou wazurai ni tsuite osatoshi o suru 身上患いについてお諭しをする explanar sobre doença 3. lição / satoshi itadaku 諭し頂く ouvir a lição (E) p.50"
+  },
+  {
+    "romaji": "SAWARI",
+    "kanji": "障り",
+    "significado": "incômodos / mijou sawari 身上障り incômodos físicos (VO) p.98"
+  },
+  {
+    "romaji": "SAZUKE",
+    "kanji": "さづけ",
+    "significado": "1. Sazuke / ashikiharai no sazuke あしきはらいのさづけ o Sazuke do Ashiki Harai (E) p.87 / gohei no sazuke 御幣のさづけ o Sazuke do Gohei (VO) p.43 / koe no sazuke 肥のさづけ o fertilizante (VO) p.38, o Sazuke do Fertilizante (M) I-1 2. Concessão / iki no sazuke いきのさづけ a Concessão do Sopro (D) p.17"
+  },
+  {
+    "romaji": "SAZUKE-NO-RI",
+    "kanji": "さづけの理",
+    "significado": "1. o Dom de Sazuke 2. Dom da Concessão (D) p.18 3. a razão da Concessão (D) p.62"
+  },
+  {
+    "romaji": "SAZUKERU",
+    "kanji": "授ける",
+    "significado": "conceder / kanro o sazukerareru 甘露を授けられる será concedido o néctar (D) p.17"
+  },
+  {
+    "romaji": "SECHIE",
+    "kanji": "節会",
+    "significado": "Festa de Osseti (FD)"
+  },
+  {
+    "romaji": "SEIJIN",
+    "kanji": "成人",
+    "significado": "1. maturidade, maturação / ichiretsu kodomo no seijin 一れつ子供の成人 a maturidade de todos os filhos (D) p.41 / kodomo no seijin 子供の成人 a maturidade dos filhos (D) p.70 2. evolução / seijin no ri 成人の理 a razão da evolução da espécie humana (D) p.13 3. crescer / seijin suru 成人する crescer (D) p.22"
+  },
+  {
+    "romaji": "SEIKATSU-GAKARI",
+    "kanji": "生活掛",
+    "significado": "Seção de Vivência"
+  },
+  {
+    "romaji": "SEINEN-KAI",
+    "kanji": "青年会",
+    "significado": "Associação dos Moços"
+  },
+  {
+    "romaji": "SEITEN",
+    "kanji": "晴天",
+    "significado": "céu limpo / seiten no kokoro 晴天の心 espírito de céu limpo"
+  },
+  {
+    "romaji": "SEIZA",
+    "kanji": "正座",
+    "significado": "seiza (VO) p.263"
+  },
+  {
+    "romaji": "SEKAI",
+    "kanji": "世界",
+    "significado": "1. o mundo / sekai no fushin 世界のふしん construção do mundo / sekai sozo no moto no ri 世界創造の元の理 as verdades originais da criação do mundo (4) p.138 2. todas as pessoas / sekai no kokoro 世界の心 o espírito de todas as pessoas (M) Y-8º"
+  },
+  {
+    "romaji": "SEKAI-ICHIRETSU",
+    "kanji": "世界一れつ",
+    "significado": "todas as pessoas do mundo (M) Y-7º"
+  },
+  {
+    "romaji": "SEKAI-NAMI",
+    "kanji": "世界並",
+    "significado": "comum ao mundo / sekai nami no koto nibu 世界並の事二分 dois décimos aos afazeres ordinários do mundo em geral (4) p.237"
+  },
+  {
+    "romaji": "SEKI",
+    "kanji": "席",
+    "significado": "1. seki / hitotsu seki to su 一つ席とす aceito como um seki (K) 2. sessões / dan dan no seki o kasane だんだんの席を重ね conduzimo-nos ordenadamente às sessões de Besseki (D) p.62 3. audiência / dandan no seki o kasane だんだんの席を重ね acumulamos o número de audiências (D) p.62 4. Honseki / seki to sadameru 席と定める estabelecer o Honseki (Os)"
+  },
+  {
+    "romaji": "SEKIFUDA",
+    "kanji": "席札",
+    "significado": "ficha do Besseki (vide besseki)"
+  },
+  {
+    "romaji": "SEKIKOMI",
+    "kanji": "急き込み",
+    "significado": "1. instância (Of) II-7 2. instar, apressar / ichiretsu tasuke o sekikomu 一れつたすけを急き込む instou salvar toda a humanidade (D) p.71 / seijin o sekikomu 成人を急き込む apressar a maturação espiritual 3. incentivar / takayama tasuke o sekikomu 高山たすけを急き込む insentivar na missão de salvar os altos montes (VO) p.86"
+  },
+  {
+    "romaji": "SEKININ-YAKUIN",
+    "kanji": "責任役人",
+    "significado": "diretor responsável"
+  },
+  {
+    "romaji": "SENDACHI",
+    "kanji": "先達",
+    "significado": "pioneiros / michi no sendachi 道の先達 pioneiros do caminho (D) p.72"
+  },
+  {
+    "romaji": "SENJIN",
+    "kanji": "先人",
+    "significado": "predescessor, antecessor"
+  },
+  {
+    "romaji": "SENMAI",
+    "kanji": "洗米",
+    "significado": "arroz lavado (E) p.25"
+  },
+  {
+    "romaji": "SENREI-SAI",
+    "kanji": "遷霊祭",
+    "significado": "cerimônia de conduzir alma no altar"
+  },
+  {
+    "romaji": "SENSHUUKA",
+    "kanji": "専修科",
+    "significado": "1. Senshuka 2. Curso de Especialização do Seminário de Tenri (ET) p.29"
+  },
+  {
+    "romaji": "SENZA-SAI",
+    "kanji": "遷座祭",
+    "significado": "cerimônia de assentamento"
+  },
+  {
+    "romaji": "SERIAGARU",
+    "kanji": "せ り 上 が る",
+    "significado": "subir pressionando / shita kara seriagaru 下からせり上がる “Pressionando por baixo subirá.” (VO) p.90"
+  },
+  {
+    "romaji": "SETSUNAMI",
+    "kanji": "せつなみ",
+    "significado": "sofrimento (Of) VII-80, aflição (Of) XI-35"
+  },
+  {
+    "romaji": "SETSURITSU",
+    "kanji": "設立",
+    "significado": "fundação"
+  },
+  {
+    "romaji": "SETSURITSU-SURU",
+    "kanji": "設立する",
+    "significado": "fundar / kyokai o setsuritsu suru 教会を設立する fundar uma igreja"
+  },
+  {
+    "romaji": "SEWA-KA",
+    "kanji": "世話課",
+    "significado": "Divisão de Pessoal"
+  },
+  {
+    "romaji": "SEWA-NIN",
+    "kanji": "世話人",
+    "significado": "assistente (ET) p.5"
+  },
+  {
+    "romaji": "SHACHI",
+    "kanji": "しゃち",
+    "significado": "golfinho, delfim ou orca (Dn) 23"
+  },
+  {
+    "romaji": "SHAKU",
+    "kanji": "尺",
+    "significado": "shaku, unidade de comprimento japonês (1 shaku = 30,3 cm) traduzida como pés (Dn) 29"
+  },
+  {
+    "romaji": "SHAKU",
+    "kanji": "笏",
+    "significado": "1. shaku 2. tabuinha (SS) p.15"
+  },
+  {
+    "romaji": "SHAMISEN",
+    "kanji": "三味線",
+    "significado": "1. shamissen 2. banjo (SS) p.44"
+  },
+  {
+    "romaji": "SHASHIN-KA",
+    "kanji": "滋真課",
+    "significado": "Divisão de Fotos"
+  },
+  {
+    "romaji": "SHIAN",
+    "kanji": "思案",
+    "significado": "reflexão / mee mee shian o shite wa iredomo めゑ／＼しやんをしてわいれども estejam igualmente refletindo individualmente (Of) XII-89 / kurikaeshi shian saseyou くり返し思案させよう fazer todos refletirem repetidas vezes (D) p.6"
+  },
+  {
+    "romaji": "SHIBU",
+    "kanji": "支部",
+    "significado": "sub-região (ET) p.14"
+  },
+  {
+    "romaji": "SHIBU-CHOU",
+    "kanji": "支部長",
+    "significado": "supervisor sub-regional (ET) p.14"
+  },
+  {
+    "romaji": "SHIHOU-SHOUMEN-KAGAMI-YASHIKI",
+    "kanji": "四 方 正 蔓 鏡 屋 敷",
+    "significado": "residência-espelho de quatro frentes (G) p.2"
+  },
+  {
+    "romaji": "SHIKIRU",
+    "kanji": "仕切る",
+    "significado": "1. dividir em partes / dodemo kodemo shikiru jijou ikan どうでもこうでも仕切る事情いかん Está errado dividir a matéria em partes, de qualquer maneira 2. definir/ toki o shikiru 時を仕切る definir o tempo"
+  },
+  {
+    "romaji": "SHIKOKU",
+    "kanji": "四国",
+    "significado": "Shikoku; uma das quatro principais ilhas que formam o Japão. Fica ao Sul de San-yô (Dn) 39 (vide também sanyou)"
+  },
+  {
+    "romaji": "SHIKOMI",
+    "kanji": "仕込み",
+    "significado": "instrução / chie no shikomi 知恵の仕込み instrução de inteligência (D) p.23 / moji no shikomi 文字の仕込み instrução de letras (D) p.24 / yorozu no shikomi suru よろづのしこみする instruirá tudo (Of) XI-31"
+  },
+  {
+    "romaji": "SHIMENAWA",
+    "kanji": "しめなわ",
+    "significado": "corda de palha (SS) p.5"
+  },
+  {
+    "romaji": "SHIMO",
+    "kanji": "下",
+    "significado": "inferiores / kamishimo 上下 superiores e inferiores (Of) III-142"
+  },
+  {
+    "romaji": "SHIN",
+    "kanji": "しん（心、芯、真）",
+    "significado": "1. cerne, centro, medula, miolo, núcleo / shinbashira しんばしら pilar central / michi no shin 道のしん o centro do caminho (4) p.218 2. base 3. coração, espírito, mente 4. verdade, real / shin no yorokobi 真のよろこび a alegria real"
+  },
+   {
+    "romaji": "SHINBASHIRA",
+    "kanji": "真柱",
+    "significado": "1. Shimbashira, título do personagem central do Caminho. Literalmente, pilar mestre ou central de uma casa. (Dn) 11 2. pilar central (Of) III-51"
+  },
+  {
+    "romaji": "SHINBASHIRA-SHITSU",
+    "kanji": "真柱室",
+    "significado": "Escritório do Shimbashira"
+  },
+  {
+    "romaji": "SHINDEN",
+    "kanji": "神殿",
+    "significado": "o Santuário Principal (G) p.1"
+  },
+  {
+    "romaji": "SHINDEN-GAKARI",
+    "kanji": "神殿掛",
+    "significado": "Seção do Santuário Principal"
+  },
+  {
+    "romaji": "SHINDEN-KOUWA",
+    "kanji": "神殿講話",
+    "significado": "palestra no Santuário Principal"
+  },
+  {
+    "romaji": "SHINDEN-OTASUKE-GAKARI",
+    "kanji": "神殿おたすけ掛",
+    "significado": "seção de conselhos do Santuário Principal"
+  },
+  {
+    "romaji": "SHINGAKU-DOUWA",
+    "kanji": "心学道話",
+    "significado": "a doutrina da moralidade prática (4) p.214"
+  },
+  {
+    "romaji": "SHINJA",
+    "kanji": "信者",
+    "significado": "fiel (G) p.4, devoto (E) p.3, seguidor"
+  },
+  {
+    "romaji": "SHINJA-BU",
+    "kanji": "信者部",
+    "significado": "Departamento de Peregrinos"
+  },
+  {
+    "romaji": "SHINJA-TSUMESHO",
+    "kanji": "信者詰所",
+    "significado": "dormitório dos seguidores / tenrikyo shikinori daikyokai shinja tsumesho 天理教城法大教会信者詰所 dormitório dos seguidores da Igreja-Mor Shikinori"
+  },
+  {
+    "romaji": "SHINJIN",
+    "kanji": "信心",
+    "significado": "a fé / shinjin no michi 信心の道 o caminho da fé (D) p.52"
+  },
+  {
+    "romaji": "SHINJIN-SURU",
+    "kanji": "信心する",
+    "significado": "crer (M) V-5"
+  },
+  {
+    "romaji": "SHINJIN-WARAKU",
+    "kanji": "神 人 和 楽",
+    "significado": "harmonia entre Deus e os seres humanos / shinjin waraku no youki 神人和楽の陽気 uma inefável alegria em que participam juntos Deus e os seres humanos (D) p.14"
+  },
+  {
+    "romaji": "SHINJITSU",
+    "kanji": "真実",
+    "significado": "1. a sinceridade / shinjitsu ga oyagami no oboshimeshi ni kanau 真実が親神の思し召しにかなう a sinceridade se identificar com a intenção de Deus-Parens (VO) p.25 2. verdade / shinjitsu makoto no kokoro 真実誠の心 o espírito da sinceridade verdadeira / shinjitsu no kami 真実の神 Deus verdadeiro (D) p.9"
+  },
+  {
+    "romaji": "SHINKOU",
+    "kanji": "信仰",
+    "significado": "fé / shinko no seikatsu 信仰の生活 vida da fé / shinko ni hairu 信仰に入る abraçar a fé, iniciar-se na fé / shinko suru 信仰する ter fé, acreditar na fé"
+  },
+  {
+    "romaji": "SHINKYOU",
+    "kanji": "神鏡",
+    "significado": "espelho sagrado"
+  },
+  {
+    "romaji": "SHINNIN-KYOUKAICHOU-NO-TSUDOI",
+    "kanji": "新任教会長の集い",
+    "significado": "Encontro dos novos condutores de igreja"
+  },
+  {
+    "romaji": "SHIN’ON",
+    "kanji": "神恩",
+    "significado": "favor divino"
+  },
+  {
+    "romaji": "SHINPAN-KAI",
+    "kanji": "審判会",
+    "significado": "Comissão Julgadora (ET) p.30"
+  },
+  {
+    "romaji": "SHINSEN",
+    "kanji": "神饌",
+    "significado": "oferenda (comida ou bebida; produtos)"
+  },
+  {
+    "romaji": "SHINSEN-GAKARI",
+    "kanji": "神饌掛",
+    "significado": "Seção de Oferendas"
+  },
+  {
+    "romaji": "SHINSHOKU-TORISHIMARI",
+    "kanji": "神職取締り",
+    "significado": "superintendente dos sacerdotes (VO) p.46"
+  },
+  {
+    "romaji": "SHINZA",
+    "kanji": "真座",
+    "significado": "assento central"
+  },
+  {
+    "romaji": "SHIRUSHI",
+    "kanji": "しるし",
+    "significado": "sinais / mijou ni shirushi o tsukeru 身上にしるしを付ける mostrar sinais no corpo (VO) p.99 / mijou ya jijou no ue ni shirushi o miseru 身上や事情の上にしるしを見せる mostrando-lhes sinais no corpo e estado de coisas em forma de enfermidades e outros problemas (D) p.43"
+  },
+  {
+    "romaji": "SHIRYOU-GAKARI",
+    "kanji": "史料掛",
+    "significado": "Seção de Materiais Históricos"
+  },
+  {
+    "romaji": "SHISHUTSU-GAKARI",
+    "kanji": "支出掛",
+    "significado": "Seção de Despesas"
+  },
+  {
+    "romaji": "SHISHUTSU-KA",
+    "kanji": "支出課",
+    "significado": "Divisão de Despesas"
+  },
+  {
+    "romaji": "SHITSU-GAKARI",
+    "kanji": "室掛",
+    "significado": "Seção de Assuntos Religiosos"
+  },
+  {
+    "romaji": "SHITSUMU-KA",
+    "kanji": "室務課",
+    "significado": "Divisão de Administração Geral"
+  },
+  {
+    "romaji": "SHOU",
+    "kanji": "升",
+    "significado": "unidade de volume (1 shou = 1,804l)"
+  },
+  {
+    "romaji": "SHOU",
+    "kanji": "笙",
+    "significado": "sho (instrumento musical de Gagaku)"
+  },
+  {
+    "romaji": "SHOU",
+    "kanji": "性",
+    "significado": "qualidades / sono shou o misadamete その性を見定めて discernindo as suas respectivas qualidades (D) p.21"
+  },
+  {
+    "romaji": "SHOUBOU-GAKARI",
+    "kanji": "消防掛",
+    "significado": "Seção de Proteção à Incêndio"
+  },
+  {
+    "romaji": "SHOUBUN",
+    "kanji": "性分",
+    "significado": "gênios (E) p.92"
+  },
+  {
+    "romaji": "SHOUGAI",
+    "kanji": "生涯",
+    "significado": "uma vida / shougai matsudai no takara 生涯末代の宝 o tesouro inestimável de uma vida (D) p.18 / shougai no ri 生涯の理 a verdade que deves passar numa vida (K)"
+  },
+  {
+    "romaji": "SHOUGAI-KOUHOU-KA",
+    "kanji": "渉外広報課",
+    "significado": "Divisão de Relações Públicas"
+  },
+  {
+    "romaji": "SHOUJIKI",
+    "kanji": "正直",
+    "significado": "honestidade / asaoki shojiki hataraki 朝起き、正直、働き levantar de manhã, honestidade, trabalho (E) p.22"
+  },
+  {
+    "romaji": "SHOUKO-DAMESHI",
+    "kanji": "証拠試し",
+    "significado": "a prova evidente / kire satoritara shouko dameshi ya これさとりたらしよこだめしや Quando entenderem, terão a prova evidente (Of) III-14"
+  },
+  {
+    "romaji": "SHOUKO-MAMORI",
+    "kanji": "証拠守り",
+    "significado": "vide mamori"
+  },
+  {
+    "romaji": "SHOUMU-GAKARI",
+    "kanji": "庶務掛",
+    "significado": "Seção de serviços Gerais"
+  },
+  {
+    "romaji": "SHOUMU-KA",
+    "kanji": "庶務課",
+    "significado": "Divisão de Assuntos Gerais"
+  },
+  {
+    "romaji": "SHOUNAN",
+    "kanji": "小難",
+    "significado": "pequenos infortúnios / dainan wa shounan 大難は小難 grandes infortúnios para pequenos (D) p.46"
+  },
+  {
+    "romaji": "SHOUNEN-HINOKISHIN-TAI",
+    "kanji": "少年ひのきしん隊",
+    "significado": "Corpo de Hinokishin Infanto-Juvenil"
+  },
+  {
+    "romaji": "SHOUNEN-KAI",
+    "kanji": "少年会",
+    "significado": "Associação Infanto-Juvenil"
+  },
+  {
+    "romaji": "SHOZOKU",
+    "kanji": "所属",
+    "significado": "filiação"
+  },
+  {
+    "romaji": "SHUCCHOU-SHO",
+    "kanji": "出張所",
+    "significado": "centro missionário"
+  },
+  {
+    "romaji": "SHUGUENJA",
+    "kanji": "修験者",
+    "significado": "asceta (VO) p.2"
+  },
+  {
+    "romaji": "SHUGO",
+    "kanji": "守護",
+    "significado": "1. proteção, proteger e zelar / fushigui na shugo 不思議な守護 proteção maravilhosa (VO) p.29 / ichiretsu kodomo no seijin o shugo suru 一れつ子供の成人を守護する protegendo e zelando pela maturidade de todos os filhos, os seres humanos (D) p.41 / konoyo o shugo suru この世を守護する proteger este mundo 2. providência perfeita / juzen no shugo 十全の守護 dez providências perfeitas (D) p.30 3. graça / mezurashii shugo 珍しい守護 a graça extraordinária (D) p.21"
+  },
+  {
+    "romaji": "SHUGO-NO-RI",
+    "kanji": "守護の理",
+    "significado": "funções ou providências (D) p.14"
+  },
+  {
+    "romaji": "SHUNIN-HOUKOKU-SAI",
+    "kanji": "就任奉告祭",
+    "significado": "vide houkoku-sai"
+  },
+  {
+    "romaji": "SHUNKI-MITAMA-SAI",
+    "kanji": "春季霊祭",
+    "significado": "primeiro culto às almas"
+  },
+  {
+    "romaji": "SHUNKI-TAISAI",
+    "kanji": "春季大祭",
+    "significado": "1. Grande Festa do Recolhimento 2. Grande Festa Janeireira (FD) 3. Festa da Primavera (CV)"
+  },
+  {
+    "romaji": "SHUNKOKUGUEN",
+    "kanji": "旬刻限",
+    "significado": "o tempo predeterminado / shunkokuguen no ri 旬刻限の理 a razão do tempo predeterminado (D) p.26 / shunkokuguen no toorai 旬刻限の到来 a chegada do tempo predeterminado (4) p.59, 139"
+  },
+  {
+    "romaji": "SHUUCHAKU-O-SARU",
+    "kanji": "執着を去る",
+    "significado": "abandonar o apego (VO) p.19"
+  },
+  {
+    "romaji": "SHUUJI",
+    "kanji": "主事",
+    "significado": "diretor (ET) p.14"
+  },
+  {
+    "romaji": "SHUUKAI",
+    "kanji": "集会",
+    "significado": "Assembléia (ET) p.11"
+  },
+  {
+    "romaji": "SHUUKI-MITAMA-SAI",
+    "kanji": "秋季霊祭",
+    "significado": "segundo culto às almas"
+  },
+  {
+    "romaji": "SHUUKI-TAISAI",
+    "kanji": "秋季大祭",
+    "significado": "1. Grande Festa da Revelação 2. Grande Festa Outubrina (FD) 3. Grande Festa de Outono (I1)"
+  },
+  {
+    "romaji": "SHUUKYOU-HOUJIN-KA",
+    "kanji": "宗教法人課",
+    "significado": "Divisão da Instituição Religiosa"
+  },
+  {
+    "romaji": "SHUUNIN",
+    "kanji": "主任",
+    "significado": "diretora-geral (Associação Feminina) / kaigai shuunin 海外主任 diretora-geral da associação do exterior"
+  },
+  {
+    "romaji": "SHUUNYUU-GAKARI",
+    "kanji": "収入掛",
+    "significado": "Seção da Receita"
+  },
+  {
+    "romaji": "SHUUNYUU-KA",
+    "kanji": "収入課",
+    "significado": "Divisão da Receita"
+  },
+  {
+    "romaji": "SHUUREN-GAKARI",
+    "kanji": "修練掛",
+    "significado": "Seção de Treinamentos"
+  },
+  {
+    "romaji": "SHUURI",
+    "kanji": "修理",
+    "significado": "1. tratamento / ta no shuri 田の修理 tratamento das terras irrigadas (Of) X-16 / shuuri goe 修理肥 tratamento e fertilização (Of) IX-11 2. amanho / shuuri goe 修理肥 amanho ou adubo (D) p.26 3. reparo / shuuri goe 修理肥 reparo e adubagem (ET) p.10"
+  },
+  {
+    "romaji": "SHUURI-NIN",
+    "kanji": "修理人",
+    "significado": "reparadores (ET) p.5"
+  },
+  {
+    "romaji": "SHUUSA-SHITSU",
+    "kanji": "主査室",
+    "significado": "Escritório do Presidente da Banca de Examinadores"
+  },
+  {
+    "romaji": "SHUUYOUKA",
+    "kanji": "修養科",
+    "significado": "1. Shuyoka 2. curso de formação espiritual (FD)"
+  },
+  {
+    "romaji": "SHUUYOUKAI",
+    "kanji": "修養会",
+    "significado": "1. Shuyokai 2. curso de formação espiritual / gakusei seito shuuyoukai 学生生徒修養会 Curso de Formação Espiritual de Estudantes (FD) / burajiru shuuyoukai ブラジル修養会 curso de formação espiritual do Brasil"
+  },
+  {
+    "romaji": "SOKOHI",
+    "kanji": "ソコヒ",
+    "significado": "amaurose (E) p.27"
+  },
+  {
+    "romaji": "SOREIDEN",
+    "kanji": "祖霊殿",
+    "significado": "1. o Santuário dos Antepassados (G) p.4 2. o Memorial das Almas (ET) p.6"
+  },
+  {
+    "romaji": "SOREIDEN-GAKARI",
+    "kanji": "祖霊殿掛",
+    "significado": "Seção do Santuário dos Antepassados"
+  },
+  {
+    "romaji": "SOUGOU-ANNAI-GAKARI",
+    "kanji": "総合案内掛",
+    "significado": "Seção do Centro de Informações"
+  },
+  {
+    "romaji": "SOUGOU-ANNAI-SHO",
+    "kanji": "総合案内所",
+    "significado": "Centro de Informações"
+  },
+  {
+    "romaji": "SOUGUEI-HINOKISHIN",
+    "kanji": "送迎ひのきしん",
+    "significado": "Hinokishin de transportação"
+  },
+  {
+    "romaji": "SOUJI-SURU",
+    "kanji": "掃除する",
+    "significado": "limpar / hokori o souji suru ほこりを掃除する limpar as poeiras (D) p.50 / mune o souji suru 胸を掃除する limpar o coração (D) p.50"
+  },
+  {
+    "romaji": "SOUKAI",
+    "kanji": "総会",
+    "significado": "Assembléia-Geral / chuugoku tenrikyou soukai 中国天理教総会 Assembléia-Geral da Tenrikyo da China / fujin kai soukai 婦人会総会 Assembléia-Geral da Associação Feminina (FD) / seinen kai soukai 青年会総会 Assembléia-Geral da Associação dos Moços (FD)"
+  },
+  {
+    "romaji": "SOUMU-BU",
+    "kanji": "総務部",
+    "significado": "Departamento de Assuntos Gerais"
+  },
+  {
+    "romaji": "SOUMU-KA",
+    "kanji": "総務課",
+    "significado": "Divisão de Assuntos Gerais"
+  },
+  {
+    "romaji": "SOUSAI",
+    "kanji": "葬祭",
+    "significado": "cerimônia funeral"
+  },
+  {
+    "romaji": "SUICHUU-NO-SUMAI",
+    "kanji": "水中の住まい",
+    "significado": "vida aquática (D) p.23"
+  },
+  {
+    "romaji": "SUIDOU-KA",
+    "kanji": "水道課",
+    "significado": "Divisão das Águas"
+  },
+  {
+    "romaji": "SUIJAKU",
+    "kanji": "垂迹",
+    "significado": "a projeção (VO) p.51"
+  },
+  {
+    "romaji": "SUIJI-HONBU",
+    "kanji": "炊事本部",
+    "significado": "Cozinha Central da Sede"
+  },
+  {
+    "romaji": "SUIJI-KA",
+    "kanji": "炊事課",
+    "significado": "Divisão de Cozinha"
+  },
+  {
+    "romaji": "SUIKI",
+    "kanji": "水気",
+    "significado": "umidade / suiki ague sague no ri 水気上げ下げの理 a função da subida e descida da umidade (D) p.31"
+  },
+  {
+    "romaji": "SUINO",
+    "kanji": "すいの",
+    "significado": "filtro / suino to suna すいのとすな filtro e areia (Of) III-10"
+  },
+  {
+    "romaji": "SUMASU",
+    "kanji": "澄ます",
+    "significado": "purificar / kokoro sumasu 心すます será purificado (Of) XIII-82"
+  },
+  {
+    "romaji": "SUMIKIRU",
+    "kanji": "澄みきる",
+    "significado": "ser purificado / sekai ichiretsu kokoro sumikiru せかい一れつ心すみきる o espírito de todas as pessoas se purificará. (Of) V-49"
+  },
+  {
+    "romaji": "SUMIKOMI-NIN",
+    "kanji": "住み込み人",
+    "significado": "missionário que mora na igreja"
+  },
+  {
+    "romaji": "SUMIKOMI-SEINEN",
+    "kanji": "住み込み青年",
+    "significado": "jovem que mora na igreja"
+  },
+  {
+    "romaji": "SUMU",
+    "kanji": "澄 む",
+    "significado": "pura / sumu to nigori de satori toru nari すむとにごりでさとりとるなり Compreenderão através das palavras “pura” e “suja”. (Of) III-7"
+  },
+  {
+    "romaji": "SUN",
+    "kanji": "寸",
+    "significado": "sun, unidade de comprimento japonês (1 sun = 3,03cm) equivalente a dez bus ou um décimo de shaku, traduzida como polegada (cf. Doutrina da Tenrikyo) pois, apesar de não ser exato, meia polegada é aproximadamente cinco bus. (Dn) 27"
+  },
+  {
+    "romaji": "SUNAO",
+    "kanji": "素直",
+    "significado": "1. obediente / sunao na kokoro 素直な心 espírito obediente (E) p.39 2. correto e fiel / sunao ni 素直に correta e fielmente (D) p.55"
+  },
+  {
+    "romaji": "SURIGANE",
+    "kanji": "すりがね",
+    "significado": "gongo (SS) p.44"
+  },
+  {
+    "romaji": "SUWARI-ZUTOME",
+    "kanji": "座りづとめ",
+    "significado": "serviço sentado"
+  },
+  {
+    "romaji": "TADORU",
+    "kanji": "辿る",
+    "significado": "seguir / oyasama no hinagata o tadoru 教祖のひながたを辿る seguir a Vida-Modelo de Oyassama"
+  },
+  {
+    "romaji": "TAGAI",
+    "kanji": "互い",
+    "significado": "1. uns aos outros / tagai ni tate ai tasuke au 互いに立て合い扶け合う amar, respeitar e ajudar uns aos outros (D) p.17 2. mutuamente / tagai tate ai tasuke au kokoro 互い立て合い扶け合う心 o espírito de se respeitarem e auxiliarem mutuamente (4) p.165 / tagai tasuke ai 互い扶け合い ajuda mútua (K)"
+  },
+  {
+    "romaji": "TAIKAN-TENRIKYOU",
+    "kanji": "大韓天理教",
+    "significado": "Tenrikyo da Coréia"
+  },
+  {
+    "romaji": "TAIKO",
+    "kanji": "太鼓",
+    "significado": "bombo (SS) p.44"
+  },
+  {
+    "romaji": "TAINAI",
+    "kanji": "胎内",
+    "significado": "corpo / tainai irikonde 胎内入り込んで introduzindo-se no corpo (Of) VIII-50"
+  },
+  {
+    "romaji": "TAISAI",
+    "kanji": "大祭",
+    "significado": "Grande Festa (vide shunki taisai e shuki taisai)"
+  },
+  {
+    "romaji": "TAISHA",
+    "kanji": "大 社",
+    "significado": "grandes templos / taisha takayama 大社高山 grandes templos e altos montes (Of) VI-92"
+  },
+  {
+    "romaji": "TAISHOKUTAN-NO-MIKOTO",
+    "kanji": "たいしょく天のみこと",
+    "significado": "Taishokuten-no-Mikoto"
+  },
+  {
+    "romaji": "TAKAI-YAMA",
+    "kanji": "高い山",
+    "significado": "altos montes (Of) XV-58"
+  },
+  {
+    "romaji": "TAKAYAMA",
+    "kanji": "高山",
+    "significado": "os altos montes / takayama fukyo 高山布教 a propagação nos altos montes (VO) p.86"
+  },
+  {
+    "romaji": "TAKUJI-SHO",
+    "kanji": "託児所",
+    "significado": "vide tenri-takuji-sho"
+  },
+  {
+    "romaji": "TAMAKUSHI",
+    "kanji": "侠串",
+    "significado": "ramo sagrado / tamakushi houken 侠串奉献 oferenda do ramo sagrado"
+  },
+  {
+    "romaji": "TAMASHII",
+    "kanji": "魂",
+    "significado": "alma / onashi tamashii をなしたまひい almas iguais (Of) XIII-45 / dougu hinagata no tamashii 道具雛型の魂 as almas dos protótipos e instrumentos (4) p.248 / oyasama tamashii no innen 教祖魂のいんねん a predestinação da alma de Oyassama (D) p.26"
+  },
+  {
+    "romaji": "TAMESHI",
+    "kanji": "試し",
+    "significado": "a experiência / kono you no tashika tameshi ga kakete aru このよふのたしかためしかかけてある Tenho realizado certamente uma experiência no mundo. (Of) III-22"
+  },
+  {
+    "romaji": "TAN",
+    "kanji": "段",
+    "significado": "unidade de superfície japonês (1 tam = 991,8m2 = 10 ares)"
+  },
+  {
+    "romaji": "TANDOKU-FUKYOU",
+    "kanji": "単独布教",
+    "significado": "missionamento isolado / tandoku fukyou sha 単独布教者 missionário que atua isoladamente"
+  },
+  {
+    "romaji": "TANE",
+    "kanji": "種",
+    "significado": "semente / hanashi no tane 話の種 a semente das explanações (M) X-5 / shinjitsu no tane 真実の種 semente da sinceridade / tane no ri 種の理 a função de semente (D) p.31"
+  },
+  {
+    "romaji": "TANISOKO",
+    "kanji": "谷底",
+    "significado": "fundo dos vales (Of) III-125"
+  },
+  {
+    "romaji": "TANNOU",
+    "kanji": "たんのう",
+    "significado": "satisfação sincera, satisfação / tannou no kokoro たんのうの心 o espírito de satisfação (D) p.55 / tannou saseru たんのうさせる satisfazer (E) p.115 / tannou wa zenshou no innen no sangue たんのうは前生いんねんのさんげ a satisfação sincera é o arrependimento das más predestinações das vidas anteriores (D) p.55"
+  },
+  {
+    "romaji": "TANOMOSHII",
+    "kanji": "たのもしい",
+    "significado": "deleitante / tanomoshii oukan michi 頼もしい往還道 deleitante caminho verdadeiro (D) p.7"
+  },
+  {
+    "romaji": "TASUKARU",
+    "kanji": "たすかる",
+    "significado": "ser salvo"
+  },
+  {
+    "romaji": "TASUKE",
+    "kanji": "たすけ",
+    "significado": "1. salvação / fushigui na tasuke 不思議なたすけ a salvação maravilhosa (VO) p.34 / jitsu no tasuke 実のたすけ a salvação verdadeira (M) III-4 / mezurashii tasuke 珍しいたすけ a salvação extraordinária (Of) XVII-52 / imamade ni nai tasuke いまゝでにないたすけ a salvação não tida até agora (Of) IX-29 / tasuke ai たすけ合い salvando uns aos outros (M) IV-7 / tasuke ichijou たすけ 一条 vide ichijou / tasuke no motodate たすけのもとだて o meio fundamental da salvação (M) VI-4 / tasuke zutome たすけづとめ Serviço da Salvação (D) p.16 / yorozu tasuke よろづたすけ a salvação universal (VO) p.35 2. proteção / mezurashii shinjitsu no tasuke 珍しい真実のたすけ toda espécie de proteção onipotente (VO) p.94"
+  },
+  {
+    "romaji": "TASUKE-IIN-KAI",
+    "kanji": "たすけ委員会",
+    "significado": "Comissão de Salvação"
+  },
+  {
+    "romaji": "TASUKE-IIN-CHO",
+    "kanji": "たすけ委員長",
+    "significado": "chefe da Comissão de Salvação"
+  },
+  {
+    "romaji": "TASUKE-JIKKOU-IIN-KAI",
+    "kanji": "たすけ実行委員会",
+    "significado": "Comissão Executiva da Salvação"
+  },
+  {
+    "romaji": "TASUKE-JOUNIN-IIN-KAI",
+    "kanji": "たすけ常任委員会",
+    "significado": "Comissão Permanente da Salvação"
+  },
+  {
+    "romaji": "TASUKE-SUISHIN-IIN-KAI",
+    "kanji": "たすけ推進委員会",
+    "significado": "Comissão Promotora da Salvação"
+  },
+  {
+    "romaji": "TASUKERU",
+    "kanji": "たすける",
+    "significado": "salvar / dandan to nihon tasukeru moyoudate たん／＼とにほんたすけるもよふだて Dispondo-se gradualmente a salvar a região dos esclarecidos (Of) II-33"
+  },
+  {
+    "romaji": "TATE-AI",
+    "kanji": "立て合い",
+    "significado": "conjuntura / sadame no hito to"
+  },
+  {
+    "romaji": "TATE-AU",
+    "kanji": "立て合う",
+    "significado": "1. coincidir / kanashii dekigoto to tokishun ga tate au 悲しい出来事と時旬が立て合う o acontecimento triste e o tempo oportuno se coincidem 2. respeitar mutuamente / tagai ni tate ai tasuke au 互いに立て合い扶け合う respeitar e ajudar mutuamente"
+  },
+  {
+    "romaji": "TATE-KAWARU",
+    "kanji": "立て変わる",
+    "significado": "reconstruir / youki gurashi no sekai ni tate kawaru 陽気ぐらしの世界に立て変わる reconstruir ao mundo de vida plena de alegria e felicidade"
+  },
+  {
+    "romaji": "TATEMAE-TOURYOU",
+    "kanji": "たてまえとうりょう",
+    "significado": "mestre edificador (M) XII-9"
+  },
+  {
+    "romaji": "TATE-NO-DENDOU",
+    "kanji": "縦の伝道",
+    "significado": "1. propagação ou missionamento vertical 2. transmissão familiar"
+  },
+  {
+    "romaji": "TATSUMI",
+    "kanji": "巽",
+    "significado": "sudeste (D) p.21"
+  },
+  {
+    "romaji": "TE",
+    "kanji": "手",
+    "significado": "1. mãos / teodori てをどり Dança das Mãos (D) p.37 2. mover das mãos (do Serviço) / kokoro shizumente hayaku te o tsuke 心しづめてはやくてをつけ Aprendam logo o mover das mãos, acalmando o espírito. (Of) IV-92 3. completar o número (do pessoal do Serviço) / tsutome no ninju te ga sorou つとめの人衆手がそろう número do pessoal ficar completo (VO) p.137"
+  },
+  {
+    "romaji": "TEBIKI",
+    "kanji": "てびき",
+    "significado": "orientação (D) p.42"
+  },
+  {
+    "romaji": "TEBURI",
+    "kanji": "手振り",
+    "significado": "movimentação das mãos (4) p.39"
+  },
+  {
+    "romaji": "TEHON-HINAGATA",
+    "kanji": "手本雛型",
+    "significado": "um exemplo de vida / tochi tokoro no tehon-hinagata 土地ところの手本雛型 um exemplo de vida no local onde estiver (D) p.64"
+  },
+  {
+    "romaji": "TEIRE",
+    "kanji": "手入れ",
+    "significado": "cuidado / dan dan teiri suru だん／＼ていりする cuidarei gradualmente (Of) III-132 / teiri sareru ていりされる toma várias espécies de cuidado (D) p.62 / tsukihi teiri ya 月日ていりや é cuidado de Tsukihi (Of) X-68"
+  },
+  {
+    "romaji": "TEN",
+    "kanji": "天",
+    "significado": "céu / ten no atae 天の与え a dádiva do céu (Of) IV-12 / ten no jogui 天の定規 a régua do céu (E) p.23 / ten no ri 天の理 razão do céu, razão celeste (D) p.32 / ten no shogun 天の将軍 o general do céu (4) p.224"
+  },
+  {
+    "romaji": "TENRI-CHUU-GAKKOU",
+    "kanji": "天理中学校",
+    "significado": "Ginásio de Tenri (C) p.84"
+  },
+  {
+    "romaji": "TENRI-DAIGAKU",
+    "kanji": "天理大学",
+    "significado": "Universidade Tenri (nome oficial: Gakkou-Houjin-Tenri-Daigaku-Fundação Educacional Universidade Tenri)"
+  },
+  {
+    "romaji": "TENRI-DAIGAKU-FUZOKU-XXX",
+    "kanji": "天理大学付属 XXX",
+    "significado": "procure por “XXX”"
+  },
+  {
+    "romaji": "TENRI-DAIGAKU-XXX",
+    "kanji": "天理大学 XXX",
+    "significado": "procure por “XXX”"
+  },
+  {
+    "romaji": "TENRI-JIHOU",
+    "kanji": "天理時報",
+    "significado": "jornal Tenri Jiho (C) p.83"
+  },
+  {
+    "romaji": "TENRI-JIHOU-SHA",
+    "kanji": "天理時報社",
+    "significado": "Tenri Jihosha"
+  },
+  {
+    "romaji": "TENRI-KOUTOU-GAKKOU",
+    "kanji": "天理高等学校",
+    "significado": "Colégio de Tenri / tenri koutou gakkou dai ni bu 天理高等学校第二部 curso noturno do Colégio de Tenri (FD) / tenri koutou gakkou ichi rui 天理高等学校一塁 curso diurno do Colégio de Tenri (ET) p.29"
+  },
+  {
+    "romaji": "TENRI-KYOUKOU",
+    "kanji": "天理教校",
+    "significado": "Seminário de Tenri (ET) p.30"
+  },
+  {
+    "romaji": "TENRI-KYOUKOU-XXX",
+    "kanji": "天理教 XXX",
+    "significado": "procure por “XXX”"
+  },
+  {
+    "romaji": "TENRI-KYOUKOU-GAKUEN",
+    "kanji": "天理教校学園",
+    "significado": "Seminário de Tenri (nome oficial: Gakkou-Houjin-Tenri-Kyoukou-Gakuen-Fundação Educacional Seminário de Tenri)"
+  },
+  {
+    "romaji": "TENRI-OU-NO-MIKOTO",
+    "kanji": "天理王命",
+    "significado": "Tenri-Ô-no-Mikoto; nome atribuído a Deus-Parens. Significa literalmente senhor rei da razão celeste ou verdade eterna. (Dn) 3"
+  },
+  {
+    "romaji": "TENRI-SANKOUKAN",
+    "kanji": "天理参考館",
+    "significado": "Museu Tenri-Sankokan (nome oficial: Tenri Daigaku Fuzoku Tenri Sankoukan)"
+  },
+  {
+    "romaji": "TENRI-SHOUGAKKOU",
+    "kanji": "天理小学校",
+    "significado": "Escola Elementar de Tenri (FD)"
+  },
+  {
+    "romaji": "TENRI-TAKUJI-SHO",
+    "kanji": "天理託児所",
+    "significado": "Creche de Tenri (CV)"
+  },
+  {
+    "romaji": "TENRI-TOSHOUKAN",
+    "kanji": "天理図書館",
+    "significado": "Biblioteca Tenri (nome oficial: Tenri Daigaku Fuzoku Tenri Toshoukan)"
+  },
+  {
+    "romaji": "TENRI-YAMATO-BUNKA-KAIGUI",
+    "kanji": "天理やまと文化会議",
+    "significado": "Conselho Cultural Tenri-Yamato"
+  },
+  {
+    "romaji": "TENRI-YOUCHIEN",
+    "kanji": "天理幼稚園",
+    "significado": "Jardim de Infância Tenri (FD)"
+  },
+  {
+    "romaji": "TENRI-YOUTOKUIN",
+    "kanji": "天理養徳院",
+    "significado": "Orfanato Tenri Yotokuin"
+  },
+  {
+    "romaji": "TENRIKYOU",
+    "kanji": "天理教",
+    "significado": "Tenrikyo, Igreja Tenrikyo"
+  },
+  {
+    "romaji": "TENRIKYOU-CHOUSA-DAN",
+    "kanji": "天理教調査団",
+    "significado": "vide maizou-bunkazai-tenrikyou-chousa-dan"
+  },
+  {
+    "romaji": "TENRIKYOU-GOGAKU-IN",
+    "kanji": "天理教語学院",
+    "significado": "vide TLI"
+  },
+  {
+    "romaji": "TENRIKYOU-KEIHATSU-IINKAI",
+    "kanji": "天理教啓発委員会",
+    "significado": "Comissão de Esclarecimento da Tenrikyo"
+  },
+  {
+    "romaji": "TENRIKYOU-KYOUCHOU",
+    "kanji": "天理教教庁",
+    "significado": "vide kyouchou"
+  },
+  {
+    "romaji": "TENRIKYOU-KYOUKAI-HONBU",
+    "kanji": "天理教教会本部",
+    "significado": "Sede da Igreja Tenrikyo"
+  },
+  {
+    "romaji": "TENRIKYOU-KYOUKI",
+    "kanji": "天理教教規",
+    "significado": "Estatutos da Tenrikyo"
+  },
+  {
+    "romaji": "TENSEI",
+    "kanji": "点晴",
+    "significado": "o acabamento / oshie no tensei 教えの点晴 o acabamento dos ensinamentos (D) p.26"
+  },
+  {
+    "romaji": "TEODORI",
+    "kanji": "てをどり",
+    "significado": "Dança das Mãos / teodori no sazuke てをどりのさづけ a Concessão da Dança das Mãos (D) p.17 / teodori no te てをどりの手 os movimentos da Dança das Mãos (D) p.37"
+  },
+  {
+    "romaji": "TESSEN",
+    "kanji": "撤饌",
+    "significado": "remoção das oferendas (SS) p.25"
+  },
+  {
+    "romaji": "TLI",
+    "kanji": "ティー・エル・アイ",
+    "significado": "Instituto de Línguas da Tenrikyo (Tenrikyo Language Institute)"
+  },
+  {
+    "romaji": "TOBIRA",
+    "kanji": "扉",
+    "significado": "portal / oyagami ga yashiro no tobira o hiraite deta 親神が社の扉を開いて出た Eu, Deus-Parens, saí finalmente, abrindo o portal do meu Sacrário. (4) p.259 / yashiro no tobira o hiraku やしろの扉を開く abrir o portal (4) p.259"
+  },
+  {
+    "romaji": "TOCHI-TOKORO",
+    "kanji": "土地ところ",
+    "significado": "o local onde estiver / tochi tokoro no tehon hinagata 土地ところの手本雛型 um exemplo de vida no local onde estiver (D) p.64"
+  },
+  {
+    "romaji": "TOHASHIRA-NO-KAMINA",
+    "kanji": "十柱の神名",
+    "significado": "Os dez nomes divinos"
+  },
+  {
+    "romaji": "TOKI-SHUN",
+    "kanji": "時旬",
+    "significado": "a época oportuna (4) p.190 / toki shun no ri 時旬の理 a razão da época oportuna"
+  },
+  {
+    "romaji": "TOKU",
+    "kanji": "徳",
+    "significado": "mérito (E) p.50"
+  },
+  {
+    "romaji": "TORIHARAU",
+    "kanji": "取り払う",
+    "significado": "1. retirar / toriharai seyo 取り払いせよ até mesmo proibido (Of) III-1 2. proibir / toriharai made 取り払いまで até mesmo proibido (Of) VIII-5"
+  },
+  {
+    "romaji": "TORIME",
+    "kanji": "とりめ",
+    "significado": "a colheita / torime ga sadamarita とりめが定まりた A colheita será determinada (M) I-10"
+  },
+  {
+    "romaji": "TORITSUGUI",
+    "kanji": "取次",
+    "significado": "1. ministro, ministros dos afazeres divinos (4) p.154 2. intermediário (4) p.289 3. mediadores / kore toritsugui ni shikomitai no ya これとりつぎにしこみたいのや Desejo instruir isto aos mediadores (Of) X-49"
+  },
+  {
+    "romaji": "TORITSUGUI-NIN",
+    "kanji": "取次人",
+    "significado": "ministro, ministrador / besseki toritsugui nin 腹席取次人 ministro de Besseki"
+  },
+  {
+    "romaji": "TORITSUGU",
+    "kanji": "取り次ぐ",
+    "significado": "1. ministrar / sazuke o toritsugu さづけを取り次ぐ ministrar o Sazuke (D) p.63 2. transmitir / hitokoto no hanashi o toritsugu 一言の話を取り次ぐ transmitir as palavras de Deus-Parens (D) p.63"
+  },
+  {
+    "romaji": "TOU",
+    "kanji": "斗",
+    "significado": "unidade de volume japonês (1 tou = 18,04 l)"
+  },
+  {
+    "romaji": "TOUMYOU",
+    "kanji": "灯明",
+    "significado": "lanterna"
+  },
+  {
+    "romaji": "TOURYOU",
+    "kanji": "とうりょう",
+    "significado": "mestre (título dos dirigentes da Tenrikyo) / kozaiku toryo こざいくとうりょう mestre marceneiro (M) XII-9 (vide também arakitouryou, tate-mae-touryou, omote-touryou e uchi-touryou)"
+  },
+  {
+    "romaji": "TOYODA-SANSHA",
+    "kanji": "豊田山舎",
+    "significado": "cemitério Toyoda Sansha"
+  },
+  {
+    "romaji": "TOUKAI",
+    "kanji": "東海",
+    "significado": "Tôkai; zona litorânea centro-sul de Honshu, a ilha principal do Japão. (Dn) 36"
+  },
+  {
+    "romaji": "TSUBO",
+    "kanji": "坪",
+    "significado": "tsubo, unidade de superfície japonesa (1 tsubo = 3,31m2) / hito tsubo shihou 一坪四方 quadrada de um tsubo (VO) p.43"
+  },
+  {
+    "romaji": "TSUCHI-MOCHI",
+    "kanji": "土持ち",
+    "significado": "transporte de terra / itsu itsu made mo tsuchi mochi ya いつ／＼まですちもちや É transporte de terra para todo o sempre (M) XI-5 / tsuchi mochi hinokishin 土持ちひのきしん Hinokishin de transporte de terra"
+  },
+  {
+    "romaji": "TSUISHOU",
+    "kanji": "ついしょう",
+    "significado": "lisonja / uso to tsuisho kore kirai うそとついしょうこれきらい Detesto a mentira e a lisonja. (D) p.50"
+  },
+  {
+    "romaji": "TSUKE-KAKERU",
+    "kanji": "付けかける",
+    "significado": "começar a abrir / korekara wa oukan michi o tsuke kakeru これからハをくハんみちをつけかける Doravante, começarei a abrir um amplo caminho (Of) II-1"
+  },
+  {
+    "romaji": "TSUKI-HI",
+    "kanji": "月日",
+    "significado": "1. Tsukihi / kono yoo no shinjitsu no oya sukihi nari このよふのしんぢつのをや月日なり Sou Tsukihi, o Parens verdadeiro deste mundo (Of) VI-102 2. Lua-Sol (E) p.26 3. Deus-Parens / tsukihi no yashiro 月日のやしろ Sacrário de Deus-Parens (VO) p.1 (vide também yashiro)"
+  },
+  {
+    "romaji": "TSUKIMONO",
+    "kanji": "憑きもの",
+    "significado": "possuída por gênios do mal (D) p.5, pessoa possuída por algum gênio do mal (4) p.21"
+  },
+  {
+    "romaji": "TSUKINAMI-SAI",
+    "kanji": "月次祭",
+    "significado": "serviço mensal"
+  },
+  {
+    "romaji": "TSUKI-SAMA",
+    "kanji": "月さま",
+    "significado": "Tsuki-sama (Lua) (D) p.22"
+  },
+  {
+    "romaji": "TSUKIYOMI-NO-MIKOTO",
+    "kanji": "月よみのみこと",
+    "significado": "Tsukiyomi-no-Mikoto (D) p.30"
+  },
+  {
+    "romaji": "TSUKUSHI-HAKOBI",
+    "kanji": "つくし、はこび",
+    "significado": "vide hakobu"
+  },
+  {
+    "romaji": "TSUKUSU",
+    "kanji": "つくす",
+    "significado": "dedicar"
+  },
+  {
+    "romaji": "TSUMESHO",
+    "kanji": "詰所",
+    "significado": "dormitório ou alojamento (ET) p.37"
+  },
+  {
+    "romaji": "TSUMESHO-GAKARI",
+    "kanji": "詰所掛",
+    "significado": "Seção de Alojamentos"
+  },
+  {
+    "romaji": "TSUNAGUI",
+    "kanji": "つなぎ",
+    "significado": "função conexadora (D) p.30"
+  },
+  {
+    "romaji": "TSUPPARI",
+    "kanji": "つっぱり",
+    "significado": "função de suporte (D) p.31"
+  },
+  {
+    "romaji": "TSUTOME",
+    "kanji": "つとめ",
+    "significado": "1. Tsutome 2. Serviço/ asa yu no tsutome 朝夕のつとめ serviço matutino e vespertino / ippan kyokai no tsutome 一箱教会のつとめ o serviço executado nas igrejas, serviço realizado nas igrejas locais / tokubetsu negai no tsutome 特腹願いのつとめ serviço de solicitação específica / tsutome houshisha つとめ奉仕者 servidor do serviço (Y) p.40"
+  },
+  {
+    "romaji": "TSUTOME-BASHO",
+    "kanji": "つとめ場所",
+    "significado": "O local do serviço sagrado (VO) p.43"
+  },
+  {
+    "romaji": "TSUTOME-NINJUU",
+    "kanji": "つとめ人衆",
+    "significado": "pessoal do serviço (SS) p.3"
+  },
+  {
+    "romaji": "UCHIGURA",
+    "kanji": "内蔵",
+    "significado": "depósito interno (E) p.1"
+  },
+  {
+    "romaji": "UCHI-TOURYOU",
+    "kanji": "内統領",
+    "significado": "Diretor-Geral de Assuntos Religiosos"
+  },
+  {
+    "romaji": "UCHI-TOURYOU-SHITSU",
+    "kanji": "内統領室",
+    "significado": "Escritório de Assuntos Religiosos"
+  },
+  {
+    "romaji": "UCHIWAKE-BASHO",
+    "kanji": "打ち分け場所",
+    "significado": "local de esclarecimentos (E) p.38"
+  },
+  {
+    "romaji": "UJIGAMI",
+    "kanji": "氏神",
+    "significado": "a divindade padroeira (VO) p.17"
+  },
+  {
+    "romaji": "UKAGAU",
+    "kanji": "伺う",
+    "significado": "consultar / oyagami no oboshimeshi o ukagau 親神の思召を伺う consultar a intenção de Deus-Parens / ri o ukagau 理を伺う consultar a razão / ukagai 伺い consultas de oráculos (Of) III-45 / ukagai no osashizu 伺いのおさしづ indicações por consultas / ukagai no ougui 伺いの扇 o leque da consulta"
+  },
+  {
+    "romaji": "UMARE-KAWARI",
+    "kanji": "生まれ変わり",
+    "significado": "renascer (D) p.23"
+  },
+  {
+    "romaji": "UNAGUI",
+    "kanji": "うなぎ",
+    "significado": "enguia (D) p.21"
+  },
+  {
+    "romaji": "UN’EI-KA",
+    "kanji": "運営課",
+    "significado": "Divisão de Gerência"
+  },
+  {
+    "romaji": "UO",
+    "kanji": "うを",
+    "significado": "sirênio (D) p.20"
+  },
+  {
+    "romaji": "URAMI",
+    "kanji": "うらみ",
+    "significado": "rancor (D) p.50"
+  },
+  {
+    "romaji": "URUOI",
+    "kanji": "うるおい",
+    "significado": "umidade / me uruoi 眼うるおい função dos olhos (D) p.30"
+  },
+  {
+    "romaji": "USHITORA",
+    "kanji": "艮",
+    "significado": "nordeste (D) p.21"
+  },
+  {
+    "romaji": "USO",
+    "kanji": "うそ",
+    "significado": "a mentira / uso to tsuisho kore kirai うそとついしょうこれきらい detesto a mentira e a lisonja (D) p.50"
+  },
+  {
+    "romaji": "UTSUSHIMI",
+    "kanji": "現身",
+    "significado": "vida física, corpo / utsushimi o kakusareta 現身を隠された veio a encurtar sua existência física (4) p.260, deixou o seu corpo (4) p.257"
+  },
+  {
+    "romaji": "UTSUSU",
+    "kanji": "映す",
+    "significado": "refletir / ri o chihou e utsusu 理を地方へ映す refletir a verdade na região / ten no ri o utsusu 天の理を映す refletir a razão celeste (D) p.64"
+  },
+  {
+    "romaji": "UTTOUSHII",
+    "kanji": "うっとうしい",
+    "significado": "chato"
+  },
+  {
+    "romaji": "WAGAMI-KATTE",
+    "kanji": "我が身勝手",
+    "significado": "(ações/atitudes) egoísticas / wagami katte na kokoro zukai 我身勝手な心遣い atitudes egoísticas a seu bel-prazer (4) p.166 / wagami katte no kokoro 我身勝手の心 o espírito egoísta e caprichoso (D) p.68 / wagami katte no kokorozukai 我身勝手の心遣い as ações egoísticas do espírito humano (D) p.8"
+  },
+  {
+    "romaji": "WAGAMI-SHIAN",
+    "kanji": "我が身思案",
+    "significado": "as cogitações egoísticas (D) p.4"
+  },
+  {
+    "romaji": "WAGA-NO-RI",
+    "kanji": "我がの理",
+    "significado": "o bem próprio (D) p.49"
+  },
+  {
+    "romaji": "WARE-SAE-YOKUBA-NO",
+    "kanji": "我さえよくばの",
+    "significado": "interessar-se somente pelo seu bem-estar (D) p.42"
+  },
+  {
+    "romaji": "WATAIRE",
+    "kanji": "綿入れ",
+    "significado": "a veste preta estofada de algodão (4) p.222"
+  },
+  {
+    "romaji": "YADOSHIKOMI",
+    "kanji": "宿し込み",
+    "significado": "a concepção humana / yadoshikomi no innen aru moto no yashiki 宿し込みのいんねんある元のやしき residência original predestinada pela concepção humana (D) p.20"
+  },
+  {
+    "romaji": "YADOSHIKOMU",
+    "kanji": "宿し込む",
+    "significado": "fazer conceber / kuoku kuman kusen kuhyaku kuju ku nin no kokazu o izanami-no-mikoto no tainai ni yadoshikomu 九億九万九千九百九十九人の子数をいざなみのみことの胎内に宿し込む fazer conceber no ventre da Izanagui-no-mikoto novecentos milhões, noventa e nove mil, novecentos e noventa e nove filhos (D) p.22"
+  },
+  {
+    "romaji": "YAKUIN",
+    "kanji": "役員",
+    "significado": "diretor"
+  },
+  {
+    "romaji": "YAMAI",
+    "kanji": "病",
+    "significado": "doenças / yamai no ne ga kireru 病の根が切れる as doenças serão desarraigadas (D) p.18 / yamai no ne ga kiro やまいのねえをきろふ cortarei a raiz das doenças (M) II-8"
+  },
+  {
+    "romaji": "YAMASAKA",
+    "kanji": "山坂",
+    "significado": "ladeiras e montanhas (Of) I-47"
+  },
+  {
+    "romaji": "YAMATO",
+    "kanji": "大和",
+    "significado": "atual Província de Nara (Dn) 32"
+  },
+  {
+    "romaji": "YAMATO-BUNKA-KAIGUI",
+    "kanji": "やまと文化会議",
+    "significado": "vide tenri-yamato-bunka-kaigui"
+  },
+  {
+    "romaji": "YAMAZU-YOWARAZU",
+    "kanji": "病まず弱らず",
+    "significado": "nunca ficando doentes nem enfraquecidos (D) p.51"
+  },
+  {
+    "romaji": "YASHIKI",
+    "kanji": "屋敷",
+    "significado": "residência / yadoshikomi no innen aru moto no yashiki 宿し込みのいんねんある元のやしき residência original predestinada pela concepção humana (D) p.20 / yashiki no innen 屋敷のいんねん a predestinação da residência (D) p.26 / yashiki no souji 屋敷の掃除 a limpeza da Residência (Of) II-18"
+  },
+  {
+    "romaji": "YASHIRO",
+    "kanji": "やしろ",
+    "significado": "1. Sacrário / miki o kami no yashiro ni morai uketai みきを神のやしろに貰い受けたい Desejo Miki como meu Sacrário. (D) p.3 2. Templo ou Templo-Vivo / tsukihi no yashiro 月日のやしろ Templo ou Templo-Vivo de Tsukihi, Templo ou Templo-Vivo de Deus-Parens (Dn) 1 3. capelinha (SS) p.19"
+  },
+  {
+    "romaji": "YATTSU-NO-HOKORI",
+    "kanji": "八つのほこり",
+    "significado": "vide hokori"
+  },
+  {
+    "romaji": "YOKO-NO-FUKYOU",
+    "kanji": "横の布教",
+    "significado": "1. missão horizontal 2. divulgação social"
+  },
+  {
+    "romaji": "YOKU",
+    "kanji": "よく",
+    "significado": "ambição / kono michi ha oshii hoshii to kawaii to yoku to kouman kore ga hokoriya このみちハをしいほしいとよくとこふまんこれがほこりや Este caminho é a mesquinhez, cobiça e o amor-próprio, a ambição e o orgulho. Estas são as poeiras. (Of) III-96 / yoku no kokoro 欲の心 a ambição (M) VIII-4"
+  },
+  {
+    "romaji": "YONOMOTO",
+    "kanji": "よのもと",
+    "significado": "origem do mundo / tsutome no basho wa yonomoto ya つとめのばしょはよのもとや o Local do Serviço é a origem do mundo (M) III"
+  },
+  {
+    "romaji": "YONOMOTO-KAI",
+    "kanji": "よのもと会",
+    "significado": "1. Yonomotokai 2. Associação dos Yoboku (ET) p.17 3. Associação dos Fiéis"
+  },
+  {
+    "romaji": "YONONAKA",
+    "kanji": "よのなか",
+    "significado": "todos os locais (Of) I-9"
+  },
+  {
+    "romaji": "YOOROPPA-AFURIKA-KA",
+    "kanji": "ヨーロッパ・アフリカ課",
+    "significado": "Divisão de Europa e África"
+  },
+  {
+    "romaji": "YOROKOBI-ISANDE",
+    "kanji": "喜び勇んで",
+    "significado": "com alegria e animação"
+  },
+  {
+    "romaji": "YOROZU",
+    "kanji": "よろづ",
+    "significado": "1. todas as coisas / yorozu isai no moto naru o よろづいさいのもとなるを a origem de todas as coisas (M) Y-6º / yorozu isai no shinjitsu よろづ委細の真実 a verdade de todas as coisas (D) p.12 / yorozu tasuke no michi よろづたすけの道 o caminho real para todas as salvações (D) p.12 2. universal / yorozu tasuke よろづたすけ a salvação universal (VO) p.35 3. em geral / yorozu tsuppari shugo no ri 万つっぱりの守護の理 a função de suporte em geral (D) p.31"
+  },
+  {
+    "romaji": "YOROZU-SOUDAN-SHO",
+    "kanji": "よろづ相談所",
+    "significado": "Yorozu-sôdansho (nome oficial: zaidan houjin tenri yorozu soudan sho-Fundação Tenri Yorozu Sôdansho)"
+  },
+  {
+    "romaji": "YOROZUYO-HASSHUU",
+    "kanji": "よろずよ八首",
+    "significado": "as oito estrofes do Yorozuyo (VO) p.60"
+  },
+  {
+    "romaji": "YOSEKAJI",
+    "kanji": "寄加持",
+    "significado": "receptora (VO) p.3, prece evocatória(VO) p.3"
+  },
+  {
+    "romaji": "YOSHIDA-JINGUI-KANRYOU",
+    "kanji": "吉田神祇官領",
+    "significado": "a Agência de Administração-Geral do Xintó Yoshida (VO) p.79"
+  },
+  {
+    "romaji": "YOUBOKU",
+    "kanji": "よふぼく",
+    "significado": "1. yoboku 2. material humano (D) p.61 3. madeira usável (Dn) 13 4. madeira de lei (D) p.61"
+  },
+  {
+    "romaji": "YOUDO-KA",
+    "kanji": "用度課",
+    "significado": "Divisão de Almoxarifado"
+  },
+  {
+    "romaji": "YOUGUI",
+    "kanji": "用木",
+    "significado": "mesmo que yôboku. (vide youboku)"
+  },
+  {
+    "romaji": "YOUHAI",
+    "kanji": "遥拝",
+    "significado": "reverência"
+  },
+  {
+    "romaji": "YOUKI",
+    "kanji": "陽気",
+    "significado": "alegre, alegria / youki na kokoro 陽気な心 o espírito cheio de alegria (D) p.67 / youki ni 陽気に alegre (M) IV-5"
+  },
+  {
+    "romaji": "YOUKI-BUSHIN",
+    "kanji": "陽気普請",
+    "significado": "vide youki-fushin"
+  },
+  {
+    "romaji": "YOUKI-FUSHIN",
+    "kanji": "陽気ふしん",
+    "significado": "construção alegre (D) p.18"
+  },
+  {
+    "romaji": "YOUKI-GURASHI",
+    "kanji": "陽気ぐらし",
+    "significado": "a vida plena de alegria e felicidade / korega, youki gurashi no kyouchi de aru これが、陽気ぐらしの境地である Isto é a vida plena de alegria e felicidade no seu sentido real (D) p.67 / youki gurashi no hinagata 陽気ぐらしの雛形 um exemplo de vida plena de alegria (D) p.7"
+  },
+  {
+    "romaji": "YOUKI-YUSAN",
+    "kanji": "陽気遊山",
+    "significado": "recreações alegres, recreações alegres e felizes, vida plena de recreações alegres e felizes"
+  },
+  {
+    "romaji": "YOUKI-ZUKUME",
+    "kanji": "陽気づくめ",
+    "significado": "1. transbordante de prazer, repleto de alegria / yoki zukume no sekai 陽気づくめの世界 o mundo transbordante de prazer, repleto de alegria (D) p.70 2. vida plena de alegria / yoki zukume no michi 陽気づくめの道 O Caminho da Vida Plena de Alegria (CV)"
+  },
+  {
+    "romaji": "YOUKI-ZUTOME",
+    "kanji": "陽気づとめ",
+    "significado": "Serviço Alegre / matasaki no youki-zutome o machikaneru よふきづとめ Espero ansioso pelo posterior Serviço Alegre (Of) IV-29 / yoki zutome no ri 陽気づとめの理 a razão do Serviço Alegre (D) p.20"
+  },
+  {
+    "romaji": "YOUMUKI",
+    "kanji": "よふむき",
+    "significado": "incumbências (4) p.137"
+  },
+  {
+    "romaji": "YOUTOKU-IN",
+    "kanji": "養徳院",
+    "significado": "vide Tenri-Youtokuin"
+  },
+  {
+    "romaji": "YOUZAI",
+    "kanji": "用材",
+    "significado": "madeira útil"
+  },
+  {
+    "romaji": "YURUSHI",
+    "kanji": "許し",
+    "significado": "permissão"
+  },
+  {
+    "romaji": "YUSOU-BU",
+    "kanji": "輸送部",
+    "significado": "Departamento de Transporte"
+  },
+  {
+    "romaji": "YUSOU-IKKA",
+    "kanji": "輸送一課",
+    "significado": "Divisão de Transportes I"
+  },
+  {
+    "romaji": "YUSOU-NIKA",
+    "kanji": "輸送二課",
+    "significado": "Divisão de Transportes II"
+  },
+  {
+    "romaji": "YUTATSU",
+    "kanji": "諭達",
+    "significado": "Instrução/ yutatsu dai ichi go 諭達第一号 Instrução 1 (11)"
+  },
+  {
+    "romaji": "YUU-ZUTOME",
+    "kanji": "夕づとめ",
+    "significado": "serviço vespertino"
+  },
+  {
+    "romaji": "ZAIDAN-HOUJIN-TENRI-YOROZU-SOUDAN-SHO",
+    "kanji": "財団法人天理よろづ相談所",
+    "significado": "vide yorozu-soudan-sho"
+  },
+  {
+    "romaji": "ZAIDAN-HOUJIN-TENRIKYOU-ICHIRETSU-KAI",
+    "kanji": "財団法人天理教一れつ会",
+    "significado": "vide ichiretsu-kai"
+  },
+  {
+    "romaji": "ZANNEN",
+    "kanji": "残念",
+    "significado": "desapontamento ou pesar / kami no zannen 神のざんねん pesar de Deus (Of) III-58 / zannen na 残念な Que pesar! (M) XI-9"
+  },
+  {
+    "romaji": "ZENKYOU-ISSAI",
+    "kanji": "全教一斉",
+    "significado": "Geral / zenkyou issai hinokishin dee 全教一斉ひのきしんデー Dia de Hinokishin Geral (FD) / zenkyou issai nioigake dee 全教一斉にをいがけデー Dia de Divulgação Geral (FD)"
+  },
+  {
+    "romaji": "ZENSHOU",
+    "kanji": "前生",
+    "significado": "vidas anteriores / zenshou no innen 前生のいんねん as predestinações das vidas anteriores (Of) I-74"
+  },
+  {
+    "romaji": "ZEN-TO-AKU",
+    "kanji": "善と悪",
+    "significado": "o bem e o mal, o julgamento do bem e do mal"
+  },
+  {
+    "romaji": "ZONMEI",
+    "kanji": "存命",
+    "significado": "1. como em vida / zonmei no mama 存命のまま tal como se estivesse viva (D) p.41 2. permanência em vida / zonmei no ri 存命の理 razão em permanência em vida (VO) p.251"
+  },
+  {
+    "romaji": "ZONMEI-NO-OYASAMA",
+    "kanji": "存命の教祖",
+    "significado": "1. a razão da vivência de Oyassama 2. Oyassama eternamente viva (I1)"
   }
 ]
