@@ -1,0 +1,784 @@
+[
+  {
+    "hino_romaji": "Yorozuyo",
+    "hino_kanji": "よろづよ八首",
+    "versos": [
+      {
+        "verso_numero": 1,
+        "romaji": "Yorozuyo no sekai ichiretsu miharasedo, Mune no wakarita mono wa nai.",
+        "kanji": "よろづよのせかい一れつみはらせど むねのわかりたものはない",
+        "traducao": "Observando todos do mundo por todas as épocas, não encontro quem tenha entendido o meu coração."
+      },
+      {
+        "verso_numero": 2,
+        "romaji": "Sonohazuya toite kikashita koto wa nai, Shiranu ga muri dewa nai waina.",
+        "kanji": "そのはずやといてきかしたことハない しらぬがむりでハないわいな",
+        "traducao": "É natural que assim seja, pois nunca o expliquei, não é sem razão que não saibam."
+      },
+      {
+        "verso_numero": 3,
+        "romaji": "Kono tabi wa Kami ga omote e arawarete, Nanika isai o toki kikasu.",
+        "kanji": "このたびはかみがおもてへあらハれて なにかいさいをときゝかす",
+        "traducao": "Desta vez, Eu, Deus, revelando-me diante de todos, farei ouvir-me explicando os detalhes de tudo."
+      },
+      {
+        "verso_numero": 4,
+        "romaji": "Kono tokoro Yamato no Jiba no Kamigata to, Yute iredomo moto shiranu.",
+        "kanji": "このところやまとのぢばのかみがたと いうていれどももとしらぬ",
+        "traducao": "Embora estejam chamando este lugar de Jiba, Morada de Deus, em Yamato, não sabem a origem."
+      },
+      {
+        "verso_numero": 5,
+        "romaji": "Kono moto o kuwashiku kiita koto naraba, Ikana mono demo koishi naru.",
+        "kanji": "このもとをくはしくきいたことならバ いかなものでもこいしなる",
+        "traducao": "Se ouvirem detalhadamente esta origem, seja quem for, serão tomados pela saudade."
+      },
+      {
+        "verso_numero": 6,
+        "romaji": "Kikitakuba tazune kuru nara yute kikasu, Yorozu isai no moto naru o.",
+        "kanji": "きゝたくバたづねくるならいうてきかす よろづいさいのもとなるを",
+        "traducao": "Se desejarem ouvir e vierem me procurar, explicarei a origem de todas as coisas."
+      },
+      {
+        "verso_numero": 7,
+        "romaji": "Kami ga dete nanika isai o toku naraba, Sekai ichiretsu isamu nari.",
+        "kanji": "かみがでゝなにかいさいをとくならバ せかい一れついさむなり",
+        "traducao": "Se Deus se revela e explica tudo em detalhes, todas as pessoas do mundo se animarão."
+      },
+      {
+        "verso_numero": 8,
+        "romaji": "Ichiretsuni hayaku tasuke o isogu kara, Sekai no kokoro mo isame kake.",
+        "kanji": "一れつにはやくたすけをいそぐから せかいのこゝろもいさめかけ",
+        "traducao": "Por apressar a salvação de todos igualmente, começo a animar também o espírito de todas as pessoas."
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Hino I",
+    "hino_kanji": "一下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Shogatsu koe no sazuke wa Yare mezurashii.",
+        "kanji": "一ツ正月こゑのさづけは　やれめづらしい",
+        "traducao": "O Sazuke do Fertilizante no ano-novo, como é extraordinário!"
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Nii-ni, Nikkori sazuke morotara Yare tanomoshi ya.",
+        "kanji": "二ニにつこりさづけもろたら　やれたのもしや",
+        "traducao": "Se receberem sorrindo o Sazuke, como é promissor!"
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "San-ni, Sanzai kokoro o sadame.",
+        "kanji": "三ニさんざいこゝろをさだめ",
+        "traducao": "Determinem o espírito da idade de três anos."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yononaka.",
+        "kanji": "四ッよのなか",
+        "traducao": "A farta colheita."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Ri o fuku.",
+        "kanji": "五ッりをふく",
+        "traducao": "As providências brotarão."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Musho ni dekemawasu.",
+        "kanji": "六ッむしやうにでけまわす",
+        "traducao": "Produzirá ilimitadamente em toda parte."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nanikani tsukuri toru nara,",
+        "kanji": "七ッなにかにつくりとるなら",
+        "traducao": "Seja o que for, se cultivarem e colherem,"
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yamato wa honen ya.",
+        "kanji": "八ッやまとハほうねんや",
+        "traducao": "Yamato terá fartura."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko made tsuite koi.",
+        "kanji": "九ッこゝまでついてこい",
+        "traducao": "Venham me seguindo até aqui."
+      },
+      {
+        "verso_numero": "Finalmente",
+        "romaji": "Todo, Torime ga sadamarita.",
+        "kanji": "十ドとりめがさだまりた",
+        "traducao": "A colheita será determinada."
+      }
+    ]
+  },
+
+  {
+    "hino_romaji": "Futa Kudari-me",
+    "hino_kanji": "二下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Ton ton ton to shogatsu odori hajime wa, Yare omoshiroi.",
+        "kanji": "とんくとんと正月をどりはじめハ やれおもしろい",
+        "traducao": "Ton ton ton, O iniciar da dança no ano-novo, como é prazeroso!"
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fushigina fushin kakareba, Yare nigiwashi ya.",
+        "kanji": "二ッふしぎなふしんかゝれバ やれにぎはしや",
+        "traducao": "Se começarem a construção maravilhosa, como é animador!"
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mi ni tsuku.",
+        "kanji": "三ッみにつく",
+        "traducao": "Isto nutrirá."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yonaori.",
+        "kanji": "四ッよなほり",
+        "traducao": "O mundo se transformará."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Izuremo tsuki kuru naraba,",
+        "kanji": "五ッいづれもつきくるならば",
+        "traducao": "Seja quem for, se vierem me seguindo,"
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Muhon no ne o kiro.",
+        "kanji": "六ッむほんのねえをきらふ",
+        "traducao": "Cortarei a raiz dos conflitos."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nanju o sukui agureba,",
+        "kanji": "七ッなんじふをすくひあぐれバ",
+        "traducao": "Se salvarem os que sofrem,"
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yamai no ne o kiro.",
+        "kanji": "八ッやまひのねをきらふ",
+        "traducao": "Cortarei a raiz das doenças."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Kokoro o sadame iyo nara,",
+        "kanji": "九ッこゝろをさだめゐやうなら",
+        "traducao": "Se mantiverem determinado o espírito,"
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Tode, Tokoro no osamari ya.",
+        "kanji": "十デところのをさまりや",
+        "traducao": "Será a pacificação dos locais."
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Mi Kudari-me",
+    "hino_kanji": "三下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hinomoto Shoyashiki no, Tsutome no basho wa yonomoto ya.",
+        "kanji": "一ッひのもとしよやしきの つとめのばしよハよのもとや",
+        "traducao": "Em Shoyashiki, na fonte do sol, o Local do Serviço é a origem do mundo."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fushigina Tsutome basho wa, Tare ni tanomi wa kakene domo.",
+        "kanji": "二ッふしぎなつとめばしよハ たれにたのみはかけねども",
+        "traducao": "O Local do Serviço maravilhoso, embora não tenha pedido a ninguém."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mina sekai ga yoriote, Deketachi kitaru ga, kore fushigi.",
+        "kanji": "三ッみなせかいがよりあうて でけたちきたるがこれふしぎ",
+        "traducao": "O mundo todo vem se congregando, e vai-se edificando. Como é maravilhoso!"
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoyo koko made tsuite kita, Jitsu no tasuke wa korekara ya.",
+        "kanji": "四ッようくこゝまでついてきた じつのたすけハこれからや",
+        "traducao": "Vieram seguindo até aqui com perseverança, a salvação verdadeira será doravante."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Itsumo waraware soshirarete, Mezurashi tasuke o suru hodoni.",
+        "kanji": "五ッいつもわらはれそしられて めづらしたすけをするほどに",
+        "traducao": "Sempre ridicularizado e insultado, realizo a salvação extraordinária."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Murina negai wa shite kurena, Hitosuji gokoro ni narite koi.",
+        "kanji": "六ッむりなねがひはしてくれな ひとすぢごゝろになりてこい",
+        "traducao": "Não façam pedidos absurdos, tornem o seu espírito único."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nandemo korekara hitosujini, Kami ni motarete yuki masuru.",
+        "kanji": "七ッなんでもこれからひとすぢに かみにもたれてゆきまする",
+        "traducao": "Haja o que houver, doravante, seguirei unicamente amparado em Deus."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yamu hodo tsurai koto wa nai, Washi mo korekara hinokishin.",
+        "kanji": "八ッやむほどつらいことハない わしもこれからひのきしん",
+        "traducao": "Não há algo tão penoso como as doenças. Doravante, eu também farei o hinokishin."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko made shinjin shita keredo, Moto no Kami towa shirananda.",
+        "kanji": "九ッこゝまでしんぐしたけれど もとのかみとハしらなんだ",
+        "traducao": "Embora viesse crendo até aqui, não sabia que sois o Deus original."
+      },
+      {
+        "verso_numero": "Finalmente",
+        "romaji": "Todo, Kono tabi arawareta, Jitsu no Kami niwa soi nai.",
+        "kanji": "十ドこのたびあらはれた じつのかみにはさうゐない",
+        "traducao": "Desta vez, Vós vos revelastes, sem dúvida, sois o Deus verdadeiro."
+      }
+    ]
+  },
+
+  {
+    "hino_romaji": "Yo Kudari-me",
+    "hino_kanji": "四下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hito ga nanigoto iwo tomo, Kami ga miteiru ki o shizume.",
+        "kanji": "一ッひとがなにごといはうとも かみがみているきをしずめ",
+        "traducao": "O que quer que os outros digam, acalmem o espírito, Deus está vendo."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Futari no kokoro o osame iyo. Nanika no koto o mo arawareru.",
+        "kanji": "二ッふたりのこゝろををさめいよ なにかのことをもあらはれる",
+        "traducao": "Estabeleçam a harmonia no espírito de ambos. Toda e qualquer coisa se realizará."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mina miteiyo sobana mono, Kami no suru koto nasu koto o.",
+        "kanji": "三ッみなみてゐよそばなもの かみのすることなすことを",
+        "traducao": "Todos os próximos, fiquem observando o que Deus faz e realiza."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoru hiru don chan Tsutome suru. Soba mo yakamashi utate karo.",
+        "kanji": "四ッよるひるどんちやんつとめする そばもやかましうたてかろ",
+        "traducao": "Noite e dia, don-tyan, fazem o Serviço. Os próximos acham-no ruidoso e incômodo."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Itsumo tasuke ga seku karani, Hayaku yoki ni narite koi.",
+        "kanji": "五ッいつもたすけがせくからに はやくやうきになりてこい",
+        "traducao": "Já que apresso sempre a salvação, tornem-se alegres, depressa."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Murakata hayakuni tasuke tai, Naredo kokoro ga wakaraide.",
+        "kanji": "六ッむらかたはやくにたすけたい なれどこゝろがわからいで",
+        "traducao": "Desejo salvar depressa os da vizinhança; entretanto, não entendem o meu espírito."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nanika yorozu no tasukeai, Mune no uchi yori shian seyo.",
+        "kanji": "七ッなにかよろづのたすけあい むねのうちよりしあんせよ",
+        "traducao": "Salvando uns aos outros em todas as coisas, meditem do íntimo do coração."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yamai no sukkiri ne wa nukeru, Kokoro wa dandan isami kuru.",
+        "kanji": "八ッやまひのすつきりねはぬける こゝろハだんくいさみくる",
+        "traducao": "A raiz das doenças se extinguirá completamente e o espírito se animará gradativamente."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko wa kono yo no gokuraku ya, Washi mo hayabaya mairi tai.",
+        "kanji": "九ッこゝはこのよのごくらくや わしもはやくまゐりたい",
+        "traducao": "Aqui é o paraíso deste mundo Eu, também, desejo ir depressa reverenciar."
+      },
+      {
+        "verso_numero": "Finalmente",
+        "romaji": "Todo, Kono tabi mune no uchi, Sumikiri mashita ga arigatai.",
+        "kanji": "十ドこのたびむねのうち すみきりましたがありがたい",
+        "traducao": "Desta vez, o íntimo do coração ficou totalmente purificado. Como estou grato!"
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Itsu Kudari-me",
+    "hino_kanji": "五下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hiroi sekai no uchi nareba, Tasukeru tokoro ga mama aro.",
+        "kanji": "一ッひろいせかいのうちなれバ たすけるところがまゝあらう",
+        "traducao": "Desde que o mundo é vasto, deve haver vários locais para salvar."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fushigina tasuke wa kono tokoro, Obiya hoso no yurushi dasu.",
+        "kanji": "二ッふしぎなたすけハこのところ おびやはうそのゆるしだす",
+        "traducao": "Este é o local da salvação maravilhosa onde concedo a graça do parto e varíola."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mizu to Kami towa onaji koto, Kokoro no yogore o araikiru.",
+        "kanji": "三ッみづとかみとはおなじこと こゝろのよごれをあらひきる",
+        "traducao": "Deus é tal como a água, lava completamente as sujeiras do espírito."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoku no nai mono nakere domo, Kami no mae niwa yoku wa nai.",
+        "kanji": "四ッよくのないものなけれども かみのまへにハよくはない",
+        "traducao": "Embora não haja quem não tenha ambição, perante Deus, não existe ambição."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Itsumade shinjin shita totemo, Yokizukume de aru hodoni.",
+        "kanji": "五ッいつまでしんぐしたとても やうきづくめであるほどに",
+        "traducao": "Por mais que continuem a crer, deverão ser repletos de alegria."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Mugoi kokoro o uchiwasure, Yasashiki kokoro ni narite koi.",
+        "kanji": "六ッむごいこゝろをうちわすれ やさしきこゝろになりてこい",
+        "traducao": "Esqueçam por completo o espírito cruel e tornem gentil o espírito."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nandemo nangi wa sasanu zoe, Tasuke ichijo no kono tokoro.",
+        "kanji": "七ッなんでもなんぎハさゝぬぞへ たすけいちじよのこのところ",
+        "traducao": "Não os deixarei sofrer de modo algum, este é local da dedicação única à salvação."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yamato bakariya nai hodoni, Kuniguni made e mo tasuke yuku.",
+        "kanji": "八ッやまとばかりやないほどに くにくまでへもたすけゆく",
+        "traducao": "Não limito somente a Yamato; salvarei também até os outros países."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko wa kono yo no Moto no Jiba, Mezurashi tokoro ga arawareta.",
+        "kanji": "九ッこゝはこのよのもとのぢば めづらしところがあらはれた",
+        "traducao": "Aqui é Jiba original do mundo; o local extraordinário foi revelado."
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Dodemo shinjin suru naraba, Ko o musubo ya naikaina.",
+        "kanji": "どうでもしんぐするならバ かうをむすぼやないかいな",
+        "traducao": "Desde que estamos decididos a crer, formemos uma irmandade."
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Mu Kudari-me",
+    "hino_kanji": "六下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hito no kokoro to yumono wa, Utagai bukai mono naru zo.",
+        "kanji": "一ッひとのこゝろといふものハ うたがひぶかいものなるぞ",
+        "traducao": "Aquilo que se diz espírito humano é algo profundamente desconfiado."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fushigina tasuke o suru kara ni, Ikanaru koto mo misadameru.",
+        "kanji": "二ッふしぎなたすけをするからに いかなることもみさだめる",
+        "traducao": "Desde que realizo a salvação maravilhosa, verifico toda e qualquer coisa."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mina sekai no mune no uchi, Kagami no gotokuni utsuru nari.",
+        "kanji": "三ッみなせかいのむねのうち かゞみのごとくにうつるなり",
+        "traducao": "O íntimo de todos os corações do mundo reflete-se em mim como num espelho."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yokoso Tsutome ni tsuite kita, Kore ga tasuke no motodate ya.",
+        "kanji": "四ッようこそつとめについてきた これがたすけのもとだてや",
+        "traducao": "Bem vieram seguindo o Serviço; isto é o meio fundamental da salvação."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Itsumo Kagura ya Teodori ya, Sue dewa mezurashi tasuke suru.",
+        "kanji": "五ッいつもかぐらやてをどりや すゑではめづらしたすけする",
+        "traducao": "Praticando sempre o Kagura e o Teodori, no futuro, farei a salvação extraordinária."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Musho yatara ni negai deru, Uketoru suji mo sen suji ya.",
+        "kanji": "六ッむしやうやたらにねがひでる うけとるすぢもせんすぢや",
+        "traducao": "Fazendo-me pedidos desordenadamente, também serão mil as maneiras de aceitar."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nambo shinjin shita totemo, Kokoroe chigai wa naran zoe.",
+        "kanji": "七ッなんぼしんぐしたとても こゝろえちがひはならんぞへ",
+        "traducao": "Por mais que venham a crer, não devem ter erros espirituais."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yappari shinjin senya naran, Kokoroe chigai wa denaoshi ya.",
+        "kanji": "八ッやつぱりしんぐせにやならん こゝろえちがひはでなほしや",
+        "traducao": "Apesar de tudo, devem continuar crendo; recomeçar, se tiverem erros espirituais."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko made shinjin shite karawa, Hitotsuno ko o mo minya naran.",
+        "kanji": "九ッこゝまでしんぐしてからハ ひとつのかうをもみにやならぬ",
+        "traducao": "Desde que vieram crendo até aqui, deverão ver também um mérito."
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Todo, Kono tabi mie mashita, Ogi no ukagai kore fushigi.",
+        "kanji": "十ドこのたびみえました あふぎのうかゞひこれふしぎ",
+        "traducao": "Desta vez, isto se tornou visível. A consulta do leque, como é maravilhosa!"
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Nana Kudari-me",
+    "hino_kanji": "七下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hitokoto hanashi wa hinokishin, Nioi bakari o kakete oku.",
+        "kanji": "一ッひとことはなしハひのきしん にほひばかりをかけておく",
+        "traducao": "Dizer uma palavra é hinokishin; apenas deixa-se espargida a fragrância."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fukai kokoro ga aru nareba, Tare mo tomeru de nai hodoni.",
+        "kanji": "二ッふかいこゝろがあるなれバ たれもとめるでないほどに",
+        "traducao": "Desde que tenham espírito profundo, pessoa alguma os impedirá."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mina sekai no kokoro niwa, Denji no iranu mono wa nai.",
+        "kanji": "三ッみなせかいのこゝろにハ でんぢのいらぬものハない",
+        "traducao": "Não há, no espírito de todos do mundo, quem não deseje um terreno de plantio."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoki ji ga araba ichiretsuni, Tare mo hoshii de arogana.",
+        "kanji": "四ッよきぢがあらバ一れつに だれもほしいであらうがな",
+        "traducao": "Se existe um bom terreno, seja quem for, todos o desejarão igualmente."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Izureno kata mo onaji koto, Washi mo ano ji o motome tai.",
+        "kanji": "五ッいづれのかたもおなしこと わしもあのぢをもとめたい",
+        "traducao": "É o mesmo para qualquer pessoa, eu também desejo possuir esse terreno."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Murini dose to iwan dena, Soko wa meimei no mune shidai.",
+        "kanji": "六ッむりにどうせといはんでな そこはめいくのむねしだい",
+        "traducao": "Não digo o que fazer obrigatoriamente; isso depende do coração de cada um."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nandemo denji ga hoshii kara, Atae wa nanihodo iru totemo.",
+        "kanji": "七ッなんでもでんぢがほしいから あたへハなにほどいるとても",
+        "traducao": "Desejo um terreno de plantio a qualquer custo; não importa qual seja o valor necessário."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yashiki wa Kami no denji yade, Maitaru tane wa mina haeru.",
+        "kanji": "八ッやしきハかみのでんぢやで まいたるたねハみなはへる",
+        "traducao": "Como a Residência é terreno de plantio de Deus, as sementes brotam todas."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko wa kono yo no denji nara, Washi mo shikkari tane o mako.",
+        "kanji": "九ッこゝハこのよのでんぢなら わしもしつかりたねをまこ",
+        "traducao": "Sendo aqui o terreno de plantio do mundo, eu também semearei firmemente."
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Todo, Kono tabi ichiretsuni, Yokoso tane o makini kita. Tane o maitaru sono kata wa Koe o okazuni tsukuri tori.",
+        "kanji": "十ドこのたびいちれつに ようこどたねをまきにきた たねをまいたるそのかたハ こえをおかずにつくりとり",
+        "traducao": "Desta vez, sejam bem-vindos igualmente todos que vieram semear. Aqueles que semearem cultivando, colherão sem aplicar fertilizante."
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Ya Kudari-me",
+    "hino_kanji": "八下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hiroi sekai ya kuninaka ni, Ishi mo tachiki mo naikai na.",
+        "kanji": "一ッひろいせかいやくになかに いしもたちきもないかいな",
+        "traducao": "No vasto mundo e nos países, não há pedras nem árvores eretas?"
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fushigina fushin o suru naredo, Tare ni tanomi wa kaken dena.",
+        "kanji": "二ッふしぎなふしんをするなれど たれにたのみハかけんでな",
+        "traducao": "Embora realize a construção maravilhosa, não peço favores a ninguém."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mina dandan to sekai kara, Yorikita koto nara dekete kuru.",
+        "kanji": "三ッみなだんくとせかいから よりきたことならでけてくる",
+        "traducao": "Se todos do mundo inteiro, um após outro, vierem se reunindo, há de ser realizada."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoku no kokoro o uchiwasure, Tokuto kokoro o sadame kake.",
+        "kanji": "四ッよくのこゝろをうちわすれ とくとこゝろをさだめかけ",
+        "traducao": "Esqueçam por completo a ambição e determinem firmemente o espírito."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Itsumade miawase itaru tomo, Uchi kara suru noya nai hodoni.",
+        "kanji": "五ッいつまでみあわせゐたるとも うちからするのやないほどに",
+        "traducao": "Por quão longo tempo fiquem hesitando, não é para ser feita a partir dos íntimos."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Musho yatara ni sekikomu na, Mune no uchi yori shian seyo.",
+        "kanji": "六ッむしやうやたらにせきこむな むねのうちよりしあんせよ",
+        "traducao": "Não se apressem desordenadamente, reflitam do íntimo do coração."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nanika kokoro ga sunda nara, Hayaku fushin ni torikakare.",
+        "kanji": "七ッなにかこゝろがすんだなら はやくふしんにとりかゝれ",
+        "traducao": "Quando o espírito ficar um tanto quanto puro, comecem prontamente a construção."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yama no naka eto irikonde, Ishi mo tachiki mo mite oita.",
+        "kanji": "八ッやまのなかへといりこんで いしもたちきもみておいた",
+        "traducao": "Adentrando às montanhas, deixei visto, tanto as pedras como as árvores eretas."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Kono ki kiroka ano ishi to, Omoedo Kami no mune shidai.",
+        "kanji": "九ッこのききらうかあのいしと おもへどかみのむねしだい",
+        "traducao": "Embora pensem em cortar esta árvore e usar aquela pedra, dependerá do coração de Deus."
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Todo, Kono tabi ichiretsuni, Sumikiri mashita ga mune no uchi.",
+        "kanji": "十ドこのたびいちれつに すみきりましたがむねのうち",
+        "traducao": "Desta vez, todos igualmente ficaram puros por completo do íntimo do coração."
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Kokono Kudari-me",
+    "hino_kanji": "九下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hiroi sekai o uchi mawari, Issen nisen de tasuke yuku.",
+        "kanji": "一ッひろいせかいをうちまわり 一せん二せんでたすけゆく",
+        "traducao": "Percorram batendo palmas pelo vasto mundo, salvando com uma e duas lavações."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fuju nakiyo ni shite yaro, Kami no kokoro ni motare tsuke.",
+        "kanji": "二ッふじゆうなきやうにしてやらう かみのこゝろにもたれつけ",
+        "traducao": "Farei com que não tenham dificuldades. Venham a amparar-se no espírito de Deus."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mireba sekai no kokoro niwa, Yoku ga majirite aru hodoni.",
+        "kanji": "三ッみれバせかいのこゝろにハ よくがまじりてあるほどに",
+        "traducao": "Se observar o espírito das pessoas do mundo, encontro mesclada a ambição."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoku ga aru nara yamete kure, Kami no uketori deken kara.",
+        "kanji": "四ッよくがあるならやめてくれ かみのうけとりでけんから",
+        "traducao": "Se tiverem ambição, abandonem-na porque não é possível Deus aceitar."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Izure no kata mo onaji koto, Shian sadamete tsuite koi.",
+        "kanji": "五ッいづれのかたもおなじこと しあんさだめてついてこい",
+        "traducao": "É o mesmo para qualquer pessoa. Sigam-me, determinando o pensamento."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Murini deyo to yude nai, Kokoro sadame no tsuku madewa.",
+        "kanji": "六ッむりにでやうといふでない こゝろさだめのつくまでハ",
+        "traducao": "Não digo para irem obrigatoriamente, Até que venham a determinar o espírito."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nakanaka kono tabi ichiretsuni, Shikkari shian o senya naran.",
+        "kanji": "七ッなかくこのたびいちれつに しつかりしあんをせにやならん",
+        "traducao": "Na verdade, desta vez, igualmente todos devem refletir firmemente."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yama no naka demo achi kochi to, Tenri-O no Tsutome suru.",
+        "kanji": "八ッやまのなかでもあちこちと てんりわうのつとめする",
+        "traducao": "Nas montanhas adentro também, aqui e acolá, realizam o Serviço do Tenri-Ô."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Koko de Tsutome o shite iredo, Mune no wakarita mono wa nai.",
+        "kanji": "九ッこゝでつとめをしてゐれど むねのわかりたものハない",
+        "traducao": "Embora estejam realizando o Serviço aqui, não há quem tenha entendido o coração."
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Totemo Kamina o yobidaseba, Hayaku komoto e tazune deyo.",
+        "kanji": "とてもかみなをよびだせば はやくこもとへたづねでよ",
+        "traducao": "Desde que estejam chamando o nome de Deus, venham depressa à procura do Lar original."
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Juichi Kudari-me",
+    "hino_kanji": "十一下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Hinomoto Shoyashiki no, Kami no yakata no Jiba sadame.",
+        "kanji": "一ッひのもとしよやしきの かみのやかたのぢばさだめ",
+        "traducao": "Em Shoyashiki, na fonte do sol, vai ser identificada Jiba da Morada de Deus."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fufu sorote hinokishin, Kore ga daiichi monodane ya.",
+        "kanji": "二ッふうふそろうてひのきしん これがだいゝちものだねや",
+        "traducao": "Marido e mulher juntos no hinokishin, isto é a primeira semente das coisas."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mireba sekai ga dandan to, Mokko ninote hinokishin.",
+        "kanji": "三ッみれバせかいがだんくと もつこになうてひのきしん",
+        "traducao": "Ao observar, vejo o mundo gradativamente no hinokishin portando a padiola no ombro."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoku o wasurete hinokishin, Kore ga daiichi koe to naru.",
+        "kanji": "四ッよくをわすれてひのきしん これがだいゝちこえとなる",
+        "traducao": "Ao hinokishin, esquecendo a ambição, isto se torna o primeiro fertilizante."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Itsuitsu mademo tsuchimochi ya, Mada aru naraba washi mo yuko.",
+        "kanji": "五ッいつまでもつちもちや まだあるならバわしもゆこ",
+        "traducao": "É transporte de terra para todo o sempre. Se continua a ter ainda, eu também vou."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Murini tomeru ya nai hodoni, Kokoro aru nara tare narito.",
+        "kanji": "六ッむりにどうせといはんでな そこはめいくのむねしだい",
+        "traducao": "Não devem impedi-lo sem razão. Se têm esse espírito, façam-no, seja quem for."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nanika mezurashi tsuchimochi ya, Kore ga kishin to naru naraba.",
+        "kanji": "七ッなにかめづらしつちもちや これがきしんとなるならバ",
+        "traducao": "O transporte de terra é algo extraordinário, se isto se tornar uma contribuição!"
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yashiki no tsuchi o horitorite, Tokoro kaeru bakari yade.",
+        "kanji": "八ッやしきのつちをほりとりて ところかへるばかりやで",
+        "traducao": "Cavando e retirando a terra da Residência, apenas a transferem de um lugar a outro."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Kono tabi made wa ichiretsuni, Mune ga wakaran zannen na.",
+        "kanji": "九ッこのたびまではいちれつに むねがわからんざんねんな",
+        "traducao": "Até o presente momento, igualmente todos, não entendiam o coração. Que pesar!"
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Todo, Kotoshi wa koe okazu, Jubun mono o tsukuri tori, Yare tanomoshi ya arigata ya.",
+        "kanji": "十ドことしハこえおかず じふぶんものをつくりとり やれたのもしやありがたや",
+        "traducao": "Este ano, sem aplicar fertilizante, cultivamos e colhemos suficientemente. Como é promissor e gratificante!"
+      }
+    ]
+  },
+  {
+    "hino_romaji": "Juni Kudari-me",
+    "hino_kanji": "十二下り目",
+    "versos": [
+      {
+        "verso_numero": "Primeiro",
+        "romaji": "Hitotsu, Ichini daiku no ukagai ni, Nanika no koto mo makase oku.",
+        "kanji": "一ッいちにだいくのうかゞひに なにかのこともまかせおく",
+        "traducao": "Primeiramente, à consulta do carpinteiro, deixo confiado todas as coisas."
+      },
+      {
+        "verso_numero": "Segundo",
+        "romaji": "Futatsu, Fushigina fushin o suru naraba, Ukagai tatete iitsuke yo.",
+        "kanji": "二ッふしぎなふしんをするならバ うかゞひたてゝいひつけよ",
+        "traducao": "Ao se realizar a construção maravilhosa, consultando-me, dê as instruções."
+      },
+      {
+        "verso_numero": "Terceiro",
+        "romaji": "Mittsu, Mina sekai kara dandan to, Kitaru daiku ni nioi kake.",
+        "kanji": "三ッみなせかいからだんくと きたるだいくににほいかけ",
+        "traducao": "Esparjam a fragrância a todos os carpinteiros que, do mundo, virão um após outro."
+      },
+      {
+        "verso_numero": "Quarto",
+        "romaji": "Yottsu, Yoki toryo ga aru naraba, Hayaku komoto e yosete oke,",
+        "kanji": "四ッよきようりようかあるならバ はやくこもとへよせておけ",
+        "traducao": "Quando houver bons mestres, deixem-nos reunidos depressa no Lar original."
+      },
+      {
+        "verso_numero": "Quinto",
+        "romaji": "Itsutsu, Izure toryo yonin iru, Hayaku ukagai tatete miyo.",
+        "kanji": "五ッいづれとうりやうよにんいる はやくうかゞいたてゝみよ",
+        "traducao": "No futuro, serão precisos quatro mestres. Procurem consultar-me depressa."
+      },
+      {
+        "verso_numero": "Sexto",
+        "romaji": "Muttsu, Murini koi towa iwan dena, Izure dandan tsuki kuru de.",
+        "kanji": "六ッむりにこいとハいはんでな いづれだんくつきくるで",
+        "traducao": "Não digo para vir obrigatoriamente. No futuro, virão seguir-me um após outro."
+      },
+      {
+        "verso_numero": "Sétimo",
+        "romaji": "Nanatsu, Nanika mezurashi kono fushin, Shikaketa koto nara kiri wa nai.",
+        "kanji": "七ッなにかめづらしこのふしん しかけたことならきりハない",
+        "traducao": "Esta construção é algo extraordinário; se for iniciada, não terá mais fim."
+      },
+      {
+        "verso_numero": "Oitavo",
+        "romaji": "Yattsu, Yama no naka eto yuku naraba, Araki toryo tsurete yuke.",
+        "kanji": "八ッやまのなかへといりこんで あらきとうりやうつれてゆけ",
+        "traducao": "Quando se dirigirem para montanhas adentro, levem o mestre madeireiro."
+      },
+      {
+        "verso_numero": "Nono",
+        "romaji": "Kokonotsu, Kore wa kozaiku toryo ya, Tatemae toryo kore kanna.",
+        "kanji": "九ッこれハこざいくとうりやうや たてもへとうりやうこれかんな",
+        "traducao": "Eis que são estes o mestre marceneiro e o mestre edificador, e este o aplainador."
+      },
+      {
+        "verso_numero": "Décimo",
+        "romaji": "Todo, Kono tabi ichiretsuni, Daiku no nin mo soroikita.",
+        "kanji": "十ドこのたびいちれつに だいくのにんもそろひきた",
+        "traducao": "Desta vez, todos os membros de carpinteiros vieram a completar-se."
+      }
+    ]
+  }
+]
