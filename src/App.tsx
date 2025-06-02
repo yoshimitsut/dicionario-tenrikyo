@@ -15,16 +15,32 @@ interface Termo {
   significado: string;
 }
 
+interface Episodio {
+  episodio_numero: string | number;
+  titulo_p: string;
+  titulo_j: string;
+  pagina: string | number;
+  conteudo_p: string | null;
+  conteudo_j: string | null;
+}
+
+function tirarAcentos (texto: string) {
+  if(!texto) return '';
+  return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+}
+
 function App() {
 //   termos: armazena todos os termos carregados do JSON.
 //   setTermos: função para atualizar o estado.
   const [termos, setTermos] = useState<Termo[]>([]);
+  const [episodios, setEpisodios] = useState<Episodio[]>([])
 
 // query: armazena o texto digitado pelo usuário na busca.
   const [query, setQuery] = useState('');
 
 //filtered: armazena a lista filtrada de termos com base na query.
-  const [filtered, setFiltered] = useState<Termo[]>([]);
+  const [filteredTermos, setFilteredTermos] = useState<Termo[]>([]);
+  const [filteredEpisodios, setFilteredEpisodios] = useState<Episodio[]>([]);
 
   const [loading, setLoading] = useState(true);
 // Carrega JSON ao iniciar
@@ -33,19 +49,24 @@ function App() {
     const fetchJSON = async () => {
       try {
         // fetch('/works.json'): busca o arquivo JSON no servidor.
-        const response = await fetch('/data/works.json');
+        const termosResponse = await fetch('/data/works.json');
+        const episodiosResponse = await fetch('/data/itsuwahen.json');
         
-         if (!response.ok) {
-          throw new Error(`Erro HTTP! status: ${response.status}`);
+         if (!termosResponse.ok || !episodiosResponse.ok) {
+          throw new Error(`Erro ao carregar arquivos JSON`);
         }
 
         // await response.json(): converte a resposta para um objeto JavaScript(JSON)
-        const data: Termo[] = await response.json();
+        const termosData: Termo[] = await termosResponse.json();
+        const episodiosData: Episodio[] = await episodiosResponse.json();
         
         //Armazena os termos no estado.
         //Inicialmente, a lista filtrada á igual à completa
-        setTermos(data);
-        setFiltered(data);
+        setTermos(termosData);
+        setFilteredTermos(termosData);
+
+        setEpisodios(episodiosData);
+        setFilteredEpisodios(episodiosData);
       }catch(error){
         console.error('Erro ao carregar JSON:', error);
       }finally {
@@ -59,19 +80,31 @@ function App() {
 
   // função que filtra os termos conforme a query.
   const filtrar = useCallback(() => {
-  const lowerQuery = query.toLowerCase();
+  const normalizedQuery = tirarAcentos(query)
+
+  //const lowerQuery = query.toLowerCase();
   // toLowerCase(): deixa tudo minúsculo para uma busca case-insensitive.
     
-  const filteredResults = termos.filter(
-    (termo) =>
-      // includes(lowerQuery): verifica se há correspondência parcial no texto.
-      termo.romaji.toLowerCase().includes(lowerQuery) ||
-      termo.kanji.includes(query) ||
-      termo.significado.toLowerCase().includes(lowerQuery)
+    const filteredTermos = termos.filter(
+      (termo) =>
+        // includes(lowerQuery): verifica se há correspondência parcial no texto.
+        tirarAcentos(termo.romaji).includes(normalizedQuery) ||
+        termo.kanji.includes(query) ||
+        tirarAcentos(termo.significado).includes(normalizedQuery)
     );
     // Atualiza filtered com os resultados encontrados.
-    setFiltered(filteredResults);
-  }, [query, termos]);
+    setFilteredTermos(filteredTermos);
+
+    const filteredEpisodios = episodios.filter(
+      (episodio) => 
+        tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
+        episodio.titulo_j ||
+        (episodio.conteudo_p && 
+          tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) || 
+        episodio.conteudo_j   
+    );
+    setFilteredEpisodios(filteredEpisodios);
+  }, [query, termos, episodios]);
 
   // Sempre que query ou termos mudar, executa filtrar() automaticamente.
   // Assim, a lista filtrada é sempre atualizada conforme o usuário digita.
@@ -80,27 +113,28 @@ function App() {
   }, [filtrar]);
 
   return (
-    <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+    <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth:'890px' }}>
       <h1 style={{ 
-                fontSize: '3rem', 
-                display: 'flex',
-                justifyContent: 'center',
-                alignItems: 'center',
-                top: 0, 
-                }}>
-        Dicionário da Tenrikyo (pt-br)
+          fontSize: '3rem', 
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          top: 0, 
+          textAlign: 'center'
+          }}>
+        Dicionário da Tenrikyo
       </h1>
 
       <div style={{ 
-              marginBottom: '1rem',
-              position: 'sticky', /* Use 'sticky' para melhor comportamento de rolagem */
-              top: 0,            /* Fixa no topo */
-              padding: '1rem 0', /* Espaçamento interno */
-              zIndex: 1000,      /* Garante que fique acima de outros elementos */
-              backgroundColor: '#242426',
-              display: 'flex',
-              justifyContent: 'center',
-              alignItems: 'center',
+          marginBottom: '1rem',
+          position: 'sticky', /* Use 'sticky' para melhor comportamento de rolagem */
+          top: 0,            /* Fixa no topo */
+          padding: '1rem 0', /* Espaçamento interno */
+          zIndex: 1000,      /* Garante que fique acima de outros elementos */
+          backgroundColor: '#242426',
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
       }}>
         {/* Campo de texto controlado → valor sempre é query.
             onChange: atualiza query conforme o usuário digita. */}
@@ -109,7 +143,7 @@ function App() {
           placeholder="Digite para buscar..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          style={{ padding: '0.5rem', width: '300px', marginRight: '0.5rem' }}
+          style={{ padding: '0.5rem', width: '20rem', marginRight: '0.5rem' }}
         />
 
         <button onClick={filtrar} style={{ padding: '0.5rem 1rem' }}>
@@ -127,7 +161,7 @@ function App() {
             Mostra romaji, kanji e significado.
             key={index}: ajuda o React a identificar cada item 
             (ideal seria usar ID, mas não temos). */}
-        {filtered.map((termo, index) => (
+        {filteredTermos.map((termo, index) => (
           <li key={index} style={{ marginBottom: '1rem' }}>
             <strong>{termo.romaji}</strong> ({termo.kanji}):<br />
             {termo.significado}
@@ -135,6 +169,26 @@ function App() {
         ))}
       </ul>
       )}
+
+      {loading ? (
+        <p>Carregando...</p>
+      ):(
+        <ul>
+          {filteredEpisodios.map((episodio, index) => (
+            <li key={index} style={{marginBottom: '1rem'}}>
+              <strong>{episodio.episodio_numero} {episodio.titulo_p}</strong>
+              <strong> {episodio.titulo_j}</strong>
+              (Página {episodio.pagina}): <br />
+              <em>{episodio.conteudo_p || 'Sem conteúdo em português'}</em>
+              <br />
+              <em>{episodio.conteudo_j || 'Sem conteúdo em japonês'}</em>
+
+            </li>
+          ))}
+        </ul>
+      )}
+
+
     </div>
   );
 }
