@@ -16,10 +16,10 @@ interface Termo {
 }
 
 interface Episodio {
-  episodio_numero: string | number;
+  episodio_numero: string;
   titulo_p: string;
   titulo_j: string;
-  pagina: string | number;
+  pagina: string;
   conteudo_p: string | null;
   conteudo_j: string | null;
 }
@@ -27,6 +27,38 @@ interface Episodio {
 function tirarAcentos (texto: string) {
   if(!texto) return '';
   return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+}
+
+function destacarTexto(texto:string | null | undefined, termo: string ) {
+  if(!texto) return null;
+  if(!termo) return texto;
+
+  const textoSemAcento = tirarAcentos(texto);
+  const termoSemAcento = tirarAcentos(termo);
+  
+  const partes = [];
+  let i = 0;
+
+  while (i < texto.length) {
+    const index = textoSemAcento.indexOf(termoSemAcento, i);
+
+    if (index === -1) {
+      partes.push(texto.slice(i));
+      break;
+    }
+
+    partes.push(texto.slice(i, index));
+
+    partes.push(
+      <mark key={index} style={{backgroundColor:'yellow', color: 'black'}}>
+        {texto.slice(index, index + termo.length)}
+      </mark>
+    );
+
+    i = index + termo.length;
+  }
+
+  return <>{partes}</>
 }
 
 function App() {
@@ -43,6 +75,11 @@ function App() {
   const [filteredEpisodios, setFilteredEpisodios] = useState<Episodio[]>([]);
 
   const [loading, setLoading] = useState(true);
+  const [digitou, setDigitou] = useState(false);
+  
+  const [buscarTermos, setBuscarTermos] = useState(true);
+  const [buscarEpisodios, setBuscarEpisodios] = useState(false);
+
 // Carrega JSON ao iniciar
 // useEffect: executa a função ao montar o componente.
   useEffect(() => {
@@ -80,31 +117,55 @@ function App() {
 
   // função que filtra os termos conforme a query.
   const filtrar = useCallback(() => {
-  const normalizedQuery = tirarAcentos(query)
+    const normalizedQuery = tirarAcentos(query)
 
-  //const lowerQuery = query.toLowerCase();
-  // toLowerCase(): deixa tudo minúsculo para uma busca case-insensitive.
-    
-    const filteredTermos = termos.filter(
-      (termo) =>
-        // includes(lowerQuery): verifica se há correspondência parcial no texto.
-        tirarAcentos(termo.romaji).includes(normalizedQuery) ||
-        termo.kanji.includes(query) ||
-        tirarAcentos(termo.significado).includes(normalizedQuery)
-    );
-    // Atualiza filtered com os resultados encontrados.
-    setFilteredTermos(filteredTermos);
+    //const lowerQuery = query.toLowerCase();
+    // toLowerCase(): deixa tudo minúsculo para uma busca case-insensitive.
+    if (buscarTermos) {
+      const filtered = termos.filter(
+        (termo) => 
+          tirarAcentos(termo.romaji).includes(normalizedQuery) ||
+          termo.kanji.includes(query) ||
+          tirarAcentos(termo.significado).includes(normalizedQuery)
+      );
+      setFilteredTermos(filtered);
+    } else {
+      setFilteredTermos([]);
+    }
 
-    const filteredEpisodios = episodios.filter(
-      (episodio) => 
-        tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
-        episodio.titulo_j ||
-        (episodio.conteudo_p && 
-          tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) || 
-        episodio.conteudo_j   
-    );
-    setFilteredEpisodios(filteredEpisodios);
-  }, [query, termos, episodios]);
+    if (buscarEpisodios) {
+      const filtered = episodios.filter(
+        (episodio) => 
+          tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
+          episodio.titulo_j ||
+          (episodio.conteudo_p && tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) ||
+          episodio.conteudo_j
+      );
+      setFilteredEpisodios(filtered);
+    } else {
+      setFilteredEpisodios([]);
+    }
+
+    // const filteredTermos = termos.filter(
+    //   (termo) =>
+    //     // includes(lowerQuery): verifica se há correspondência parcial no texto.
+    //     tirarAcentos(termo.romaji).includes(normalizedQuery) ||
+    //     termo.kanji.includes(query) ||
+    //     tirarAcentos(termo.significado).includes(normalizedQuery)
+    // );
+    // // Atualiza filtered com os resultados encontrados.
+    // setFilteredTermos(filteredTermos);
+
+    // const filteredEpisodios = episodios.filter(
+    //   (episodio) => 
+    //     tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
+    //     episodio.titulo_j ||
+    //     (episodio.conteudo_p && 
+    //       tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) || 
+    //     episodio.conteudo_j   
+    // );
+    // setFilteredEpisodios(filteredEpisodios);
+  }, [query, termos, episodios, buscarTermos, buscarEpisodios]);
 
   // Sempre que query ou termos mudar, executa filtrar() automaticamente.
   // Assim, a lista filtrada é sempre atualizada conforme o usuário digita.
@@ -125,6 +186,25 @@ function App() {
         Dicionário da Tenrikyo
       </h1>
 
+        <div style={{ display: 'flex', alignItems:'center', justifyContent: 'center', gap: '1rem'}}>
+          <label>
+            <input type="checkbox" 
+              checked={buscarTermos}
+              onChange={(e) => setBuscarTermos(e.target.checked)}
+            /> {' '}
+              Buscar Termo.
+          </label>
+
+          <label>
+            <input
+              type="checkbox" 
+              checked={buscarEpisodios}
+              onChange={(e) => setBuscarEpisodios(e.target.checked)}
+              /> {' '}
+              Episódios da Vida de Oyassama.
+          </label>
+        </div>
+
       <div style={{ 
           marginBottom: '1rem',
           position: 'sticky', /* Use 'sticky' para melhor comportamento de rolagem */
@@ -142,8 +222,11 @@ function App() {
           type="text"
           placeholder="Digite para buscar..."
           value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          style={{ padding: '0.5rem', width: '20rem', marginRight: '0.5rem' }}
+          onChange={(e) => {
+            setQuery(e.target.value);
+            setDigitou(e.target.value.length > 0);
+          }}
+          style={{ padding: '0.5rem', width: '20rem', marginLeft: '0.5rem' }}
         />
 
         <button onClick={filtrar} style={{ padding: '0.5rem 1rem' }}>
@@ -156,39 +239,45 @@ function App() {
       {loading ? (
         <p>Carregando...</p>
       ):(
-      <ul>
-        {/* Percorre cada termo da lista filtered.
-            Mostra romaji, kanji e significado.
-            key={index}: ajuda o React a identificar cada item 
-            (ideal seria usar ID, mas não temos). */}
-        {filteredTermos.map((termo, index) => (
-          <li key={index} style={{ marginBottom: '1rem' }}>
-            <strong>{termo.romaji}</strong> ({termo.kanji}):<br />
-            {termo.significado}
-          </li>
-        ))}
-      </ul>
-      )}
+        <>
+          {buscarTermos && (
+            <ul>
+              {/* Percorre cada termo da lista filtered.
+                  Mostra romaji, kanji e significado.
+                  key={index}: ajuda o React a identificar cada item 
+                  (ideal seria usar ID, mas não temos). */}
+              {filteredTermos.map((termo, index) => (
+                <li key={index} style={{ marginBottom: '1rem' }}>
+                  <strong>{destacarTexto(termo.romaji, query)}</strong> 
+                  {' '}({destacarTexto(termo.kanji, query)}):<br />
+                  {destacarTexto(termo.significado, query)}
+                </li>
+              ))}
+            </ul>
+          )}
+      
+          {buscarEpisodios && digitou && (
+          <ul>
+            {filteredEpisodios.map((episodio, index) => (
+              <li key={index} style={{marginBottom: '1rem'}}>
+                <strong>
+                  {destacarTexto(String(episodio.episodio_numero), query)} 
+                  {destacarTexto(episodio.titulo_p, query)}
+                </strong>
+                <strong> 
+                  {destacarTexto(episodio.titulo_j, query)}
+                </strong>
 
-      {loading ? (
-        <p>Carregando...</p>
-      ):(
-        <ul>
-          {filteredEpisodios.map((episodio, index) => (
-            <li key={index} style={{marginBottom: '1rem'}}>
-              <strong>{episodio.episodio_numero} {episodio.titulo_p}</strong>
-              <strong> {episodio.titulo_j}</strong>
-              (Página {episodio.pagina}): <br />
-              <em>{episodio.conteudo_p || 'Sem conteúdo em português'}</em>
-              <br />
-              <em>{episodio.conteudo_j || 'Sem conteúdo em japonês'}</em>
-
-            </li>
-          ))}
-        </ul>
-      )}
-
-
+                {' '} (Página {destacarTexto(String(episodio.pagina), query)}): <br />
+                <em>{episodio.conteudo_p || 'Sem conteúdo em português'}</em>
+                <br />
+                <em>{episodio.conteudo_j || 'Sem conteúdo em japonês'}</em>
+              </li>
+            ))}
+          </ul>
+        )}
+      </>
+    )}
     </div>
   );
 }
