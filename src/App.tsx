@@ -3,7 +3,7 @@
 //useEffect: hook que permite realizar efeitos colaterais 
 // (ex.: chamadas de API) durante o ciclo de vida do componente.
 import { useEffect, useState, useCallback } from 'react';
-
+import debounce from 'lodash/debounce';
 // Define o tipo Termo para representar cada termo do glossário.
 // Cada termo tem 3 propriedades:
 // romaji → representação fonética,
@@ -137,9 +137,9 @@ function App() {
       const filtered = episodios.filter(
         (episodio) => 
           tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
-          episodio.titulo_j ||
+          episodio.titulo_j.includes(query) ||
           (episodio.conteudo_p && tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) ||
-          episodio.conteudo_j
+          (episodio.conteudo_j && episodio.conteudo_j.includes(query))
       );
       setFilteredEpisodios(filtered);
     } else {
@@ -169,9 +169,12 @@ function App() {
 
   // Sempre que query ou termos mudar, executa filtrar() automaticamente.
   // Assim, a lista filtrada é sempre atualizada conforme o usuário digita.
+  const debouncedFiltrar = useCallback(debounce(filtrar, 300), [filtrar]);
+
   useEffect(() => {
-    filtrar();
-  }, [filtrar]);
+    debouncedFiltrar();
+    return debouncedFiltrar.cancel;
+  }, [debouncedFiltrar, query]);
 
   return (
     <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth:'890px' }}>
@@ -269,9 +272,9 @@ function App() {
                 </strong>
 
                 {' '} (Página {destacarTexto(String(episodio.pagina), query)}): <br />
-                <em>{episodio.conteudo_p || 'Sem conteúdo em português'}</em>
+                <em>{destacarTexto(episodio.conteudo_p, query) || 'Sem conteúdo em português'}</em>
                 <br />
-                <em>{episodio.conteudo_j || 'Sem conteúdo em japonês'}</em>
+                <em>{destacarTexto(episodio.conteudo_j, query) || 'Sem conteúdo em japonês'}</em>
               </li>
             ))}
           </ul>
