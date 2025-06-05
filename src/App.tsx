@@ -118,7 +118,12 @@ function App() {
   // função que filtra os termos conforme a query.
   const filtrar = useCallback(() => {
     const normalizedQuery = tirarAcentos(query)
-
+    
+    if (!digitou || !query) {
+      // setFilteredTermos([]);
+      setFilteredEpisodios([]);
+      return;
+    }
     //const lowerQuery = query.toLowerCase();
     // toLowerCase(): deixa tudo minúsculo para uma busca case-insensitive.
     if (buscarTermos) {
@@ -265,7 +270,7 @@ function App() {
               <li key={index} style={{marginBottom: '1rem'}}>
                 <strong>
                   {destacarTexto(String(episodio.episodio_numero), query)} 
-                  {destacarTexto(episodio.titulo_p, query)}
+                  - {destacarTexto(episodio.titulo_p, query)}
                 </strong>
                 <strong> 
                   {destacarTexto(episodio.titulo_j, query)}
