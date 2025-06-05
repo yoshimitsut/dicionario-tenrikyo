@@ -3,7 +3,8 @@
 //useEffect: hook que permite realizar efeitos colaterais 
 // (ex.: chamadas de API) durante o ciclo de vida do componente.
 import { useEffect, useState, useCallback } from 'react';
-import debounce from 'lodash/debounce';
+// import debounce from 'lodash/debounce';
+
 // Define o tipo Termo para representar cada termo do glossário.
 // Cada termo tem 3 propriedades:
 // romaji → representação fonética,
@@ -116,7 +117,7 @@ function App() {
   }, []);
 
   // função que filtra os termos conforme a query.
-  const filtrar = useCallback(() => {
+  function filtrar() {
     const normalizedQuery = tirarAcentos(query)
     
     if (!digitou || !query) {
@@ -150,42 +151,31 @@ function App() {
     } else {
       setFilteredEpisodios([]);
     }
-
-    // const filteredTermos = termos.filter(
-    //   (termo) =>
-    //     // includes(lowerQuery): verifica se há correspondência parcial no texto.
-    //     tirarAcentos(termo.romaji).includes(normalizedQuery) ||
-    //     termo.kanji.includes(query) ||
-    //     tirarAcentos(termo.significado).includes(normalizedQuery)
-    // );
-    // // Atualiza filtered com os resultados encontrados.
-    // setFilteredTermos(filteredTermos);
-
-    // const filteredEpisodios = episodios.filter(
-    //   (episodio) => 
-    //     tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
-    //     episodio.titulo_j ||
-    //     (episodio.conteudo_p && 
-    //       tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) || 
-    //     episodio.conteudo_j   
-    // );
-    // setFilteredEpisodios(filteredEpisodios);
+  }
+  
+   useEffect(() => {
+    filtrar();
   }, [query, termos, episodios, buscarTermos, buscarEpisodios, digitou]);
 
+  
+  // useEffect(() => {
+  //   filtrar();
+  // }, [filtrar]);
+  
   // Sempre que query ou termos mudar, executa filtrar() automaticamente.
   // Assim, a lista filtrada é sempre atualizada conforme o usuário digita.
-  useEffect(() => {
-  const debouncedFiltrar = debounce(() => {
-      filtrar();
-    }, 300);
+  
+  // useEffect(() => {
+  // const debouncedFiltrar = debounce(() => {
+  //     filtrar();
+  //   }, 300);
 
-    debouncedFiltrar();
+  //   debouncedFiltrar();
 
-    return () => {
-      debouncedFiltrar.cancel();
-    };
-  }, [filtrar, query]);
-
+  //   return () => {
+  //     debouncedFiltrar.cancel();
+  //   };
+  // }, [filtrar, query]);
   return (
     <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth:'890px' }}>
       <h1 style={{ 
