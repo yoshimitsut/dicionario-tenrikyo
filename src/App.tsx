@@ -3,7 +3,7 @@
 //useEffect: hook que permite realizar efeitos colaterais 
 // (ex.: chamadas de API) durante o ciclo de vida do componente.
 import { useEffect, useState, useCallback } from 'react';
-import debounce from 'lodash/debounce';
+
 // Define o tipo Termo para representar cada termo do glossário.
 // Cada termo tem 3 propriedades:
 // romaji → representação fonética,
@@ -120,7 +120,7 @@ function App() {
     const normalizedQuery = tirarAcentos(query)
     
     if (!digitou || !query) {
-      // setFilteredTermos([]);
+      setFilteredTermos([]);
       setFilteredEpisodios([]);
       return;
     }
@@ -170,17 +170,12 @@ function App() {
     //     episodio.conteudo_j   
     // );
     // setFilteredEpisodios(filteredEpisodios);
-  }, [query, termos, episodios, buscarTermos, buscarEpisodios]);
+  }, [query, termos, episodios, buscarTermos, buscarEpisodios, digitou]);
 
   // Sempre que query ou termos mudar, executa filtrar() automaticamente.
   // Assim, a lista filtrada é sempre atualizada conforme o usuário digita.
-  const debouncedFiltrar = useCallback(debounce(filtrar, 300), [filtrar]);
 
-  useEffect(() => {
-    debouncedFiltrar();
-    return debouncedFiltrar.cancel;
-  }, [debouncedFiltrar, query]);
-
+  
   return (
     <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth:'890px' }}>
       <h1 style={{ 
