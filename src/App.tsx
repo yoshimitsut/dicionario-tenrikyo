@@ -3,7 +3,7 @@
 //useEffect: hook que permite realizar efeitos colaterais 
 // (ex.: chamadas de API) durante o ciclo de vida do componente.
 import { useEffect, useState, useCallback } from 'react';
-
+import debounce from 'lodash/debounce';
 // Define o tipo Termo para representar cada termo do glossário.
 // Cada termo tem 3 propriedades:
 // romaji → representação fonética,
@@ -174,8 +174,18 @@ function App() {
 
   // Sempre que query ou termos mudar, executa filtrar() automaticamente.
   // Assim, a lista filtrada é sempre atualizada conforme o usuário digita.
+  useEffect(() => {
+  const debouncedFiltrar = debounce(() => {
+      filtrar();
+    }, 300);
 
-  
+    debouncedFiltrar();
+
+    return () => {
+      debouncedFiltrar.cancel();
+    };
+  }, [filtrar, query]);
+
   return (
     <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth:'890px' }}>
       <h1 style={{ 
