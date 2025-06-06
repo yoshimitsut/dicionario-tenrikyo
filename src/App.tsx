@@ -21,7 +21,7 @@ function tirarAcentos(texto: string | null | undefined): string {
 }
 
 function destacarTexto(texto: string | null | undefined, termo: string): React.ReactNode {
-  if (!texto || !termo) return texto;
+  if (typeof texto !== 'string' || !termo) return texto ?? null;
 
   const termoSemAcento = tirarAcentos(termo);
   const textoSemAcento = tirarAcentos(texto);
@@ -30,12 +30,9 @@ function destacarTexto(texto: string | null | undefined, termo: string): React.R
   const partes: React.ReactNode[] = [];
 
   let lastIndex = 0;
-  let match;
   let indexKey = 0;
 
-  while ((match = regex.exec(textoSemAcento)) !== null) {
-    const start = match.index;
-    const end = regex.lastIndex;
+  while ((regex.exec(textoSemAcento)) !== null) {
 
     const realStart = texto.slice(lastIndex).search(new RegExp(termo, 'i')) + lastIndex;
 
@@ -73,6 +70,7 @@ function App() {
   const [buscarTermos, setBuscarTermos] = useState(true);
   const [buscarEpisodios, setBuscarEpisodios] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [buscaFeita, setBuscaFeita] = useState(false);
 
   const botaoRef = useRef<HTMLButtonElement>(null);
 
@@ -116,6 +114,17 @@ function App() {
       return;
     }
 
+    if (!buscarTermos && !buscarEpisodios){
+      alert('Selecione uma opção de busca.');
+      return;
+    }
+
+    if(!normalizado){
+      setFilteredTermos([]);
+      setFilteredEpisodios([]);
+      return;
+    }
+
     if (buscarTermos) {
       const filtrados = termos.filter(
         (termo) =>
@@ -140,6 +149,7 @@ function App() {
     } else {
       setFilteredEpisodios([]);
     }
+    setBuscaFeita(true);
   };
 
   // Pressionar ENTER chama o botão
@@ -185,10 +195,16 @@ function App() {
         <p>Carregando...</p>
       ) : (
         <>
+          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && (
+            <p style={{ textAlign: 'center', marginTop: '1rem', color: 'gray' }}>
+              Termo não encontrado
+            </p>
+          )}
+
           {filteredTermos.length > 0 && (
             <ul>
               {filteredTermos.map((termo, i) => (
-                <li key={i}>
+                <li key={i} style={{marginBottom: '25px'}}>
                   <strong>{destacarTexto(termo.romaji, query)}</strong> ({destacarTexto(termo.kanji, query)}):<br />
                   {destacarTexto(termo.significado, query)}
                 </li>
@@ -199,7 +215,7 @@ function App() {
           {filteredEpisodios.length > 0 && (
             <ul>
               {filteredEpisodios.map((ep, i) => (
-                <li key={i}>
+                <li key={i} style={{marginBottom: '25px', borderBottom: '1px solid'}}>
                   <strong>
                     {destacarTexto(ep.episodio_numero, query)} - {destacarTexto(ep.titulo_p, query)}
                   </strong>{' '}
