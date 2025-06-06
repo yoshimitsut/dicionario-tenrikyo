@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 
 interface Termo {
   romaji: string;
@@ -15,37 +15,52 @@ interface Episodio {
   conteudo_j: string | null;
 }
 
-function tirarAcentos(texto: string) {
-  if (!texto) return '';
+function tirarAcentos(texto: string | null | undefined): string {
+  if (typeof texto !== 'string') return '';
   return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-function destacarTexto(texto: string | null | undefined, termo: string) {
-  if (!texto) return null;
-  if (!termo) return texto;
+function destacarTexto(texto: string | null | undefined, termo: string): React.ReactNode {
+  if (!texto || !termo) return texto;
 
-  const textoSemAcento = tirarAcentos(texto);
   const termoSemAcento = tirarAcentos(termo);
+  const textoSemAcento = tirarAcentos(texto);
 
-  const partes = [];
-  let i = 0;
+  const regex = new RegExp(termoSemAcento.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+  const partes: React.ReactNode[] = [];
 
-  while (i < texto.length) {
-    const index = textoSemAcento.indexOf(termoSemAcento, i);
-    if (index === -1) {
-      partes.push(texto.slice(i));
-      break;
-    }
-    partes.push(texto.slice(i, index));
+  let lastIndex = 0;
+  let match;
+  let indexKey = 0;
+
+  while ((match = regex.exec(textoSemAcento)) !== null) {
+    const start = match.index;
+    const end = regex.lastIndex;
+
+    const realStart = texto.slice(lastIndex).search(new RegExp(termo, 'i')) + lastIndex;
+
+    if (realStart < 0) break;
+
+    partes.push(<span key={`texto-${indexKey}`}>{texto.slice(lastIndex, realStart)}</span>);
+    indexKey++;
+
     partes.push(
-      <mark key={index} style={{ backgroundColor: 'yellow', color: 'black' }}>
-        {texto.slice(index, index + termo.length)}
+      <mark key={`destacado-${indexKey}`} style={{ backgroundColor: 'yellow', color: 'black' }}>
+        {texto.slice(realStart, realStart + termo.length)}
       </mark>
     );
-    i = index + termo.length;
+    indexKey++;
+
+    lastIndex = realStart + termo.length;
   }
+
+  partes.push(<span key={`final-${indexKey}`}>{texto.slice(lastIndex)}</span>);
+
   return <>{partes}</>;
 }
+
+
+
 
 function App() {
   const [termos, setTermos] = useState<Termo[]>([]);
@@ -55,144 +70,145 @@ function App() {
   const [filteredTermos, setFilteredTermos] = useState<Termo[]>([]);
   const [filteredEpisodios, setFilteredEpisodios] = useState<Episodio[]>([]);
 
-  const [loading, setLoading] = useState(true);
-  const [digitou, setDigitou] = useState(false);
-
   const [buscarTermos, setBuscarTermos] = useState(true);
   const [buscarEpisodios, setBuscarEpisodios] = useState(false);
+  const [loading, setLoading] = useState(false);
 
+  const botaoRef = useRef<HTMLButtonElement>(null);
+
+  // Carrega os dados JSON apenas uma vez, sem filtrar nada
   useEffect(() => {
     const fetchJSON = async () => {
       try {
+        setLoading(true);
         const termosResponse = await fetch('/data/works.json');
         const episodiosResponse = await fetch('/data/itsuwahen.json');
+
         if (!termosResponse.ok || !episodiosResponse.ok) {
-          throw new Error(`Erro ao carregar arquivos JSON`);
+          throw new Error('Erro ao carregar JSON');
         }
+
         const termosData: Termo[] = await termosResponse.json();
         const episodiosData: Episodio[] = await episodiosResponse.json();
 
         setTermos(termosData);
         setEpisodios(episodiosData);
+
+        // NÃO mostrar resultados automaticamente:
+        setFilteredTermos([]);
+        setFilteredEpisodios([]);
       } catch (error) {
         console.error('Erro ao carregar JSON:', error);
       } finally {
         setLoading(false);
       }
     };
+
     fetchJSON();
   }, []);
 
-  function filtrar() {
-    const normalizedQuery = tirarAcentos(query);
+  const filtrar = () => {
+    const normalizado = tirarAcentos(query);
 
-    if (!digitou || !query) {
+    if (!query.trim()) {
       setFilteredTermos([]);
       setFilteredEpisodios([]);
       return;
     }
 
     if (buscarTermos) {
-      const filtered = termos.filter(
+      const filtrados = termos.filter(
         (termo) =>
-          tirarAcentos(termo.romaji).includes(normalizedQuery) ||
+          tirarAcentos(termo.romaji).includes(normalizado) ||
           termo.kanji.includes(query) ||
-          tirarAcentos(termo.significado).includes(normalizedQuery)
+          tirarAcentos(termo.significado).includes(normalizado)
       );
-      setFilteredTermos(filtered);
+      setFilteredTermos(filtrados);
     } else {
       setFilteredTermos([]);
     }
 
     if (buscarEpisodios) {
-      const filtered = episodios.filter(
-        (episodio) =>
-          tirarAcentos(episodio.titulo_p).includes(normalizedQuery) ||
-          episodio.titulo_j.includes(query) ||
-          (episodio.conteudo_p && tirarAcentos(episodio.conteudo_p).includes(normalizedQuery)) ||
-          (episodio.conteudo_j && episodio.conteudo_j.includes(query))
+      const filtrados = episodios.filter(
+        (e) =>
+          tirarAcentos(e.titulo_p).includes(normalizado) ||
+          e.titulo_j.includes(query) ||
+          (e.conteudo_p && tirarAcentos(e.conteudo_p).includes(normalizado)) ||
+          (e.conteudo_j && e.conteudo_j.includes(query))
       );
-      setFilteredEpisodios(filtered);
+      setFilteredEpisodios(filtrados);
     } else {
       setFilteredEpisodios([]);
     }
-  }
+  };
 
+  // Pressionar ENTER chama o botão
   useEffect(() => {
-    filtrar();
-  }, [query, termos, episodios, buscarTermos, buscarEpisodios, digitou]);
+    const handleEnter = (e: KeyboardEvent) => {
+      if (e.key === 'Enter') {
+        botaoRef.current?.click();
+      }
+    };
+    window.addEventListener('keydown', handleEnter);
+    return () => window.removeEventListener('keydown', handleEnter);
+  }, []);
 
   return (
     <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth: '890px' }}>
-      <h1 style={{ fontSize: '3rem', display: 'flex', justifyContent: 'center', alignItems: 'center', top: 0, textAlign: 'center' }}>
-        Dicionário da Tenrikyo
-      </h1>
+      <h1 style={{ fontSize: '3rem', textAlign: 'center' }}>Dicionário da Tenrikyo</h1>
 
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem' }}>
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
         <label>
-          <input type="checkbox" checked={buscarTermos} onChange={(e) => setBuscarTermos(e.target.checked)} /> {' '}
-          Buscar Termo.
+          <input type="checkbox" checked={buscarTermos} onChange={(e) => setBuscarTermos(e.target.checked)} />
+          Buscar Termos
         </label>
-
         <label>
-          <input type="checkbox" checked={buscarEpisodios} onChange={(e) => setBuscarEpisodios(e.target.checked)} /> {' '}
-          Episódios da Vida de Oyassama.
+          <input type="checkbox" checked={buscarEpisodios} onChange={(e) => setBuscarEpisodios(e.target.checked)} />
+          Episódios da Vida de Oyassama
         </label>
       </div>
 
-      <div style={{
-        marginBottom: '1rem',
-        position: 'sticky',
-        top: 0,
-        padding: '1rem 0',
-        zIndex: 1000,
-        backgroundColor: '#242426',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-      }}>
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem' }}>
         <input
           type="text"
-          placeholder="Digite para buscar..."
           value={query}
-          onChange={(e) => {
-            setQuery(e.target.value);
-            setDigitou(e.target.value.length > 0);
-          }}
-          style={{ padding: '0.5rem', width: '20rem', marginLeft: '0.5rem' }}
+          placeholder="Digite para buscar..."
+          onChange={(e) => setQuery(e.target.value)}
+          style={{ padding: '0.5rem', width: '20rem' }}
         />
+        <button ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem' }}>
+          Pesquisar
+        </button>
       </div>
 
       {loading ? (
         <p>Carregando...</p>
       ) : (
         <>
-          {buscarTermos && (
+          {filteredTermos.length > 0 && (
             <ul>
-              {filteredTermos.map((termo, index) => (
-                <li key={index} style={{ marginBottom: '1rem' }}>
-                  <strong>{destacarTexto(termo.romaji, query)}</strong> {' '}
-                  ({destacarTexto(termo.kanji, query)}):<br />
+              {filteredTermos.map((termo, i) => (
+                <li key={i}>
+                  <strong>{destacarTexto(termo.romaji, query)}</strong> ({destacarTexto(termo.kanji, query)}):<br />
                   {destacarTexto(termo.significado, query)}
                 </li>
               ))}
             </ul>
           )}
 
-          {buscarEpisodios && digitou && (
+          {filteredEpisodios.length > 0 && (
             <ul>
-              {filteredEpisodios.map((episodio, index) => (
-                <li key={index} style={{ marginBottom: '1rem' }}>
+              {filteredEpisodios.map((ep, i) => (
+                <li key={i}>
                   <strong>
-                    {destacarTexto(String(episodio.episodio_numero), query)} - {destacarTexto(episodio.titulo_p, query)}
-                  </strong>
-                  <strong>
-                    {destacarTexto(episodio.titulo_j, query)}
-                  </strong>
-                  {' '} (Página {destacarTexto(String(episodio.pagina), query)}): <br />
-                  <em>{destacarTexto(episodio.conteudo_p, query) || 'Sem conteúdo em português'}</em>
+                    {destacarTexto(ep.episodio_numero, query)} - {destacarTexto(ep.titulo_p, query)}
+                  </strong>{' '}
+                  ({destacarTexto(ep.titulo_j, query)})<br />
+                  Página: {ep.pagina}
                   <br />
-                  <em>{destacarTexto(episodio.conteudo_j, query) || 'Sem conteúdo em japonês'}</em>
+                  <em>{destacarTexto(ep.conteudo_p, query) || 'Sem conteúdo em português'}</em>
+                  <br />
+                  <em>{destacarTexto(ep.conteudo_j, query) || 'Sem conteúdo em japonês'}</em>
                 </li>
               ))}
             </ul>
