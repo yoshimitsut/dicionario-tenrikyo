@@ -14,6 +14,18 @@ interface Episodio {
   conteudo_p: string | null;
   conteudo_j: string | null;
 }
+interface Verso {
+  verso_numero: string;
+  romaji: string | null;
+  kanji: string | null;
+  traducao: string | null;
+}
+interface Hino {
+  hino_romaji: string;
+  hino_kanji: string;
+  versos: Verso[];  
+}
+
 
 function tirarAcentos(texto: string | null | undefined): string {
   if (typeof texto !== 'string') return '';
@@ -62,13 +74,17 @@ function destacarTexto(texto: string | null | undefined, termo: string): React.R
 function App() {
   const [termos, setTermos] = useState<Termo[]>([]);
   const [episodios, setEpisodios] = useState<Episodio[]>([]);
+  const [hinos, setHinos] = useState<Hino[]>([]);
 
   const [query, setQuery] = useState('');
   const [filteredTermos, setFilteredTermos] = useState<Termo[]>([]);
   const [filteredEpisodios, setFilteredEpisodios] = useState<Episodio[]>([]);
+  const [filteredHinos, setFilteredHinos] = useState<Hino[]>([]);
 
   const [buscarTermos, setBuscarTermos] = useState(true);
   const [buscarEpisodios, setBuscarEpisodios] = useState(false);
+  const [buscarHinos, setBuscarHinos] = useState(false);
+  
   const [loading, setLoading] = useState(false);
   const [buscaFeita, setBuscaFeita] = useState(false);
 
@@ -81,20 +97,25 @@ function App() {
         setLoading(true);
         const termosResponse = await fetch('/data/works.json');
         const episodiosResponse = await fetch('/data/itsuwahen.json');
+        const hinosResponse = await fetch('/data/mikagurauta.json');
 
-        if (!termosResponse.ok || !episodiosResponse.ok) {
+        if (!termosResponse.ok || !episodiosResponse.ok || !hinosResponse.ok) {
           throw new Error('Erro ao carregar JSON');
         }
 
         const termosData: Termo[] = await termosResponse.json();
         const episodiosData: Episodio[] = await episodiosResponse.json();
+        const hinosData: Hino[] = await hinosResponse.json();
 
         setTermos(termosData);
         setEpisodios(episodiosData);
+        setHinos(hinosData);
 
         // NÃO mostrar resultados automaticamente:
         setFilteredTermos([]);
         setFilteredEpisodios([]);
+        setFilteredHinos([]);
+
       } catch (error) {
         console.error('Erro ao carregar JSON:', error);
       } finally {
@@ -114,7 +135,7 @@ function App() {
       return;
     }
 
-    if (!buscarTermos && !buscarEpisodios){
+    if (!buscarTermos && !buscarEpisodios && !buscarHinos){
       alert('Selecione uma opção de busca.');
       return;
     }
@@ -149,6 +170,34 @@ function App() {
     } else {
       setFilteredEpisodios([]);
     }
+
+    if(buscarHinos){
+      const filtrados = hinos.map((hino) => {
+        const hinoRomaji = tirarAcentos(hino.hino_romaji ?? '').toLowerCase();
+    const hinoKanji = tirarAcentos(hino.hino_kanji ?? '').toLowerCase();
+
+    const nomeCombina =
+      hinoRomaji.includes(normalizado) || hinoKanji.includes(normalizado);
+
+    if (nomeCombina) {
+      return hino; // Mostra o hino inteiro
+    }
+        
+        const versosFiltrados = hino.versos.filter(
+          (v) => 
+            tirarAcentos(v.romaji).includes(normalizado) ||
+            v.kanji && tirarAcentos(v.kanji).includes(query) ||
+            tirarAcentos(v.traducao).includes(normalizado)
+        )
+        return versosFiltrados.length > 0 ? {...hino, versos: versosFiltrados} : null;
+      })
+      .filter(Boolean) as Hino[];
+
+      setFilteredHinos(filtrados);
+    } else {
+      setFilteredHinos([]);
+    }
+
     setBuscaFeita(true);
   };
 
@@ -176,6 +225,10 @@ function App() {
           <input type="checkbox" checked={buscarEpisodios} onChange={(e) => setBuscarEpisodios(e.target.checked)} />
           Episódios da Vida de Oyassama
         </label>
+        <label>
+          <input type="checkbox" checked={buscarHinos} onChange={(e) => setBuscarHinos(e.target.checked)} />
+          Mikagura-Uta
+        </label>
       </div>
 
       <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem' }}>
@@ -195,7 +248,7 @@ function App() {
         <p>Carregando...</p>
       ) : (
         <>
-          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && (
+          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && filteredHinos.length === 0 && (
             <p style={{ textAlign: 'center', marginTop: '1rem', color: 'gray' }}>
               Termo não encontrado
             </p>
@@ -228,6 +281,25 @@ function App() {
                 </li>
               ))}
             </ul>
+          )}
+
+          {filteredHinos.length > 0 && (
+            <div>
+              {filteredHinos.map((hino, i) => (
+                <div key={`hino-${i}`} style={{ marginBottom: '1rem', borderBottom: '1px solid'}}>
+                  <h3>{destacarTexto(hino.hino_romaji, query)} ({destacarTexto(hino.hino_kanji, query)})</h3>
+                    <ul>
+                      {hino.versos.map((verso, j) => (
+                        <li key={`verso-${i}-${j}`} style={{ marginBottom: '1rem'}}>
+                          <strong>{destacarTexto(verso.romaji, query)}</strong><br />
+                          <em>{destacarTexto(verso.kanji, query)}</em> <br />
+                          {destacarTexto(verso.traducao, query)}
+                        </li>
+                      ))}
+                    </ul>
+                </div>
+              ))}
+            </div>
           )}
         </>
       )}
