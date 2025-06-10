@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from 'react';
-
+import './App.css'
 interface Termo {
   romaji: string;
   kanji: string;
@@ -231,7 +231,7 @@ function App() {
         </label>
       </div>
 
-      <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem' }}>
+      <div className='input-wrapper' style={{ display: 'flex', justifyContent: 'center', marginTop: '1rem' }}>
         <input
           type="text"
           value={query}
@@ -239,9 +239,9 @@ function App() {
           onChange={(e) => setQuery(e.target.value)}
           style={{ padding: '0.5rem', width: '20rem' }}
         />
-        <button ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem' }}>
-          Pesquisar
-        </button>
+        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem' }}>
+          
+        </i>
       </div>
 
       {loading ? (
