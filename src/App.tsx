@@ -213,7 +213,7 @@ function App() {
   }, []);
 
   return (
-    <div style={{ padding: '1rem', fontFamily: 'sans-serif', maxWidth: '890px' }}>
+    <div style={{ padding: '1rem', fontFamily: 'sans-serif' }}>
       <h1 style={{ fontSize: '3rem', textAlign: 'center' }}>Dicionário da Tenrikyo</h1>
 
       <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
@@ -239,7 +239,7 @@ function App() {
           onChange={(e) => setQuery(e.target.value)}
           style={{ padding: '0.5rem', width: '20rem' }}
         />
-        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem' }}>
+        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem', cursor: 'pointer' }}>
           
         </i>
       </div>
