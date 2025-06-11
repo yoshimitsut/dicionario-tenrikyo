@@ -26,6 +26,13 @@ interface Hino {
   versos: Verso[];  
 }
 
+interface Ofudessaki {
+  parte: string,
+  versiculo: string,
+  conteudo_j: string,
+  conteudo_r: string,
+  conteudo_p: string
+}
 
 function tirarAcentos(texto: string | null | undefined): string {
   if (typeof texto !== 'string') return '';
@@ -75,16 +82,19 @@ function App() {
   const [termos, setTermos] = useState<Termo[]>([]);
   const [episodios, setEpisodios] = useState<Episodio[]>([]);
   const [hinos, setHinos] = useState<Hino[]>([]);
+  const [ofudessaki, setOfudessaki] = useState<Ofudessaki[]>([]);
 
   const [query, setQuery] = useState('');
   const [filteredTermos, setFilteredTermos] = useState<Termo[]>([]);
   const [filteredEpisodios, setFilteredEpisodios] = useState<Episodio[]>([]);
   const [filteredHinos, setFilteredHinos] = useState<Hino[]>([]);
+  const [filteredOfudessaki, setFilteredOfudessaki] = useState<Ofudessaki[]>([]);
 
   const [buscarTermos, setBuscarTermos] = useState(true);
   const [buscarEpisodios, setBuscarEpisodios] = useState(false);
   const [buscarHinos, setBuscarHinos] = useState(false);
-  
+  const [buscarOfudessaki, setBuscarOfudessaki] = useState(false);
+
   const [loading, setLoading] = useState(false);
   const [buscaFeita, setBuscaFeita] = useState(false);
 
@@ -98,23 +108,27 @@ function App() {
         const termosResponse = await fetch('/data/works.json');
         const episodiosResponse = await fetch('/data/itsuwahen.json');
         const hinosResponse = await fetch('/data/mikagurauta.json');
+        const ofudessakiResponse = await fetch('data/ofudessaki.json');
 
-        if (!termosResponse.ok || !episodiosResponse.ok || !hinosResponse.ok) {
+        if (!termosResponse.ok || !episodiosResponse.ok || !hinosResponse.ok || !ofudessakiResponse.ok) {
           throw new Error('Erro ao carregar JSON');
         }
 
         const termosData: Termo[] = await termosResponse.json();
         const episodiosData: Episodio[] = await episodiosResponse.json();
         const hinosData: Hino[] = await hinosResponse.json();
+        const ofudessakiData: Ofudessaki[] = await ofudessakiResponse.json();
 
         setTermos(termosData);
         setEpisodios(episodiosData);
         setHinos(hinosData);
+        setOfudessaki(ofudessakiData);
 
         // NÃO mostrar resultados automaticamente:
         setFilteredTermos([]);
         setFilteredEpisodios([]);
         setFilteredHinos([]);
+        setFilteredOfudessaki([]);
 
       } catch (error) {
         console.error('Erro ao carregar JSON:', error);
@@ -132,10 +146,12 @@ function App() {
     if (!query.trim()) {
       setFilteredTermos([]);
       setFilteredEpisodios([]);
+      setFilteredHinos([]);
+      setFilteredOfudessaki([]);
       return;
     }
 
-    if (!buscarTermos && !buscarEpisodios && !buscarHinos){
+    if (!buscarTermos && !buscarEpisodios && !buscarHinos && !buscarOfudessaki){
       alert('Selecione uma opção de busca.');
       return;
     }
@@ -143,6 +159,8 @@ function App() {
     if(!normalizado){
       setFilteredTermos([]);
       setFilteredEpisodios([]);
+      setFilteredHinos([]);
+      setFilteredOfudessaki([]);
       return;
     }
 
@@ -174,23 +192,23 @@ function App() {
     if(buscarHinos){
       const filtrados = hinos.map((hino) => {
         const hinoRomaji = tirarAcentos(hino.hino_romaji ?? '').toLowerCase();
-    const hinoKanji = tirarAcentos(hino.hino_kanji ?? '').toLowerCase();
+        const hinoKanji = tirarAcentos(hino.hino_kanji ?? '').toLowerCase();
 
-    const nomeCombina =
-      hinoRomaji.includes(normalizado) || hinoKanji.includes(normalizado);
+        const nomeCombina =
+        hinoRomaji.includes(normalizado) || hinoKanji.includes(normalizado);
 
-    if (nomeCombina) {
-      return hino; // Mostra o hino inteiro
-    }
-        
+        if (nomeCombina) {
+          return hino; // Mostra o hino inteiro
+        }
+          
         const versosFiltrados = hino.versos.filter(
           (v) => 
-            tirarAcentos(v.romaji).includes(normalizado) ||
-            v.kanji && tirarAcentos(v.kanji).includes(query) ||
-            tirarAcentos(v.traducao).includes(normalizado)
+          tirarAcentos(v.romaji).includes(normalizado) ||
+          v.kanji && tirarAcentos(v.kanji).includes(query) ||
+          tirarAcentos(v.traducao).includes(normalizado)
         )
         return versosFiltrados.length > 0 ? {...hino, versos: versosFiltrados} : null;
-      })
+        })
       .filter(Boolean) as Hino[];
 
       setFilteredHinos(filtrados);
@@ -200,6 +218,10 @@ function App() {
 
     setBuscaFeita(true);
   };
+
+  // if(buscarOfudessaki){
+
+  // }
 
   // Pressionar ENTER chama o botão
   useEffect(() => {
@@ -219,15 +241,19 @@ function App() {
       <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
         <label>
           <input type="checkbox" checked={buscarTermos} onChange={(e) => setBuscarTermos(e.target.checked)} />
-          Buscar Termos
+          Termos
         </label>
         <label>
           <input type="checkbox" checked={buscarEpisodios} onChange={(e) => setBuscarEpisodios(e.target.checked)} />
-          Episódios da Vida de Oyassama
+          Itsuwahen
         </label>
         <label>
           <input type="checkbox" checked={buscarHinos} onChange={(e) => setBuscarHinos(e.target.checked)} />
           Mikagura-Uta
+        </label>
+        <label>
+          <input type="checkbox" checked={buscarOfudessaki} onChange={(e) => setBuscarOfudessaki(e.target.checked)} />
+          Ofudessaki
         </label>
       </div>
 
