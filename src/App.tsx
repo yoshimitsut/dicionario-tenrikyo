@@ -179,6 +179,8 @@ function App() {
     if (buscarEpisodios) {
       const filtrados = episodios.filter(
         (e) =>
+          e.episodio_numero?.toString().includes(normalizado) ||
+          e.pagina?.toString().includes(normalizado) ||
           tirarAcentos(e.titulo_p).includes(normalizado) ||
           e.titulo_j.includes(query) ||
           (e.conteudo_p && tirarAcentos(e.conteudo_p).includes(normalizado)) ||
@@ -216,13 +218,25 @@ function App() {
       setFilteredHinos([]);
     }
 
+    if(buscarOfudessaki){
+      const filtrados = ofudessaki.filter(
+        (of) => 
+          of.parte?.toString().toLowerCase().includes(normalizado) ||
+          of.versiculo?.toString().toLowerCase().includes(normalizado) ||
+          (of.conteudo_j && of.conteudo_j.includes(normalizado))||
+          (of.conteudo_r && of.conteudo_r.toLowerCase().includes(normalizado)) ||
+          tirarAcentos(of.conteudo_p).toLowerCase().includes(normalizado)         
+      )
+      setFilteredOfudessaki(filtrados);
+    } else {
+      setFilteredOfudessaki([]);
+    }
+
     setBuscaFeita(true);
   };
 
-  // if(buscarOfudessaki){
-
-  // }
-
+ 
+  
   // Pressionar ENTER chama o botão
   useEffect(() => {
     const handleEnter = (e: KeyboardEvent) => {
@@ -263,9 +277,9 @@ function App() {
           value={query}
           placeholder="Digite para buscar..."
           onChange={(e) => setQuery(e.target.value)}
-          style={{ padding: '0.5rem', width: '20rem' }}
+          style={{ padding: '0.5rem', width: '20rem', fontSize: '16px' }}
         />
-        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem', cursor: 'pointer' }}>
+        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem', cursor: 'pointer', fontSize: '16px' }}>
           
         </i>
       </div>
@@ -296,10 +310,10 @@ function App() {
               {filteredEpisodios.map((ep, i) => (
                 <li key={i} style={{marginBottom: '25px', borderBottom: '1px solid'}}>
                   <strong>
-                    {destacarTexto(ep.episodio_numero, query)} - {destacarTexto(ep.titulo_p, query)}
+                    {destacarTexto(ep.episodio_numero.toString(), query)} - {destacarTexto(ep.titulo_p, query)}
                   </strong>{' '}
                   ({destacarTexto(ep.titulo_j, query)})<br />
-                  Página: {ep.pagina}
+                  Página: {destacarTexto(ep.pagina.toString(), query)}
                   <br />
                   <em>{destacarTexto(ep.conteudo_p, query) || 'Sem conteúdo em português'}</em>
                   <br />
@@ -327,6 +341,25 @@ function App() {
               ))}
             </div>
           )}
+
+          {filteredOfudessaki.length> 0 && (
+            <ul>
+              {filteredOfudessaki.map((ofudessaki, i) => (
+                <li key={`ofudessaki-${i}`} style={{marginBottom: '1rem', borderBottom: '1px solid'}}>
+                  <strong>
+                    Parte: {destacarTexto(ofudessaki.parte.toString(), query)} - Versículo ({destacarTexto(ofudessaki.versiculo.toString(), query)})
+                  </strong>
+                  <br />
+                  <em>
+                    {destacarTexto(ofudessaki.conteudo_j, query)} <br />
+                    {destacarTexto(ofudessaki.conteudo_r, query)} <br />
+                    {destacarTexto(ofudessaki.conteudo_p, query)}
+                  </em>
+                </li>
+              ))}
+            </ul>
+          )}
+
         </>
       )}
     </div>
