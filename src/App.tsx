@@ -76,8 +76,6 @@ function destacarTexto(texto: string | null | undefined, termo: string): React.R
 }
 
 
-
-
 function App() {
   const [termos, setTermos] = useState<Termo[]>([]);
   const [episodios, setEpisodios] = useState<Episodio[]>([]);
@@ -179,8 +177,8 @@ function App() {
     if (buscarEpisodios) {
       const filtrados = episodios.filter(
         (e) =>
-          e.episodio_numero?.toString().includes(normalizado) ||
-          e.pagina?.toString().includes(normalizado) ||
+          e.episodio_numero?.toString().toLowerCase().includes(normalizado) ||
+          //e.pagina?.toString().toLowerCase().includes(normalizado) ||
           tirarAcentos(e.titulo_p).includes(normalizado) ||
           e.titulo_j.includes(query) ||
           (e.conteudo_p && tirarAcentos(e.conteudo_p).includes(normalizado)) ||
@@ -288,7 +286,7 @@ function App() {
         <p>Carregando...</p>
       ) : (
         <>
-          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && filteredHinos.length === 0 && (
+          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && filteredHinos.length === 0 && filteredOfudessaki.length === 0 &&(
             <p style={{ textAlign: 'center', marginTop: '1rem', color: 'gray' }}>
               Termo não encontrado
             </p>
@@ -313,7 +311,7 @@ function App() {
                     {destacarTexto(ep.episodio_numero.toString(), query)} - {destacarTexto(ep.titulo_p, query)}
                   </strong>{' '}
                   ({destacarTexto(ep.titulo_j, query)})<br />
-                  Página: {destacarTexto(ep.pagina.toString(), query)}
+                  Página: {destacarTexto(ep.pagina, query)}
                   <br />
                   <em>{destacarTexto(ep.conteudo_p, query) || 'Sem conteúdo em português'}</em>
                   <br />
