@@ -21,19 +21,9 @@ ul {
   padding-left: 22px;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.dict-section {
+  font-family: sans-serif;
 }
 
 .card {
@@ -95,3 +85,36 @@ ul {
 .busca-ofudessaki {
   background-color: #090415;
 } */
+
+/* Mobile (smartphones em geral) */
+@media (max-width: 480px) {
+  .optionBusca {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    position: relative;
+    flex-wrap: wrap;
+  }
+  .resultado-busca {
+    ul {
+      padding: 0;
+    }
+  }
+}
+
+/* Tablet (ex: iPad retrato) */
+@media (min-width: 481px) and (max-width: 768px) {
+
+}
+
+/* Desktop pequeno (ex: laptops) */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+/* Desktop grande */
+@media (min-width: 1025px) {
+  .dict-section{
+    padding: 1rem;
+  }
+}

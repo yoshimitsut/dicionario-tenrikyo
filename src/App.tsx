@@ -301,7 +301,7 @@ function App() {
   }, []);
 
   return (
-    <div style={{ padding: '1rem', fontFamily: 'sans-serif' }}>
+    <div className='dict-section' >
       <h1 style={{ fontSize: '3rem', textAlign: 'center' }}>Dicionário da Tenrikyo</h1>
 
       <div className='optionBusca' style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
@@ -344,7 +344,7 @@ function App() {
       {loading ? (
         <p>Carregando...</p>
       ) : (
-        <>
+        <div className='resultado-busca'>
           {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && filteredHinos.length === 0 && filteredOfudessaki.length === 0 && filteredOssashizu.length === 0 &&(
             <p className='loading-p' >
               Termo não encontrado
@@ -441,7 +441,7 @@ function App() {
 
             </div>
           )}
-        </>
+        </div>
       )}
     </div>
   );
