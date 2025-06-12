@@ -34,6 +34,19 @@ interface Ofudessaki {
   conteudo_p: string
 }
 
+interface Ossashizu {
+  data_wareki: string,
+  data: string,
+  data_lunar: string,
+  ano_RD: string,
+  paragrafos: Paragrafos[]
+}
+
+interface Paragrafos {
+  conteudo_jap: string,
+  conteudo_port: string
+}
+
 function tirarAcentos(texto: string | null | undefined): string {
   if (typeof texto !== 'string') return '';
   return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -81,20 +94,24 @@ function App() {
   const [episodios, setEpisodios] = useState<Episodio[]>([]);
   const [hinos, setHinos] = useState<Hino[]>([]);
   const [ofudessaki, setOfudessaki] = useState<Ofudessaki[]>([]);
+  const [ossashizu, setOssashizu] = useState<Ossashizu[]>([])
 
-  const [query, setQuery] = useState('');
   const [filteredTermos, setFilteredTermos] = useState<Termo[]>([]);
   const [filteredEpisodios, setFilteredEpisodios] = useState<Episodio[]>([]);
   const [filteredHinos, setFilteredHinos] = useState<Hino[]>([]);
   const [filteredOfudessaki, setFilteredOfudessaki] = useState<Ofudessaki[]>([]);
-
+  const [filteredOssashizu, setFilteredOssashizu] = useState<Ossashizu[]>([]);
+  
   const [buscarTermos, setBuscarTermos] = useState(true);
   const [buscarEpisodios, setBuscarEpisodios] = useState(false);
   const [buscarHinos, setBuscarHinos] = useState(false);
   const [buscarOfudessaki, setBuscarOfudessaki] = useState(false);
-
+  const [buscarOssashizu, setBuscarOssashizu] = useState(false);
+  
   const [loading, setLoading] = useState(false);
   const [buscaFeita, setBuscaFeita] = useState(false);
+  
+  const [query, setQuery] = useState('');
 
   const botaoRef = useRef<HTMLButtonElement>(null);
 
@@ -107,8 +124,9 @@ function App() {
         const episodiosResponse = await fetch('/data/itsuwahen.json');
         const hinosResponse = await fetch('/data/mikagurauta.json');
         const ofudessakiResponse = await fetch('data/ofudessaki.json');
+        const ossashizuResponse = await fetch('data/ossashizu.json');
 
-        if (!termosResponse.ok || !episodiosResponse.ok || !hinosResponse.ok || !ofudessakiResponse.ok) {
+        if (!termosResponse.ok || !episodiosResponse.ok || !hinosResponse.ok || !ofudessakiResponse.ok || !ossashizuResponse.ok) {
           throw new Error('Erro ao carregar JSON');
         }
 
@@ -116,17 +134,20 @@ function App() {
         const episodiosData: Episodio[] = await episodiosResponse.json();
         const hinosData: Hino[] = await hinosResponse.json();
         const ofudessakiData: Ofudessaki[] = await ofudessakiResponse.json();
+        const ossashizuData: Ossashizu[] = await ossashizuResponse.json();
 
         setTermos(termosData);
         setEpisodios(episodiosData);
         setHinos(hinosData);
         setOfudessaki(ofudessakiData);
+        setOssashizu(ossashizuData);
 
         // NÃO mostrar resultados automaticamente:
         setFilteredTermos([]);
         setFilteredEpisodios([]);
         setFilteredHinos([]);
         setFilteredOfudessaki([]);
+        setFilteredOssashizu([]);
 
       } catch (error) {
         console.error('Erro ao carregar JSON:', error);
@@ -146,10 +167,11 @@ function App() {
       setFilteredEpisodios([]);
       setFilteredHinos([]);
       setFilteredOfudessaki([]);
+      setFilteredOssashizu([]);
       return;
     }
 
-    if (!buscarTermos && !buscarEpisodios && !buscarHinos && !buscarOfudessaki){
+    if (!buscarTermos && !buscarEpisodios && !buscarHinos && !buscarOfudessaki && !buscarOssashizu){
       alert('Selecione uma opção de busca.');
       return;
     }
@@ -159,6 +181,7 @@ function App() {
       setFilteredEpisodios([]);
       setFilteredHinos([]);
       setFilteredOfudessaki([]);
+      setFilteredOssashizu([]);
       return;
     }
 
@@ -230,6 +253,37 @@ function App() {
       setFilteredOfudessaki([]);
     }
 
+    if(buscarOssashizu){
+      const filtrados = ossashizu.map((ossashizu) => {
+        const dataWareki = tirarAcentos(ossashizu.data_wareki ?? '').toLowerCase();
+        const data = tirarAcentos(ossashizu.data ?? '').toLowerCase();
+        const dataLunar  = tirarAcentos(ossashizu.data_lunar ?? '').toLowerCase();
+        const anoRD = tirarAcentos(ossashizu.ano_RD ?? '').toLowerCase(); 
+        
+        const combinaData = 
+          dataWareki.includes(normalizado) || data.includes(normalizado)||
+          dataLunar.includes(normalizado) || anoRD.includes(normalizado)
+        
+        if(combinaData) {
+          return ossashizu;
+        }
+
+        const paragrafosFiltrados = Array.isArray(ossashizu.paragrafos) ?
+          ossashizu.paragrafos.filter(
+          (t) => 
+            tirarAcentos(t.conteudo_port).includes(normalizado) ||
+            t.conteudo_jap && tirarAcentos(t.conteudo_jap).includes(query)
+        )
+        :[];
+
+        return paragrafosFiltrados.length > 0 ? {...ossashizu, paragrafos: paragrafosFiltrados} : null;
+      })
+      .filter(Boolean) as Ossashizu[];
+      setFilteredOssashizu(filtrados);
+    }else{
+      setFilteredOssashizu([]);
+    }
+
     setBuscaFeita(true);
   };
 
@@ -250,12 +304,12 @@ function App() {
     <div style={{ padding: '1rem', fontFamily: 'sans-serif' }}>
       <h1 style={{ fontSize: '3rem', textAlign: 'center' }}>Dicionário da Tenrikyo</h1>
 
-      <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
+      <div className='optionBusca' style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
         <label>
           <input type="checkbox" checked={buscarTermos} onChange={(e) => setBuscarTermos(e.target.checked)} />
           Termos
         </label>
-        <label>
+        <label >
           <input type="checkbox" checked={buscarEpisodios} onChange={(e) => setBuscarEpisodios(e.target.checked)} />
           Itsuwahen
         </label>
@@ -267,17 +321,22 @@ function App() {
           <input type="checkbox" checked={buscarOfudessaki} onChange={(e) => setBuscarOfudessaki(e.target.checked)} />
           Ofudessaki
         </label>
+        <label>
+          <input type="checkbox" checked={buscarOssashizu} onChange={(e) => setBuscarOssashizu(e.target.checked)}/>
+          Ossashizu
+        </label>
       </div>
 
-      <div className='input-wrapper' style={{ display: 'flex', justifyContent: 'center', marginTop: '1rem' }}>
+      <div className='input-wrapper' >
         <input
           type="text"
+          id="input-buscar"
+          name="input-buscar"
           value={query}
           placeholder="Digite para buscar..."
           onChange={(e) => setQuery(e.target.value)}
-          style={{ padding: '0.5rem', width: '20rem', fontSize: '16px' }}
         />
-        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} style={{ padding: '0.5rem 1rem', cursor: 'pointer', fontSize: '16px' }}>
+        <i className='fa fa-search' ref={botaoRef} onClick={filtrar} >
           
         </i>
       </div>
@@ -286,14 +345,14 @@ function App() {
         <p>Carregando...</p>
       ) : (
         <>
-          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && filteredHinos.length === 0 && filteredOfudessaki.length === 0 &&(
-            <p style={{ textAlign: 'center', marginTop: '1rem', color: 'gray' }}>
+          {!loading && buscaFeita && query.trim() && filteredTermos.length === 0 && filteredEpisodios.length === 0 && filteredHinos.length === 0 && filteredOfudessaki.length === 0 && filteredOssashizu.length === 0 &&(
+            <p className='loading-p' >
               Termo não encontrado
             </p>
           )}
-
+          
           {filteredTermos.length > 0 && (
-            <ul>
+            <ul className='busca-termo'>
               {filteredTermos.map((termo, i) => (
                 <li key={i} style={{marginBottom: '25px'}}>
                   <strong>{destacarTexto(termo.romaji, query)}</strong> ({destacarTexto(termo.kanji, query)}):<br />
@@ -304,7 +363,7 @@ function App() {
           )}
 
           {filteredEpisodios.length > 0 && (
-            <ul>
+            <ul className='busca-itsuwahen'>
               {filteredEpisodios.map((ep, i) => (
                 <li key={i} style={{marginBottom: '25px', borderBottom: '1px solid'}}>
                   <strong>
@@ -322,26 +381,29 @@ function App() {
           )}
 
           {filteredHinos.length > 0 && (
-            <div>
+            <div className='busca-mikagurauta'>
               {filteredHinos.map((hino, i) => (
                 <div key={`hino-${i}`} style={{ marginBottom: '1rem', borderBottom: '1px solid'}}>
-                  <h3>{destacarTexto(hino.hino_romaji, query)} ({destacarTexto(hino.hino_kanji, query)})</h3>
-                    <ul>
-                      {hino.versos.map((verso, j) => (
-                        <li key={`verso-${i}-${j}`} style={{ marginBottom: '1rem'}}>
-                          <strong>{destacarTexto(verso.romaji, query)}</strong><br />
-                          <em>{destacarTexto(verso.kanji, query)}</em> <br />
-                          {destacarTexto(verso.traducao, query)}
-                        </li>
-                      ))}
-                    </ul>
+                  <h3 className='titulo-principal'>
+                    {destacarTexto(hino.hino_romaji, query)} 
+                    {destacarTexto(hino.hino_kanji, query)}
+                  </h3>
+                  <ul>
+                    {hino.versos.map((verso, j) => (
+                      <li key={`verso-${i}-${j}`} style={{ marginBottom: '1rem'}}>
+                        <strong>{destacarTexto(verso.romaji, query)}</strong><br />
+                        <em>{destacarTexto(verso.kanji, query)}</em> <br />
+                        {destacarTexto(verso.traducao, query)}
+                      </li>
+                    ))}
+                  </ul>
                 </div>
               ))}
             </div>
           )}
 
           {filteredOfudessaki.length> 0 && (
-            <ul>
+            <ul className='busca-ofudessaki'>
               {filteredOfudessaki.map((ofudessaki, i) => (
                 <li key={`ofudessaki-${i}`} style={{marginBottom: '1rem', borderBottom: '1px solid'}}>
                   <strong>
@@ -358,6 +420,27 @@ function App() {
             </ul>
           )}
 
+          {filteredOssashizu.length > 0 && (
+            <div className='busca-ossashizu'>
+              {filteredOssashizu.map((ossashizu, i) => (
+                <div key={`ossashizu-${i}`} style={{marginBottom: '1rem', borderBottom: '1px solid'}}>
+                  <h3 className='titulo-principal'>
+                    {destacarTexto(ossashizu.data_wareki, query)} <br />
+                    {destacarTexto(ossashizu.data_lunar, query)}
+                  </h3>
+                  <ul>
+                    {Array.isArray(ossashizu.paragrafos) && ossashizu.paragrafos.map((paragrafos, j) => (
+                      <li key={`paragrafo-${i}-${j}`} style={{marginBottom: '1rem'}}> 
+                        <em>{destacarTexto(paragrafos.conteudo_port ?? '', query)}</em> <br />
+                        <em>{destacarTexto(paragrafos.conteudo_jap ?? '', query)}</em>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+
+            </div>
+          )}
         </>
       )}
     </div>

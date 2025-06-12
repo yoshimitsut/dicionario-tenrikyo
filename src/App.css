@@ -17,6 +17,10 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+ul {
+  padding-left: 22px;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -40,6 +44,54 @@
   color: #888;
 }
 
-.input-wrapper i{
-  background-color: #000;
+.input-wrapper {
+  display: flex;
+  justify-content: center; 
+  margin-top: 1rem;
+  gap: 10px;
+  
+  i{
+    background-color: #000;
+    padding: 0.5rem 1rem;
+    cursor: pointer; 
+    font-size: 16px;
+  }
+
+  input{
+    padding: 0.5rem;
+    width: 20rem;
+    font-size: 16px;
+  }
 }
+
+.loading-p {
+  text-align: center;
+  margin-top: 1rem;
+  color: gray;
+}
+
+.optionBusca label:hover {
+  color: #fff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.titulo-principal {
+  text-decoration: underline;
+}
+
+/* .busca-termo {
+  background-color: #0c0c0c;
+  margin: 10px;
+}
+
+.busca-itsuwahen {
+  background-color: #171717;
+  
+}
+.busca-mikagurauta {
+  background-color: #161517;
+}
+.busca-ofudessaki {
+  background-color: #090415;
+} */
