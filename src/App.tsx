@@ -52,13 +52,13 @@ function tirarAcentos(texto: string | null | undefined): string {
   return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-function destacarTexto(texto: string | null | undefined, termo: string): React.ReactNode {
-  if (typeof texto !== 'string' || !termo) return texto ?? null;
+function destacarTexto(texto: string | null | undefined, palavra: string): React.ReactNode {
+  if (typeof texto !== 'string' || !palavra) return texto ?? null;
 
-  const termoSemAcento = tirarAcentos(termo);
+  const palavraSemAcento = tirarAcentos(palavra);
   const textoSemAcento = tirarAcentos(texto);
 
-  const regex = new RegExp(termoSemAcento.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+  const regex = new RegExp(palavraSemAcento.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
   const partes: React.ReactNode[] = [];
 
   let lastIndex = 0;
@@ -66,7 +66,7 @@ function destacarTexto(texto: string | null | undefined, termo: string): React.R
 
   while ((regex.exec(textoSemAcento)) !== null) {
 
-    const realStart = texto.slice(lastIndex).search(new RegExp(termo, 'i')) + lastIndex;
+    const realStart = texto.slice(lastIndex).search(new RegExp(palavra, 'i')) + lastIndex;
 
     if (realStart < 0) break;
 
@@ -75,12 +75,12 @@ function destacarTexto(texto: string | null | undefined, termo: string): React.R
 
     partes.push(
       <mark key={`destacado-${indexKey}`} style={{ backgroundColor: 'yellow', color: 'black' }}>
-        {texto.slice(realStart, realStart + termo.length)}
+        {texto.slice(realStart, realStart + palavra.length)}
       </mark>
     );
     indexKey++;
 
-    lastIndex = realStart + termo.length;
+    lastIndex = realStart + palavra.length;
   }
 
   partes.push(<span key={`final-${indexKey}`}>{texto.slice(lastIndex)}</span>);
@@ -301,7 +301,7 @@ function App() {
   }, []);
 
   return (
-    <div className='dict-section' >
+    <div className='dict-section'>
       <h1 style={{ fontSize: '3rem', textAlign: 'center' }}>Dicionário da Tenrikyo</h1>
 
       <div className='optionBusca' style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
@@ -426,13 +426,15 @@ function App() {
                 <div key={`ossashizu-${i}`} style={{marginBottom: '1rem', borderBottom: '1px solid'}}>
                   <h3 className='titulo-principal'>
                     {destacarTexto(ossashizu.data_wareki, query)} <br />
-                    {destacarTexto(ossashizu.data_lunar, query)}
+                    {destacarTexto(ossashizu.data, query)}
+                    {destacarTexto(' ('+ossashizu.data_lunar+') ', query)}
+                    {destacarTexto(' (Ano '+ossashizu.ano_RD+' R.D.)', query)}
                   </h3>
                   <ul>
-                    {Array.isArray(ossashizu.paragrafos) && ossashizu.paragrafos.map((paragrafos, j) => (
+                    {ossashizu.paragrafos.map((paragrafos, j) => (
                       <li key={`paragrafo-${i}-${j}`} style={{marginBottom: '1rem'}}> 
-                        <em>{destacarTexto(paragrafos.conteudo_port ?? '', query)}</em> <br />
-                        <em>{destacarTexto(paragrafos.conteudo_jap ?? '', query)}</em>
+                        <em>{destacarTexto(paragrafos.conteudo_port, query)}</em> <br />
+                        <em>{destacarTexto(paragrafos.conteudo_jap, query)}</em>
                       </li>
                     ))}
                   </ul>

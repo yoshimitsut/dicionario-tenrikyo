@@ -1,14 +1,10 @@
 [
   {
-    "data_wareki": "明治二十年一月四日",
+    "data_wareki": "明治二十年一月四日（陰暦十二月十一日）",
     "data": "4 de Janeiro de 1887",
     "data_lunar": "11 de dezembro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年一月四日 （陰暦十二月十一日）",
-        "conteudo_port": "4 de Janeiro (11 de dezembro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "教祖お急込みにて御身の内御様子あらたまり、御障りに付、飯降伊蔵へ御伺いを願うと、厳しくおさしづありたり。（教祖御居間の次の間にて）",
         "conteudo_port": "A saúde de Oyassama tornava-se crítica. Era apressada a execução do Serviço. Ao solicitar uma consulta através de Izo Iburi, houve um severo Ossashizu (no quarto ao lado de Oyassama)."
@@ -28,15 +24,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年一月九日",
+    "data_wareki": "明治二十年一月九日（陰暦十二月十六日）",
     "data": "9 de Janeiro de 1887",
     "data_lunar": "16 de dezembro no c.l.",
     "ano_RD": 50,
-    "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年一月九日（陰暦十二月十六日）",
-        "conteudo_port": "9 de Janeiro (16 de dezembro no c.l.) de 1887 (Ano 50 R.D.)"
-      },      
+    "paragrafos": [    
       {
         "conteudo_jap": "教祖御話",
         "conteudo_port": "Palavras de Oyassama"
@@ -52,15 +44,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年一月十日",
+    "data_wareki": "明治二十年一月十日（陰暦十二月十七日）",
     "data": "10 de Janeiro de 1887",
     "data_lunar": "17 de dezembro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年一月十日（陰暦十二月十七日）",
-        "conteudo_port": "10 de Janeiro (17 de dezembro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "飯降伊蔵を通しておさしづ",
         "conteudo_port": "Ossashizu através de Izo Iburi"
@@ -80,15 +68,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年一月十三日",
+    "data_wareki": "明治二十年一月十三日（陰暦十二月二十日）",
     "data": "13 de Janeiro de 1887",
     "data_lunar": "20 de dezembro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年一月十三日（陰暦十二月二十日）",
-        "conteudo_port": "13 de Janeiro (20 de dezembro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "教祖御話",
         "conteudo_port": "Palavras de Oyassama."
@@ -196,15 +180,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年一月二十四日",
+    "data_wareki": "明治二十年一月二十四日（陰暦正月元旦）",
     "data": "24 de Janeiro de 1887",
     "data_lunar": "1º de Janeiro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年一月二十四日（陰暦正月元旦）",
-        "conteudo_port": "24 de Janeiro (1º de Janeiro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "教祖御話（教祖床から起き上られ、お髪を御上げになつて、一同に向い）",
         "conteudo_port": "Palavras de Oyassama. (Ela levantou-se da cama, arrumou o seu penteado e virou-se para todos):"
@@ -216,15 +196,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年二月十七日",
-    "data": "17 de fevereiro de 1887",
+    "data_wareki": "明治二十年二月十七日（陰暦正月二十五日）夜",
+    "data": "Noite de 17 de fevereiro de 1887",
     "data_lunar": "25 de Janeiro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年二月十七日（陰暦正月二十五日）夜",
-        "conteudo_port": "Noite de 17 de fevereiro (25 de Janeiro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "教祖の身上御障りに付、いかゞと飯降伊蔵により願",
         "conteudo_port": "Consulta através de Izo Iburi referente à saúde de Oyassama que se tornou crítica."
@@ -252,15 +228,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年二月十八日",
-    "data": "18 de fevereiro de 1887",
+    "data_wareki": "明治二十年二月十八日（陰暦正月二十六日）早朝",
+    "data": "Manhã de 18 de fevereiro de 1887",
     "data_lunar": "26 de Janeiro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年二月十八日（陰暦正月二十六日）早朝",
-        "conteudo_port": "Manhã de 18 de fevereiro (26 de Janeiro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "二十六日のおつとめに就きて御願\n二月十七日（陰暦正月二十五日）の夜、教祖御気分宜しく、御床の上にて御髪をお上げ遊ばさる。",
         "conteudo_port": "Consulta referente ao Serviço do dia 26. Na noite de 17 de fevereiro (25 de Janeiro no c.l.), Oyassama, bem disposta, penteou-se sentada na cama."
@@ -276,15 +248,11 @@
     ]
   },
   {
-    "data_wareki": "明治二十年二月十八日",
-    "data": "18 de fevereiro de 1887",
+    "data_wareki": "明治二十年二月十八日（陰暦正月二十六日）午後",
+    "data": "Tarde de 18 de fevereiro de 1887",
     "data_lunar": "26 de Janeiro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
-      {
-        "conteudo_jap": "明治二十年二月十八日（陰暦正月二十六日）午後",
-        "conteudo_port": "Tarde de 18 de fevereiro (26 de Janeiro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
       {
         "conteudo_jap": "明治二十年一月九日（陰暦十二月十六日）より教祖身上一寸御障りつき、御やすみになり、同一月十八日（陰暦十二月二十五日）の夜よりおかぐらづとめ並びに十二下り始まり、二月十七日（陰暦正月二十五日）夜まで、毎夜おつとめあり、又二月十八日（陰暦正月二十六日）正午十二時より教祖の御身上迫りしに付、それよりかんろだいにておかぐらおつとめ、あとへ十二下りのてをどりあり。その時真之亮より詰合いの人々へ、だん／＼御談示の上「おつとめの時、もし警察より如何なる干渉ありても、命捨てゝもという心の者のみおつとめせよ」と仰せあり。それより皆々心を十分定め、その用意して、おつとめに掛かりたる者、地方　泉田藤吉、平野楢蔵、神楽　真之亮、前川菊太郎、飯降政甚、山本利三郎、高井猶吉、桝井伊三郎、辻忠作、鴻田忠三郎、上田いそ、岡田与之助（宮森与三郎）、お手振り　清水与之助、山本利三郎、高井猶吉、桝井伊三郎、辻忠作、岡田与之助、鳴物　中山たまへ（琴）、飯降よしゑ（永尾）（三味線）、橋本清（つゞみ）の人々なり。家事取締の任に当りたる者、梅谷四郎兵衞、増野正兵衞、梶本松治郎にて、以上総人数十九人なり。おつとめは午後一時より始まり、二時に終る。右おつとめの終ると共に、教祖息を遊ばされずなる。それより内蔵の二階の中にて、飯降伊蔵により御伺あり。",
         "conteudo_port": "A partir de 9 de janeiro (16 de dezembro no c.l.) de 1887, como Oyassama não se sentia bem, ficou acamada. A começar de **18 de janeiro (25 de dezembro no c.l.)**, foram executados todas as noites o Serviço de Kagura e o Teodori, até a noite de **17 de fevereiro (25 de janeiro no c.l.)**. A partir do **meio-dia de 18 de fevereiro (26 de janeiro no c.l.)**, devido ao agravamento do estado de saúde de Oyassama, foi realizado em torno do Kanrodai o Serviço de Kagura e o Teodori. Nessa ocasião, **Shinnossuke**, discutindo com o pessoal reunido, disse: “Que fiquem para executar o Serviço somente aqueles com o espírito decidido a suportar qualquer intervenção policial e disposto a sacrificar a própria vida.” Então, todos determinaram o espírito, prepararam-se e executaram o Serviço. Foram eles: **Tokiti Izumita e Narazo Hirano**, no jikata; **Shinnossuke, Kikutaro Maegawa, Massajin Iburi, Rissaburo Yamamoto, Naokiti Takai, Issaburo Massui, Tyussaku Tsuji, Tyuzaburo Koda, Isso Ueda e Yonossuke Okada**, membros do Kagura; **Yonossuke Shimizu, Rissaburo Yamamoto, Naokiti Takai, Issaburo Massui, Tyussaku Tsuji e Yonossuke Okada** no Teodori. Nos instrumentos musicais, **Tamae Nakayama (koto), Yoshie Iburi (shamissen) e Kiyoshi Hashimoto (kotsuzumi)**. As pessoas encarregadas da Residência foram: **Shirobee Umetani, Shobee Massuno e Matsujiro Kajimoto**. Foram ao todo **19 pessoas**. O Serviço começou à uma hora da tarde e terminou às duas horas. Ao mesmo tempo em que era concluído o Serviço, Oyassama deixou de respirar. Mais tarde, fez-se uma consulta através de **Izo Iburi** no piso superior do depósito."
@@ -300,16 +268,12 @@
     ]
   },
   {
-    "data_wareki": "明治二十年二月十九日",
+    "data_wareki": "明治二十年二月十九日（陰暦正月二十七日）",
     "data": "19 de fevereiro de 1887",
     "data_lunar": "27 de Janeiro no c.l.",
     "ano_RD": 50,
     "paragrafos": [
       {
-        "conteudo_jap": "明治二十年二月十九日（陰暦正月二十七日）",
-        "conteudo_port": "19 de fevereiro (27 de Janeiro no c.l.) de 1887 (Ano 50 R.D.)"
-      },
-            {
         "conteudo_jap": "願",
         "conteudo_port": "Solicitação"
       },
@@ -323,27 +287,1239 @@
       }
     ]
   },
-  [
-    {
-      "data_wareki": "明治二十年二月二十四日",
-      "data": "24 de fevereiro de 1887",
-      "data_lunar": "2 de fevereiro no c.l.",
-      "ano_RD": 50,
-      "paragrafos": [
-        {
-          "conteudo_jap": "明治二十年二月二十四日（陰暦二月二日）午後七時",
-          "conteudo_port": "Às 7 horas da noite de 24 de fevereiro (2 de fevereiro no c.l.) de 1887 (Ano 50 R.D.)"
-        },
-        {
-          "conteudo_jap": "御諭",
-          "conteudo_port": "Indicação explicativa."
-        },
-        {
-          "conteudo_jap": "さあ／＼分からん／＼、何にも分からん。百十五才、九十才、これも分からん。二十五年不足、どうであろう。これも分からん。どうしても、こうしても、すうきり分からん。故に二十五年を縮め、たすけを急ぎ、扉を開いて世界をろくぢに踏み均らしに出た。神でのうてこの自由自在は出けようまい。止めるに止められまい。神は一寸も違うた事は言わん。よう聞き分けてくれ。これから先というは、何を聞いても、どのよの事を見ても、皆楽しみばかり。楽しみや。よう聞き分け。追々刻限話をする。",
-          "conteudo_port": "Não compreendem, não compreendem nada. 115 anos, 90 anos... Não compreendem isto também. Faltam 25 anos. O que significa? Nada compreendem de modo algum. Por isso, encurtei 25 anos [da vida de Oyassama], apressando a salvação e abrindo o portal, saí para nivelar o mundo. Somente Deus tem esta plena onipotência. Ninguém poderá impedir-me. Deus não diz coisas erradas. Compreendam bem. De agora em diante, o que quer que ouçam e vejam, tudo será somente prazer. Será prazer. Compreendam bem. Farei gradativamente explanações em tempo oportuno."
-        }
-      ]
-    }
-  ]
+  {
+    "data_wareki": "明治二十年二月二十四日（陰暦二月二日）午後七時",
+    "data": "Às 7 horas da noite de 24 de fevereiro de 1887",
+    "data_lunar": "2 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "御諭",
+        "conteudo_port": "Indicação explicativa."
+      },
+      {
+        "conteudo_jap": "さあ／＼分からん／＼、何にも分からん。百十五才、九十才、これも分からん。二十五年不足、どうであろう。これも分からん。どうしても、こうしても、すうきり分からん。故に二十五年を縮め、たすけを急ぎ、扉を開いて世界をろくぢに踏み均らしに出た。神でのうてこの自由自在は出けようまい。止めるに止められまい。神は一寸も違うた事は言わん。よう聞き分けてくれ。これから先というは、何を聞いても、どのよの事を見ても、皆楽しみばかり。楽しみや。よう聞き分け。追々刻限話をする。",
+        "conteudo_port": "Não compreendem, não compreendem nada. 115 anos, 90 anos... Não compreendem isto também. Faltam 25 anos. O que significa? Nada compreendem de modo algum. Por isso, encurtei 25 anos [da vida de Oyassama], apressando a salvação e abrindo o portal, saí para nivelar o mundo. Somente Deus tem esta plena onipotência. Ninguém poderá impedir-me. Deus não diz coisas erradas. Compreendam bem. De agora em diante, o que quer que ouçam e vejam, tudo será somente prazer. Será prazer. Compreendam bem. Farei gradativamente explanações em tempo oportuno."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年二月二十五日（陰暦二月三日）午後七時",
+    "data": "Às 7 horas da noite de 25 de fevereiro de 1887",
+    "data_lunar": "3 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "第一をびやたすけ、さあ三日目三粒を三つ、三三九つを百層倍。これをかんろうだいへ供え、本づとめをして、元のぢばなる事を伝え、をびや許しを出す。",
+        "conteudo_port": "Primeiro, a salvação do parto. Em três dias, três vezes de três grãos. Três vezes três, nove multiplicado por cem. Oferendando isto no Kanrodai, fazendo o Serviço e transmitindo a respeito de Jiba original, concederei a Permissão do Parto Feliz."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月一日",
+    "data": "1 de março de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "平野トラ身上願",
+        "conteudo_port": "Pedido de Narazo Hirano sobre a enfermidade."
+      },
+      {
+        "conteudo_jap": "さあ／＼心得ん、どういうもので心得んや。いかなるの理を聞き分け。身の内の処、一寸に分かるまい。身の内の処、日々心得んという処、処々に理があるという、理があるやら分かるまい。めん／＼内々の処ある、分かろまい。精神一つ、誠一つ程強いものあるまい。大きな心開き、めん／＼の処にて、何遍と無く、理を分からにゃ何もならん。#E",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月四日（陰暦二月十日）",
+    "data": "4 de março de 1887",
+    "data_lunar": "10 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "何も分からん、分からん中より一寸始め掛ける。さあ何を聞くやら何を見るやら分からん。何を聞いても見ても、一寸も心に掛けるやない。皆神の働き。よう聞き分けるがよい。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "（暫く刻限過ぎて大声にて、ワツと二声あげ）",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身の内にどんな障りが付いても、これはという事がありても、案じるではない。神が入り込み、皆為す事や。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月四日（陰暦二月十日）",
+    "data": "4 de março de 1887",
+    "data_lunar": "10 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞胸の下障りに付伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身上の処よう聞き分け。日々暮らす一つ身の処、どういう処思案、よう聞け。めん／＼処、いかなる処、めん／＼処、身の障りというは国々所、いかなる、又々話聞く。いずれ又々、いかなる、誠一つ、所取り直し／＼。さあ／＼一日々々身の障り／＼尋ね、めん／＼の処、身の障りしかと聞き分けてくれ。どうでもこうでも、一人々々早く、それ／＼だん／＼処、又々処、めん／＼国々いかなる処締まり急ぐ。十分急ぐからで、急き早く急く。さあ／＼いかなる国々、それ／＼″十分道、道を急き／＼、遠からずのうちやで。さあ／＼何も道の道ある。これで事ひょと思うたる、夢か現か、楽しみを／＼。実であり、幽冥いくや、一名いかなる処、精神早くいう処。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十日（陰暦二月十六日）",
+    "data": "10 de março de 1887",
+    "data_lunar": "16 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞帰国の時伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "いかなる処、だん／＼精神たゞ一つ。いかなる処、一結び内々それ／＼の処、暫時の処、内々先々、道々のしゃ実こうしゃ、誠一つ案じる。ある事は案じの処、誘われんよう。何かの処思やん。今一時、一時どうしよう、先々今一時、互い／＼の思案、じっと見通し付かん。今一時そのまゝ。誠心いかなる心定め。どうこう案じ心誘われんよう。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十一日（陰暦二月十七日）午後七時",
+    "data": "Às 7 horas da noite de 11 de março de 1887",
+    "data_lunar": "17 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "さあ／＼聞いてるか、聞き分けるか。世界は広い。広い世界の元なれば、広いだけの事を為さねばならん。さあ／＼種苗、苗代は、元のぢば。修理肥は誰がする／＼／＼／＼。遠い所より種を蒔きに来る。種を蒔いたら肥えをせねばなろまい。これをよう聞き分け。",
+        "conteudo_port": "Estão ouvindo? Compreendem? O mundo é vasto. Se a origem do mundo é vasta, é preciso fazer coisas de acordo com sua vastidão. O sementeiro e o canteiro é a Jiba original. Quem fará, fará, fará o amanho e a adubagem? Virão semear as sementes de lugares distantes. Se semearem as sementes, bem que precisarão adubar. Compreendam bem."
+      }
+    ]
+  },
+  
+  {
+    "data_wareki": "明治二十年三月十一日（陰暦二月十七日）午後十二時",
+    "data": "Às 12 horas da noite de 11 de março de 1887",
+    "data_lunar": "17 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "内も世界も十分と思うであろう。さあ／＼始め掛ける／＼。どえらい山がある。ろくぢ／＼という事も聞かせてある。山を刳り抜かねばろくぢでない。さあ／＼刳り抜くで／＼。それ／＼へも伝えて置かねばならん。よう聞き分けて、じいとして見て居るがよい。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十三日（陰暦二月十九日）午後七時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "御諭",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼何も分からん。その中より始め掛ける。澄み切りた容れ物と、泥水の容れ物と、皆々渡したで。濁りたる水を、今一時に澄まそうと思うても、澄まする事が出けんで。神が何を言うやらと思うであろう。そうではない。見て居よ。一家の内でも同じ事渡してある。澄んだる容れ物には一つの印が渡してある。よう聞き分け／＼。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十四日（陰暦二月二十日）午後八時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "飯降伊蔵の身の内の事御諭",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "取り直せ／＼。何をこうと思い、あれをどうやと思い、末一つを案じる。何にも案じる事は要らん。取り直せ／＼／＼。身の内の処、さあつとめせねばならん、どうやろうと思う。何にもつとめも要らん、じいと見て居るがよい。先々より聞かしてもある。今息切れたという事もある、と、いうまでもあるとの事、心配は要らん。我が身で我難儀をして居るのや。起きたらどうせねばならん、これもあゝせねばならん、と思い。何にも思う事は要らん。長々の道筋苦労を掛けたる事、皆受け取りてある。どんと心を落ち着いて、喰いたい物を何なりと喰べて、じいと寝て居たらよい。じいと寝て居れば何処も悪いではない。何も心配は要らぬ。見て居るがよい。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十五日（陰暦二月二十一日）午後九時",
+    "data": "Às 9 horas da noite de 15 de março de 1887",
+    "data_lunar": "21 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Indicação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "さあ／＼急がしい／＼。掃除や／＼。あちらに一寸、こちらにもそんな事あるかいな、と、思て居る。違うで。",
+      },
+      {
+        "conteudo_jap":"さあ掃除や。箒が要るで、沢山要るで。使うてみて使い良いは、いつまでも使うで。使うてみて、使い勝手の悪いのは、一度切りやで。",
+        "conteudo_port": "Está apressado, apressado. É limpeza, limpeza. Um momento ali, pensam que aqui também não há. Está errado. É a limpeza. É necessário vassouras, muitas vassouras. Verificando pelo uso, utilizarei sempre as que são bem usáveis; as que são ruins para usá-las, utilizarei apenas uma vez. A limpeza por completo de canto a canto."
+      },
+      {  
+        "conteudo_jap":"隅から隅まですっきり掃除や。"
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十六日（陰暦二月二十二日）午後二時",
+    "data": "Às 14 horas da tarde de 16 de março de 1887",
+    "data_lunar": "22 de fevereiro do c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Indicação em tempo oportuno"
+      },
+      {
+        "conteedo_jap": "さあ／＼この世に機械が悩んで居る。米も沢山、水車も沢山ある。ありながら、どうも機械が揃いない。それで、どうも白米にする事が出来ん。機械が揃いなけねば、一人の機械も使う事出けん。それ／＼へ身の内障り付けてある。水も沢山、どうで白米にせん事には喰べさす事が出来ん。こゝをよう聞き分けて、たんのうしてくれねばならん。",
+        "conteudo_port": "Neste mundo, as máquinas estão sofrendo. Há muito arroz e também muitas rodas d’água. Embora existam, as máquinas não se conjuntam. E assim, não podem de modo algum beneficiar arroz branco. Se as máquinas não se conjuntam, não posso usar sequer uma máquina humana. Tenho posto um incômodo no corpo de cada uma delas. Tem também muita água. Se não beneficiar arroz branco de algum modo, não posso dá-las para comer. Ouçam e compreendam bem isto. É preciso que façam tanno."
+      }
+    ]
+  },
+  
+  {
+    "data_wareki": "明治二十年三月十六日（陰暦二月二十二日）午後三時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "御諭",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼古い道具もある、中年の道具もある。それ／＼道具の破損中や。何も案じる事は要らん。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十六日（陰暦二月二十二日）午後八時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼始め掛けた／＼。六年の間、六年以前より道筋、どのような事もあったであろう。何でや。天理王命の旗をあちらこちらに立て、何と変わるもの。一人も寄せ付けなんだ日もあった。又黒衣を着せた日もあった。実が誠か、誠が実か。見えねば分かるまい。そこで得心が行たやろう。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十六日　午後十一時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼変わる／＼。今まで弱き者が強くなる、今まで強き者が弱くなる。目に見えねば分かろうまい、離れては分かろうまい。傍にありても敵うまい。月が更わればころっと変わる。弱い者が強くなる、強い者が弱くなる。そこで分かる、という事を知らして置く。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十七日（陰暦二月二十三日）午後三時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "治めるで／＼。いかなる事も今までや、どういう事も今までや。世界から出けて来る事なら、是非はあるまい。扉を開いて出て居る。見ても聞いても案じるでない。皆神の働きやで。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十七日（陰暦二月二十三日）午後四時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼治めにゃならん／＼。何処も彼も皆すっきりと治める。どのような事も、見るも聞くも皆治める。どのようなさしづ聞くも、神のさしづ聞くと思わねばならんで。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十七日　午後七時",
+    "data": "Às 7 horas da tarde de 17 de março de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em Tempo oportuno"
+      },
+      {
+        "conteudo_jap": "さあ／＼今までというは、仕事場は、ほこりだらけでどうもこうもならん。難しい難しい。何も分からん。何も分からんではない、分かってはある。なれどもほこりだらけや。さあ／＼これからは綾錦の仕事場。錦を仕立てるで。こゝ暫くの間は、今日は食事が味が無いという日もある、又進む日もある。あちらもこちらもほこりあっては、錦の仕事場にならん。さあ、すっきりとしたる仕事場にするのやで。綾錦の仕事場にはならん。さあ、すっきりとした仕事場にするのやで。綾錦の仕事場に仕立てる。",
+        "conteudo_port": "Até o momento, no local de trabalho, (todos) estão empoeirados, e não há nada o que se fazer. É difícil, difícil. Não compreendem. Não é que não compreendem nada, compreendem sim (a intenção divina). Mesmo assim, estão empoeirados. A partir de agora, farei o local de trabalho do “brocado” (tecido da seda com largos relevos bordados a ouro ou prata). Começarei a tecê-lo. Por um certo tempo, há dias em que não sente o sabor das refeições ou dias em que se tem apetite. Empoeirados aqui e ali, não se tornará o local de trabalho do “brocado”. Com todos convencidos, farei o local de trabalho. Senão, não se tornará o local de trabalho do “brocado”. Com todos convencidos, farei o local de trabalho. Farei com que se torne o local de trabalho do “brocado”."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十八日（陰暦二月二十四日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "御話（午前に一座のつとめを願い、つとめ済み次第）",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼抑えた／＼。しいかり踏み止めた／＼。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十八日（陰暦二月二十四日）夜",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼どん／＼と車に積んで引き出すような話やで。早いで／＼。さあ／＼何事と思うやない。大きな石をどん／＼引き出す。あゝ／＼／＼こうであったか。難しい事言い掛ける。聞いたるまで分からんで、胸にしっかりと持って居よ。聞いたるまでは、刻限十分外すな。あちらより一本、こちらより一本。あちら幾本、こちらより幾本。それをちゃんと寄せて仕上げる。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十九日（陰暦二月二十五日）午前一時二十分",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "さあ／＼しっかり聞かねば分からん／＼。分からん事は尋ね／＼。尋ねにゃ分からんで。今までの長道中、道の事情によりて、まこと難渋な事もあり、情無いと思う事もあり、その中内々一度二度より、ほんに面白いというような事が無かったで無かったで。さあ／＼よう／＼よう／＼の処道なれど、どうも一つが分からんによって、残念々々と言うて口説き詰め。このまゝでは、悧巧な子供もあり又鈍な子供もあり、このまゝでは楽しみが無い。仕事場と言うてあれども、言うて持ち込んだ。",
+      },
+      {
+        "conteudo_jap":"それ故に、やりたいものが沢山々々にありながら一寸かくれた。残念々々と言うのは、渡さにゃならんものが渡さなんだが残念々々。",
+        "conteudo_port": "Vamos, se não ouvirem com atenção, não compreenderão! Se não compreenderem, perguntem, perguntem! Se não perguntarem, não compreenderão. Durante a longa jornada até agora, devido às circunstâncias do caminho, houve realmente coisas difíceis, e houve coisas que me fizeram sentir pena, e no meio disso, verdadeiramente não houve nada interessante mais do que uma ou duas vezes, não houve. Vamos, mesmo que seja um caminho longo, longo, longo, como não compreendem uma única coisa, lamento, lamento, e insisti. Deste jeito, há crianças espertas e crianças lentas, e assim não há prazer. Embora eu dissesse que era um local de trabalho, eu o trouxe dizendo. Por isso, embora tivesse muitas e muitas coisas que quisesse dar-lhes, ocultou-se um pouco. O que se diz pesar, pesar, é por não ter-lhes entregue o que devia entregar. É pesar, pesar. De oeste para leste, de leste para oeste, de norte para sul, vamos, é uma situação que não se compreende se não forem perguntar. O caminho daqui para frente não precisa ser dito.",
+      },
+      {
+        "conteudo_jap":"西から東へ、東から西へ、北から南へ、さあ／＼尋ねに行かねば分からん事情。これから先の道は言うまでやない。",
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十九日（陰暦二月二十五日）午前五時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼多く／＼のその中に、今の道ほど偉い道、今の道ほど堅い道は無い。さあさあ今の話は皆今までの言い残りやで。今まではこの結構なる道を、まこと結構と思うて聞く者が無い。今までというは聞いたる者もあり、その場限りの者もあり、聞かぬ者もあり、そこで日が延びたのやで。世界では、どうやろうかこうやろうか、ぶっ潰れるであろうか、いや、そうではあろまいか。これではどうもならん、あれではどうもならん。もうやめようか、もう一つ行こうか、さあどうもならん。さあどうしよう。これ皆銘々の心からやでな。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月十九日（陰暦二月二十五日）午後十二時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼思やん／＼、今一時直ぐ、早く／＼。これからだん／＼刻限話。さあ／＼もうその場踏んで、後はあちらこちら聞きに来るよう、いつまでも同じ事をする。たゞこうきという。それ／＼の処より刻限、赤きは赤き、黒きは黒き者に連れられ、さあ／＼だん／＼早や／＼。たゞ仕事場、それと言うは、元々より聞き込み足らん。今に聞いてる者もある。これを聞いて置け。一度二度何にもならん。又つとめ一度二度、大抵方はよい。元の方は言うてる場何やら分からん。これまでというは、日日守りを付くというは、幾度も早く守りのさしづあれども聞き遁がし。これは磨き立て、掃除を行き届き。さあ／＼何を尋ね聞いてくれ。あちら静か、何でも理に適う事なら、何時にても尋ね変え、二度三度も尋ね。一言聞きて銘々の事を忘れ。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十日（陰暦二月二十六日）午前四時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "真之亮代理伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "幾重の話聞く。大工というて知ったは神一条、仕事場は神一条、北は鍛冶屋南は大工で、神一条。さあ／＼尋ねる処事情知らす。又々心で知らし置く。どうでも皆その日来るなら、働きも十貫目渡るもあり、二十貫目渡す者も皆心次第。これ心尽せし程、目札を付けて渡す。さあ／＼付けるとも。刻限事情を知らす。大勢ではざわ付く。誰が筆執れは言わん。さあ／＼一人ではよいのやで。大層せいとは言わん。神のさしづ言わん。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十日（陰暦二月二十六日）午後一時三十分",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "一寸正月二十六日、これまで話てある。さあ／＼事を始め。二月二十六日というは、今初めやで。多く始まり、追々。さあ／＼今一時世界も分からず、世界も不思議や。それ／＼の道一寸付け掛けた。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十日（陰暦二月二十六日）午後四時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼刻限、さあ／＼騒がし。刻限一寸なりと言うて置く。どうでもこんな事なら、もうちいと早く思案、四五年前に纏まり付いてある。今はどうで、明日はあなた道の思案、不思議な道である。今一寸話して置く。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十日（陰暦二月二十六日）午後七時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼／＼／＼所々国々、さあ／＼行き亙る。月々だん／＼これまでの道。十分手広い道もそろ／＼印を打ち掛ける。さあ／＼いつとは分かるまい。さあ／＼今に印打ち掛ける。何処から何処まで危ない道、さあ／＼何処の何処までも治まる。さあ／＼一寸話して置かねばならん。いつまで諭しても聞くばかりでは忘れる。どうせこうせとは言わん。今と言うたる事は一つ心無い。用心に取り掛かり、真の夜闇がどうもならん。休んである場で取り次ぐ。その心に乗りてさしづする。暫くの間は、どうよこうよ、こういう事はすっきり止め置くがよい。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十日　夜九時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼道からよう聞け。要らん処へ目を付け、成程というはそれ／＼善し。さあこうやどうや皆神がして居るのや。願うて出けん、願わず出来る。さあ／＼どんな事をしても適わん。銘々のために何も構わず、いずれの地面、彼処の地面構わず、誰が真の思案。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十日（陰暦二月二十六日）夜十時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "それ／＼聞いて一寸問い、組替え楽し道なるや。こうなる願の道、言う事ももうとっと楽しむ内々、刻限成る成らん、道何をして居るやら、こういうような事も言い。聞き分け、よう聞き分け。刻限延ばし、さあ／＼思案。五十年目に、目で見て改心。日送りして言い、話して置く。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十二日（陰暦二月二十八日）二時",
+    "data": "Às 2 horas de 22 de março de 1887",
+    "data_lunar": "28 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "さあ／＼放って置け／＼。誰彼を仇と言うのやない。大風々々、大風は何処にあるとも知れんもの。大風というものは、どのようの大きな物でも、倒ける潰れる。大風やで。風は神や。風がかりもの無うては、箱に物を入れて蓋を閉め切りた如く、腐ろうより仕様の無いもの。風がそよ／＼あるので、半日や一日hは送れるで。人の言う事を腹を立てる処では、腹の立てるのは心の澄み切りたとは言わん。",
+      },
+      { 
+        "conteudo_jap": "心澄み切りたらば、人が何事言うても腹が立たぬ。",
+        "conteudo_port": "Se o espírito estiver purificado, o que quer que os outros digam, não sentirá raiva.",
+      },
+      {
+      "conteudo_jap": "それが心の澄んだんや。今までに教えたるは腹の立たぬよう、何も心に掛けぬよう、心澄み切る教やで。今までの修理肥で作り上げた米が、",
+      },
+      {
+      "conteudo_jap": "百石貰ろたら、百石だけある間は喰て居らるゝ。今度無い世界を始めたる親に凭れて居れば、生涯末代のさづけやで。これは米に諭して一寸話して置く。",
+      "conteudo_port": "O arroz produzido com os cuidados e adubos de até agora, se receberdes cem Kokus (15.000 Kg sem casca), enquanto o tendes, poderá ficar comendo. Agora, se ficardes amparados no Parens, que tem começado o mundo que não existia, é a concessão (Sazuke) por toda a sua vida e para sempre. Isso, deixo explanado um pouco, explicando com o arroz."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十二日（陰暦二月二十八日）夜三時",
+    "data": "Às 3 horas de 22 de março de 1887",
+    "data_lunar": "28 de fevereiro no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "外の事、どういう事を運び付け難ない。どうこうと思わぬ。どういう事も言うに及ばぬ。どうでもこうでも、一寸のにをい難しく言い掛ける。又それ／＼の処、何と一寸摘もんた処に早く行かんで。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十二日　夜四時頃",
+    "data": "Por volta das 4 horas da noite de 22 de março de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "何よの事も、何から何の事聞き遁しする故に、堪えるに堪えられん。聞き遁さず、百度二百度三百度やない。堪えるに堪えられん。銘々それ／＼早く、何の願、大抵の事はそれよりそれへ伝え。伝えるだけはせねばならん。いつまでも／＼書いた如く、こういう事が聞いては伝え。出る前に伝え。#E",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十三日（陰暦二月二十九日）午前七時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "御諭",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼待ち兼ねた／＼。東京々々長崎と言うてある日が来た。理あれども一つが分からん故に、やるものもちゃんとしてありながら、渡す事が出来なんだ。これが残念。さあ／＼東京長崎いかなる道、銘々の道通らぬよう。いずれ／＼刻限を見てやるものある、渡したいものもある。なれど渡すに渡せん。今は言うだけ渡して置く。\n（教祖の御言葉にて御聞かせ、右二件は、東京上原、大阪井筒両人をめどうとしての御話と悟ります。）",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十三日（陰暦二月二十九日）午後三時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "御諭",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "何にも外事は言うではない。どうしよう、こうしようと思えども、どうもならん。一寸にをいを掛ければ、情無い事、煩い事と思う。どうも道の付けようが無い。難しい。運びの付けようが無い。是非無い事。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十四日（陰暦二月三十日）午後十時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "今日までの御話の中に、確かなる事もあり、又案じる事もある故に、飯降伊蔵御障りの次第を先生方相談の上願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "身の内の処、よう尋ねてくれた。再度尋ねてくれる処、受け取りて居る。余の事は言わんで。尋ねる一条、尋ねくれるも余儀無き場や。もうこれまでや。刻限も十分経ち切り、早く／＼何事も諭さにゃならん。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十五日（陰暦三月一日）",
+    "data": "25 de março de 1887",
+    "data_lunar": "1 de março no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno"
+      },
+      {
+        "conteudo_jap": "さあ／＼／＼一日身に付き、三段の芽吹く治まり置く。今すっきり片付け。すっきりもうよき。もうか知らん、どうや知らん。分からん者すうきりという事、今話筆に付け置け。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十五日　午前五時三十分",
+    "data": "Às 5 e meia da manha de 25 de março de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": "Explanação em tempo oportuno."
+      },
+      {
+        "conteudo_jap": "さあ／＼あちらこちら、摘まんだような事を聞いて居た分には分からんで。これしっかり聞き分けねば分からん。神というものは、難儀さそう、困らそうという神は出て居んで。今に始まった事でない。こゝまでほんに成程と思うた日もあろうがな。それ国々から先々まで、受け取りたる処もある。それ故渡すものが渡されなんだが、残念情無さ、残念の中の残念という。今に神が今に降がる、出ると言うた処が、承知出けまい。紋形の分からん処から、神がこのやしきに伏せ込んだ。さあこの元を分かれば、さあ知らそう。承知が出けば知らそう。承知が出けねばそのまゝや。さあ返答はどうじゃ。無理にどうせと言わん。",
+        "conteudo_port": "Ouvindo um pouco aqui e um pouco ali, não poderão compreender. Se não ouvirem atentamente, não compreenderão. Deus não se revelou para fazer sofrer ou passar por dificuldades. Não é um fato que começou agora. Até aqui, houve dias em que ficaram realmente convencidos. De todas as partes, por mais distantes que fossem, também houve coisas que aceitei. Porém, não pude entregar o que devia ser entregue. É um grande pesar. Se disser que Deus se manifestará e aparecerá agora, não conseguirão aceitar. Deus tem se dedicado a esta Residência desde quando nada era compreendido. Se compreenderem isto, informarei. Se aceitarem, informarei. Se não aceitarem, ficará como está. Qual é a resposta? Não obrigo a nada."
+      },
+      {
+        "conteudo_jap": "内の者答「いかにも承知致しました」と申上ぐれば、神様より",
+        "conteudo_port": "Ao responderem: “Aceitamos plenamente”, Deus disse:"
+      },
+      {
+        "conteudo_jap": "さあ／＼しっかりと聞き分け。今までは大工と言うて、仕事場をあちらへ持って行き、こちらへ持って行た。それではどうも仕事場だけより出けぬ。そこで十年二十年の間に心を受け取りた。その中に長い者もあり、短い者もある。心の働きを見て、心の尽したるを受け取りてあるから、やりたいものが沢山にありながら、今までの仕事場では、渡した処が、今までの昵懇の中である故に、心安い間柄で渡したように思うであろう。この渡しものというは、天のあたゑで、それに区別がある。この通りに、受け取りてあるものがある。それを渡すには、どうも今の処の仕事場と言うた事を消して、本席と定めて渡そうと思えども、このまゝでは残念々々。さあさあ本席と承知が出けたか／＼。さあ、一体承知か。",
+        "conteudo_port": "Compreendam firmemente! Até agora, por ser carpinteiro, levava o local do trabalho para lá, trazia para cá. Desse modo, não podia fazer nada mais além dos limites do local do trabalho. Durante 10 anos, 20 anos, tenho aceito o espírito. Existem aqueles de longo tempo e de curto tempo. Tenho aceito a dedicação, observando o trabalho do espírito e há muitas coisas que quero entregar. Porém, no local do trabalho de até agora, mesmo que entregasse, em razão da familiaridade, julgariam ter sido entregue por ter intimidade com ele. O que quero entregar é uma dádiva do céu, de várias espécies. Existem aqueles que a têm recebido. Para entregar, desejo estabelecer o Honseki, retificando o que chamei de local do trabalho. Se continuar dessa maneira, é pesar. Aceitam como Honseki? Estão de acordo?"
+      },
+      {
+        "conteudo_jap": "真之亮より、飯降伊蔵の身上差上げ、妻子は私引受け、本席と承知の旨申上ぐれば、引続いて",
+        "conteudo_port": "Shinnossuke respondeu que oferecia Izo Iburi a Deus e aceitava-o como Honseki, responsabilizando-se pela esposa e filhos dele. Então, Deus continuou:"
+      },
+      {
+        "conteudo_jap": "一寸頼み置くと言うは、席と定めたるといえども、今一時にどうせいと言うでない。三人五人十人同じ同席という。その内に、綾錦のその上へ絹を着せたようなものである。それから伝える話もある。",
+        "conteudo_port": "Faço uma pequena solicitação: embora o tenha estabelecido como seki, não digo o que fazer agora. Três pessoas, cinco pessoas, dez pessoas, são como o seki. Dentre eles, é tal como aquele em quem se pôs seda sobre o brocado. Haverá palavras a serem transmitidas por ele."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梶本松治郎父上の身上願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "たゞ口を借り言うではないで。今の処では何処にも無いで。ようこそ、怪しき処で遁れ、大望の道であった。これからどん／＼話通して掛かれ。どうしよ、こうしよ、どうでもかしもの。天然自然めん／＼に誠さい定め、実さい定め。身の処心無くてならんなれども、めん／＼兄弟。これはこうじゃ、神のさしづ、神を恨む事は少しも無い。そこで難しい事は言わん、難しい事せいとは言やせんで。分からん処分かるで、国々一人でもあったら分かるで。遠いから見てもほゞ分かる。まあその心組で定めてくれ。又内々なる処、親一つ何ぼでもどんと定め。道は道、違い無いで。三才児、生れ三才の心に成って、明日は楽しみ。一つ定め何にも無い、三才児穏やかに暮らす。何よりそこで結構々々。こうして行かねばならん。まあ／＼三才児三才心に成りて、三才の心に成って何も要らん、機嫌好う遊んで結構々々。心心配無いよう改め替え。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梶本松治郎父上の身上願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼よう聞き分けねば、身の内の処、何でも彼でも、身の処何でもない。それそれ処、身障りどういう事に思う。大層天然なる事なら、どうにも、こういう事も、誠一つ積み置くなら。それを知らずして、こうしたら早かろか、だん／＼道を埋んで了い。風呂敷に理五十年を、この所にある。分かるまい。皆々それ／＼に伝え。話通り違わんで。話通り、世上から実の道、誠になる。こうするは不都合なれども、めん／＼思やんして、こうせにゃならんとは言わん。めん／＼家内、神のかしもの、実が承知無くばならん。三十年十五年、話通り気使い無い。神の言う事目に見えん。神の言う事悪い事は言わん。めん／めん心定まらんから分からんのや。神と言うて尋ねる。尋ねるという事は前々話してあるで。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梶本松治郎父上身上の御願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "一つ心、我と我がでに我が身を責めるで。あちらでほゝ、こちらでおほゝと言うて居たらよい。又何でこうせにゃならん思い、心あちらでほゝ、こちらでほゝと言うて居たらよいのやで。一つの心が身に付き、何処も悪いのやないで。病でもない。心澄み切れば、そのまゝ何にも難しい事は無い。あちらでほゝ、こちらでほゝ、と言うて居たらよいのやで。家へ帰りて、篤と言うて聞かせ。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十五日（陰暦三月一日）午前十二時",
+    "data": "Às 12 horas da manhã de 25 de março de 1887",
+    "data_lunar": "1 de março no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梶本松治郎父上障りに付願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "身の内の処へ知らせ掛けたるは、年の病でこうなるか、冷え込みでこうなるか。心の立てを替えてくれるがよい。年の迫りてか、時節の迫りてか、追々どうもならん。何と結構やな、よう根気も尽してくれた。これよう楽しみ、いよ／＼俺はこんな事してどうもならん、と、思うな。よう聞き分け。いつ／＼まで結構、何と偉い人と、善い人やな、と、言われ、楽しみ。心尽すよう。ようしっかりと聞き分け。幾重の尋ねもしてくれ。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十五日",
+    "data": "25 de março de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梶本松治郎子息国治郎身上障りに付御願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ治まり、芯なる聞き分け。さあ／＼一度二度順序いかなる処、順序今一時なる処、小人々々さあ一寸大層順序分からんであろ。何にも難しい／＼一条も、思えば速やか理、よう思やんしてみよ。何処に隔て無い。たすけ一条の理、一つ危うき処、何かの処、よく／＼聞き分けねばならん。何かの事、一時分かる。何かの何箇年、一つ理分かる／＼。成る成らんではない。よう聞き分け。一時運ぶ処、一時安心治まる。治まらん順序、道暮らす聞き分け。一つ安心事情を運ぶ。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "押して、順序運びに付願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "道を以て理を諭す。身の処早速速やか、一寸順序見分け聞き分け。幾重習い見にゃならん。これまで順序伝えない。だん／＼その理、それ日々の理、一寸心得の理これまで理、縁無き処縁無き一つ定め、一つ治め。世界の処、理を聞き分け。何かの処、かりもの自由自在、めん／＼一つ心、順に道悟り、よう聞き分けならん。神は隔ては無いで。しかと聞き分け。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "押して願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ聞き分け。神というは隔て無い。内々とも人間身の内かしもの順序よう聞き分け。世界の処幾何人、順序の理を見て聞き分け。鏡やしき、鏡ならどういう事もこういう事も、皆映る。善き事悪しき事映るであろ。これは前生々々身に現われる。",
+      },
+      {
+        "conteudo_jap": "鏡いかなる心定め、たんのう／＼心定めるなら、やれ／＼。たんのう無くては、受け取る処一つ無いで。",
+        "conteudo_port": "Qual seja a determinação espiritual, se determinardes o espírito de satisfação sincera, satisfação sincera, está bem, está bem. Se não houver satisfação sincera, não haverá nenhum ponto a aceitar."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十七日（陰暦三月三日）午後四時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞身の障り伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身の障り、さあ声出難くい。余の儀外の身の障りではなく、めん／＼心これまで外思わく。人救ける、救けにゃ日々切のうて話出来ぬ。外々先ず／＼委細澄み切りてある。身の一つ、席を改めたる処、これを身の処速やかなりたるなら、又大変な楽しみがあろう。一度の楽しみは末代、こうして寝やしてあるは、あちらも一寸運ぶである。纏める。あちらもこちらも、物に譬え、結構なる普請するには、あちらの物とこちらの物も寄せて、棟包みをし、それよりだん／＼作り上げねばならん。もう一日すれば、すっきり美しい掃除出来る。めん／めんの普請は、半端のめん／めんの身の障り、一段取り集め、それ／それ楽しみ話、一所寄せ、幾重の話聞く。前々話、末代一所寄せ、あちらへもこちらへも障り付く。席見てるまでやない程に。油断無きよう、すっきり十分の磨き、生涯楽しみをさす。楽しみ無くばならん。一年の年限来ては、切りが無くては、切りを切ろうと、あちらも取り寄せ、こちらも取り寄せ。もう何時もう身の障り程無う。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十七日　午後七時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "上原佐助願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼山越え、国越え、土居越えて、どんと下ろしたばかりでは、何にも分からん。ぐるり囲い、栓を締め、根を据えて置かねばならん。さあこれが初めや。始め掛けたら、ドウ／＼と見えるで。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十七日（陰暦三月三日）午後九時半",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "本席身上御障りに付御願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼日々迫る／＼。知らさにゃ、どうもならん／＼。言い掛ける事情を治めにゃならんで。さあ／＼先々の処々、まあ、よう思やんして見よ／＼。さあ／＼身の内にてこれ一寸障り付けてある。どうも真実なる知らせたい。どうも分からいでならん。十分迫り切る。迫り切らん事には聞きやせん。日を送りて来た。さあ／＼よう聞かにゃならん。どれだけ尽す処理を運ぶ、功を積む。一時の処から、一寸の処聞きやせん。見えて来たなら後で一つ／＼の思やんをするであろう。大きいものや、堅いもんやと。大きいもんが大きいやない、堅いものが堅いものやない。よう聞き分け。皆一つどうもならん。何を言うやら分かろまい、理には迫ろまい、なれど日日の事情には迫るやろう。理には迫るまい。日々の処、身上聞き分け。さあ聞き分けてしっかり事情。何をこれよう聞き分けて事情定め／＼。だん／＼の話、取り替え寄り来る処に、早く話聞かせ。今の道難しいてならん。成らん者にどうせえそうせえと言うた処が、どうもならん。これだけの人はどういう理を担ぐ。どうもならん。時節々々到来、時節あちらこちら、成る事情は言わいでも運ぶ、成らん事情は言うても運ばん。遠く事情これだけ働いてこう成らん者は、せえと言う。成らん者にせえと言うて、これが出来るか。世界というも教一つの理から考えるなら、一つの理も説かるやろう。さあ／＼理を取り替え／＼。取り替えねば、どんな理が出るやら知りゃせんで。元の事情こういう理である。いかなる理も尋ね／＼。尋ねるならいかなる理を諭す。こりゃ大きい理や。分からんから道を失うような事が出来る。今は大きい、とこぎり大きいもの、何でもない事が大きい事やで。何でもないと思うやろう。よう聞き分けてくれ。さあ／＼追々話する／＼。一度の話では取り混ぜてある。話掛けたら、どういう事話掛けたら、旬々の理を以て一寸長くの身の障り。どれだけ一時に諭したい、分からん事情を。そこで、じっと些か心得んという日を送って来た。今日の日から話掛けたら、だん／＼諭せにゃならん。どういう事も諭する。残念な事が何ぼ積ってあるやら知れん。いっかどあるや知れん。世界という、並大抵でない。眺めうっとしい、小さいようで大きいで。これを、よう聞き分けて置かねばならん。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年三月二十七八日（陰暦三月三四日）頃",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞身上障りに付伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身障り、だん／＼先ず一つ、いつ／＼いつまで楽という。月すがら日すがら、身のあれこれ皆んな今までというは、十のものなら八つ、僅かの違い付かん、纏める。聞いて居る者も聞かん者も、これが一つ丹精。楽しみ無くばならん。これこそ先ず生涯、楽しみ一日、早く渡したい。先ず／＼一時の処、席と定め、席の尋ねからしっかり堅めて、神の方には一つ思案。一つこれでたんのう。席は今までゝ一つ違わん。あと言う。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月六日（陰暦三月十三日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野いと身上伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼いかなる尋ね。すっきりして、内々日々結構言うまで、分かって居る。世界何なん、結構何、こうして日々勤めくれる処は受け取りて居る。内々の処一つの思案聞かねばならん。自然天然道理なるどうじや。生涯あたゑ、いかなる事はあまり、いつまで晴天の日はあるまい。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "同日、増野正兵衞身上障り伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼誠々、尽す誠尽する。さあどういう思案。世界どういう、約まるで。どうでも／＼、善き事もどういう事も見える。今は所々誠に違い無い。兄弟血で血を洗い洗わにゃならん。それ／＼の身の障りは案じる事は無い。誠を内々へ伝え。心安心、事はよう聞き分けて置かねばならん。\n押していと身上内々思案聞かねばならんとの事に付伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "めん／＼身の処思案よう聞け。内々なる、長らく心ある処ある。一度珍し事を聞こうか。内々一つ談示、心一つ又々思案しても居る。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月十六日",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梅谷四郎兵衞小人とみゑ頭にくさ出来もの出来しに付願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼小人の出物々々は、さあ／＼あちらこちらに、出物と言うたばかりでは、分かりあろうまい。何でも急ぐ／＼。刻限がもう程無う事、それを現わし悟るよう。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "又次に梅次郎、たか、秀太郎の三名の小人の事願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼、皆々をしいかりと定めを付けるで。その知らせなり。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月十六日（陰暦三月二十三日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞身上障り伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼よう聞き分け／＼。さあいかなる尋ね／＼、どういう事情、身上一切。さあ／＼まあ、これまでいかなる処、どうこも／＼据え、一段一寸に／＼と筆に記し、早く急ぐ処もあり、悠っくりする処もあり、いろ／＼道、日々月々年々に道。めんめんに一寸身の障り、心晴れぬ処、一日早く、何で実の心十分受け取り、まあ一寸この世の初め一寸話、この世立て替え、まあ世界処置、まあ十分、日々分かりわても磨きをするのやで。善きも悪しきも見分けて居る。これまでどうじゃこうじゃ。誠嘘分からん。誠あるか、もう分かる。もう一日待ち、だん／＼待ち、見えるもあり見えんもある。分けて分けるは一条神の道、変わらんなりに難し話て、分からんなりに、歪んだもの真直ぐにし、歪んだもの、直としたものも、意見で直らんにゃ深き事や大きな事やで。開けても分からいでも、尋ねの事聞かねばならん。身の処思案、内なる処一時案じて居る。一つ話談じやい。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "家業休み家貸し、家賃を以て暮らす伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "皆、世界皆変わる。めん／＼の思わく、分かる分からんの中尋ねる。一つ思案、世上の組方もある。時節々々、変わる／＼、神の為す事。時談も話も、随分々々所話付け。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "元町道幅広める願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼いろ／＼の、皆んなどうしようこうしよう出来る事ある。前々事情々々よって暫く。その場いずれ広くする。そのまゝ、いずれ／＼一寸延びる。今事情を一寸出して、誰が何ぼ包んでも、誰言うとなく天然自然の理で知る。今世界も同じ事。埋む。当分三年間、今出か、それから一寸も何の印もどんと治まる。一事処、何ぼ事情正しく随分々々定め。早目々々思やん内。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "家売り田地求める伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "今処一つ道、広く安心ならん。心案じ、何も案じる事は無い。事情伝え、案じという道ある。ぢばの処、事情どうでもこうでも、決心が難しい。三十日延びるとも計り難ない。一時安心だん／＼運ぶ。世界も同じ事、今一時珍しい事を言う事がいつの事。ゑゝしん世上の処、見れば一つ案じも一つ思やん。今事情一つ思やん踏み止めに内々事情運べ。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月二十日　（陰暦三月二十七日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞神戸へ帰る伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼何か世界話、いかなる処内々いろ／＼談じ、日々つかえてあるという。今一時何か。何も彼も今の処神がどういう事どう定め、今一時どうせにゃこうせにゃ、世界出来る事、天然自然賑やかの所が淋しくなる、淋しき所が賑やかになる、というは天然自然なる。先々談じ胸に一つ思案、今なる一時、付き難くなる。賑やかな所淋しく、淋しい所賑やかになる。いよ／＼前々日より迫る。旬をして置かねばならん。いつ事と、何かの事も伝え。天然自然に理はしゃんと分かってある。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月二十三日　午後四時頃",
+    "data": "Por volta das 4 horas da tarde de 23 de abril de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "神様よりしっかり治まりたと承り",
+        "conteudo_port": "Recebido de Deus que tudo está firmemente em ordem."
+      },
+      {
+        "conteudo_jap": "このやしき、四方正面、鏡やしきである。来たいと思ても、来られんやしき。来た者に往ねとは言わん、来ん者に来いとは言わん。",
+        "conteudo_port": "Esta Residência espelho possui quatro lados frontais, é a residência espelho. Residência onde não se pode vir, embora o deseje. Não digo para voltar a quem veio, nem digo para vir a quem não vem."
+      },
+      {
+        "conteudo_jap": "この度は、洗い仕立てた上やで。ようこゝ聞かねばならん。さあ一寸言うて置くで。年を切るような事を、決めるやないで。一月に三日又戻り、三日又戻り、又九日。これ聞いて、真と思て居れば、真と成るで。（このおさしづはナライト二十五才の年の事と、上田嘉治郎記し置きたり。）",
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月二十四日　八時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "刻限過ぎ、上たる処の事でも、これ一つ処よう聞け。身の内悩む処、一時大望の処が分かり難ない。さあ／＼幾重事情聞くとも時々。さあ／＼詰んで／＼まこと楽しみ思えども、身の内の処も良かろうか、もう一日したらすっきりと澄み切るも、これこそ十分急いて磨き出るで。十分急き待ち兼ね、真実知らす。切なみ刻限知らす。これだん／＼、今まで尋ねも、前に肝心なる伝え取次々々、席にて十分止まる。何時なりと席にて尋ね。尋ねるに付、さあよう聞き分け。分からん。今までの処休息場、女共の皆寄り合うて、席に手が要るのやで。来たら早いて。互に十分の刻限は無い。それ／＼この心受け取る。道理受け取れ。どうもよう思案。楽しみ深くというは、人に成程という。それより事情やで。言うて了う。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年四月二十四日　午後五時半",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞身の障り伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼遠く／＼処、さあ／＼それから遠く、何かの処も急ぐ。身上一条の処は、又の道の、いつ／＼まで身の障りという事で、なに大抵今までの処、どちら大変処、計り難なき。やれ／＼何でも、一日なりとも、一月なりと、日を送る。何の思案。月更わる、日更わる。是非に押して／＼、残念々々でならんで。残念の処に、残念がある。残念の中に、何か幾分何かの処、又々それ／＼処、何の楽しみも無き、一度の処と立て替える。仕事場々々々、仕事場はあちらこちら、その時／＼さしづ。何を尋ねる。よう風吹くようなもの。どうやこうや、又々立て替えじゃで。仕事場委せて置いた。席をすっきり、あちらから／＼、こゝで一寸、仕事場にしようか。席というは綾錦、身の内障り、だん／＼もう成ろか、洗い替いせねば余儀無くの。ほんに席にては、十分何時なりとも、席にて伺え。何時なりともあちこちと、立て替える。ほんに席さしづは仕事場。何時にても、どういう事も早く。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月二日",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梅谷四郎兵衞家移転願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼道のために尽す処は、さあ／＼世界を眺め、先々の処こういう理は今の処はどうせいとも、こうせいとも言わん。内々の処真実々々々々、又々寄りて、真実真実々々寄りて談示して、今の処はどうせとも言わん。なれども今の理見て、先ず先ず心安にして運べば、又々心に掛かる処は安くなる。真実々々々々寄りて談示するがよい。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月五日",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "平野トラ身上願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身上一つ心得ん、どういうもので心得ん。身上一つの理、さあ／＼かえ一つの理、さあ／＼静かに聞いて一つの理聞こえ。一つの理どういう事も運び、どういう事も運び来てある。どういう事もこういう事も見分け聞き分け、めん／＼一つ事情、めん／＼一つの理を定め。どういう道も通り来てある。又一つめん／＼定め来てある処、何でも理も聞くと、心掛かり／＼。この一つの事情、見分け聞き分け、一名一人の理を定め、一名一人の理を定め。世上一つの理、難しい事は言わん。世上一つの理あれば、見れば見る。めん／＼尋ねる処よく聞き分け。めん／＼は一つ、先々長く、世上にはいかなる理もある。めん／＼は一つ。世上にはいろ／＼の道もある。取り直す／＼。めん／＼はどういう道もある。身上ありて一つの理と、めんめんは一つの道、いつ／＼までも一つの道や。めん／＼は一つの理で長く／＼一つ定める理なら、多くの理までやない。先ずよう聞き分けて、先ず／＼の理を治めるなら、自由自在と、身も治まるという。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月六日　午前九時",
+    "data": "Às 9 horas da manhã de 6 de maio de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "喜多治郎吉身上に付願（この時おさづけ頂戴）",
+        "conteudo_port": "Solicitando Indicação sobre a saúde de Jirokiti Kita (recebeu o Sazuke nessa ocasião)."
+      },
+      {
+        "conteudo_jap": "さあ／＼これまで長々退屈であったやろ。さあ／＼これよりたすけのため、水を授けよう。さあ／＼しいかり受け取れ、さあ受け取れ。",
+        "conteudo_port": "Até hoje, por longo tempo, esteve entediado. Concedo-lhe a água para a partir de agora realizar a salvação. Receba-a firmemente. Receba-a."
+      },
+      {
+        "conteudo_jap": "押して、水の訳に付願",
+        "conteudo_port": "Prosseguindo, pedido de explicação sobre a água."
+      },
+      {
+        "conteudo_jap": "さあ／＼授けたのは、心の理に与えたるのやで。たとえ途中にても、泥水でも、身の悪い者あれば、先に三口飲んで、後飲ましてやれ。",
+        "conteudo_port": "A concessão foi dada à razão do seu espírito. Durante a caminhada, mesmo que seja água barrenta, se houver quem esteja doente, beba antes três goles e dê-lhe para beber."
+      },
+      {
+        "conteudo_jap": "又押して、水のおさづけの理由を尋ね",
+        "conteudo_port": "Insistindo, indagação sobre o motivo do Sazuke da Água:"
+      },
+      {
+        "conteudo_jap": "さあ／＼この水というは、人間元初まりの時、三尺まで水中住居、この清水を与える理。又三口飲むは、三日三夜に宿し込みた、この理よって与える。",
+        "conteudo_port": "Quanto à água, o homem teve vida aquática até atingir três pés de altura na ocasião da criação original. É a concessão dada em razão dessa água pura. O fato de beber três goles é em razão de ter concebido em três dias e três noites."
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月九日（陰暦四月十七日）午後九時",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "刻限御話",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼一寸刻限話、さあ／＼どういう事、どういう道が付くやら分からん。急がし。どんな道が付くやら、ちゃんと分かりてあるで。何時やら分からんで。多くの人数が要るで。さあ、あっちもこっちも急がしいで。手が足らん。十分の道、どんと大きな道を造りゃ、ちゃんと備えを付けて置かねばならんで。今度は珍し道やで。さあ楽し。どういう水が出るやら。流れるとも分からん。何も彼も／＼秋を合図に、どんな事も皆々この話して置かねばならんで。#E",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月十日（陰暦四月十八日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野いと裏向き通じ悪しきに付伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身の内処、どうでもこうでも、もう思わく通り、今一時処、どうでもこうでも定まる。定まらん処はいずれの心案じる。案じの知らせが掛かる。一つ所いずれの話、実と思えば案じる事は要らん。先々案じあるから、自由自在一寸身の内の処不足出来る。そこで案じ一つも要らん。成り行くよう、誠一つ自由自在。身の内案じあれば、先々案じは何もならんで。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月十二日（陰暦四月二十日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞足だるみ胸痛むに付居所の伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼何かの処、身の自由自在聞いて、ほんに成程という処分かる。めん／＼尋ね聞く。ほんにかりものという事分かる。身の障り皆ある。早く／＼急く。自由自在、一人もあちらへこちらへ、四方八方へ。今一時に、身の内ほんに身の障り、幾度ためし。これでこそいう事分かる。三日いう事出来る。知らねば身の障り、一時に揃え、一つ所に集まる。皆人数聞かす。こゝに一日二日三日のうち、あちらへこちらへも散らばらぬようして置かねばならん。めん／＼人も定め心も定め。心所に定まらんから。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "又別の日伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身の障りの処、身の障り、何も思うでない。よう思案。どうこう思うじゃない。どんと心を落し着け。道は道、家内の処思案、どっと落し着け。怪しう思わず、思う心鎮め。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "又",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "急き込み心急ぐ。じっと定め。家なる処結構。いかなるも家々処、定め治まらん。別々。先々一寸も思案要らん。急ぐ／＼。同じ事くど／＼言うて置く。何も隔ても、考えて諦め。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "又",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼何かの処一寸一度決まり、だん／＼取り決まり、十分道早くにし治まる。一つなる急ぐ安心、一つには内々なる処にて、日々一応何でも所あり、身の内心澄まんから、片付ける所ちゃんと心に掛かる、身上掛かる。左程一寸所はちゃんと心残り無いよう片付けにゃならん。やれ／＼日々置く。立ち難くゝて心に掛かってはどうもならん。一つ／＼急ぐ処から、運びを付けねばならん。心に掛かるから身に掛かる。寝て目が醒めれば心に掛かる。心に掛かるのが神の邪魔になる。すっきり心に掛からんようにしたら安心であろう。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月十三日（陰暦四月二十一日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": "",
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞耳鳴るに付伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼何かの処聞き分けてくれ。一人限り、余の儀外の儀でない。めん／＼処、ようさしづのついでに尋ねに出る。ついでゝは、心胆さしづ出来ぬ。さあ取次一人引いて又一人、めん／＼一人限り話聞く。それ／＼めん／＼一人限り、又国々講へ一人、取次一人と二人、十分話、静か／＼伺い尋ね、何遍尋ね。ちゃんと話し一人済んで了う。又一人、これをそれ／＼話て取り決め。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "めん／＼身上の処、どうでもこうでも判然ならんという処、内々それ／＼談示、安心一寸残りの処身上尽する。忘れた同じ事、余程これで身上少し、これを忘れんため、間違い一度十分ざんげ。速やかなる身の内、一寸なる処、人間前生の事分からん。なれど心尽するはこり／＼なる処、その理成る成らん十分尽し、身の処これだけ前生いんねんなれど、聞くに聞かれん。心たんのうせ。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月十四日（陰暦四月二十二日）午前九時",
+    "data": "Às 9 horas da manhã de 14 de maio de 1887",
+    "data_lunar": "22 de abril no c.l.",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "真之亮立合いにて、増野正兵衞身上障り伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "あしきはらひたすけたまへ天理王命、三遍又三遍又三遍、三三三の理を渡そ。しっかり受け取れ／＼。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月十六日（陰暦四月二十四日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梅谷四郎兵衞おさづけ頂く",
+        "conteudo_port": "Umetani Shirobee recebe o Sazuke"
+      },
+      {
+        "conteudo_jap": "天の月日様より、長々の間、ようこそ勤めて、このやしきへ来た。あちらへも一寸、こちらへもと、心を尽し、又は大層々々な処を凌ぎて来た。まこと難しい処もあり、越し難くい処も、ようこそ随いて来た。さあ／＼小人の処、身の内障りは、長い処を、このぢばへ来た。なれども神が四五日と言うて、足止めたのは、今が初めやろうがな／＼。さあ／＼楽しみを渡す。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼しいかりと受け、さあ／＼しいかりと受け／＼、さあ／＼しいかり受け。（と言うて、頭より身体へ、あああとなか／＼強くに、息を三度受け、）",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあしいかりと呑み込めと。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "又次に、檪本の梶本父上は、この度はなか／＼の難しき障りにて、又松治郎小人二才の方も、なか／＼の難しき障りにて、又松治郎御家内の父五十二才の御方も、昨日真性コレラにて、十五日夜の十二時に伺いに参りし処、又その帰りにて梶本松治郎は、大の腹痛なり。〆四人の御方の御障りにて四郎兵衞も俄にそれを見て、腹が少しく痛むに付願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "神が足を止めたのは、これを見ようとて、足を止めたのである。神というものは、この事が見えてある。これを見せて置いた。置いたなら、忘れようと思うても、忘れる事が出けまいがな。さあ／＼しいかりとお受けをせよと。",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "（有難くも／＼、口で申すような、結構な事ではない／＼／＼、まことに／＼有難き事なり。）",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月十六日（陰暦四月二十四日）",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞身上障り伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼まゝだん／＼一つ道分かる。幾重道分かる。今一時という。互い／＼、まあ一時の処これで十分、これで居れば十分。心に掛かるは、めん／＼身に掛かる。この道通ればこれでこそと聞き、道の中付いて付かん道がある。こうすれば、定め心暫くはじっとして心に掛けぬよう。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年五月二十日（陰暦四月二十八日）頃",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "増野正兵衞伺",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "めん／＼身の内障り、内々思案、無理なる思案。だん／＼先々誠一つ事情、身のどうでも付けるなら内々へ。神の道一つ、世上の話、誠一つ身の一つ。一日十年、生涯同じ事、深き思案、別建てもなるよう先々。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年六月六日",
+    "data": "",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "梅谷たね指の障りに付願",
+        "conteudo_port": ""
+      },
+      {
+        "conteudo_jap": "さあ／＼身の内の障り、前の事を案じる。案じるは要らん。何でもどんと心を定めにゃいかんで。案じは要らん。小人の障り、親の心案じある故、映る事なり。何事も不自由して通るが楽しみ。いつ／＼までやない。先の確かなる楽しみに、証拠渡してある。これを思やんしてくれねば分からんで。一寸の事ではない。先の確かな証拠である。案じは要らん。この道も、もう長い間では、伝えた話は皆見えて来る。どんと心を定めとの事。",
+        "conteudo_port": ""
+      }
+    ]
+  },
+  {
+    "data_wareki": "明治二十年六月十三日",
+    "data": "13 de junho de 1887",
+    "data_lunar": "",
+    "ano_RD": 50,
+    "paragrafos": [
+      {
+        "conteudo_jap": "井筒梅治郎家内の者、身上障りに付、御願いせしに、水のおさづけを頂けり。その時のさしづ",
+        "conteudo_port": "A esposa de Izutsu Umejirō, solicitou uma indicação sobre a saúde, e recebeu o Sazuke da Água. A indicação naquele momento:"
+      },
+      {
+        "conteudo_jap": "さあ／＼内にも障り付けて引き寄せた。長々細道余程勢もあるまい。さあ／＼長々のきゅうこう、その功によって、さあ／＼さづけ、神水の水をさづけ。さあ／＼さあしっかり受け取れ。この水にて人を救けるのやで。たとえ何処の水、どのよの水汲んでも、三度口頂いてやるのやで。さあ／＼さあ／＼落すやない、戻すやない。神は返やせとは言わん。なれども心違えば、直ぐに戻るで。心違わねば末代子孫に続くで。神が返やせと言わん程に。よく／＼心違わんよう、さあ／＼受け取れ、しっかり受け取れ。",
+        "conteudo_port": "Vamos, vamos, atraímos um impedimento interno. Em um longo e estreito caminho, não deve haver muito ímpeto. Vamos, vamos, por um longo tempo, por esse mérito, vamos, vamos, concedo, concedo a água divina. Vamos, vamos, receba firmemente, vamos, vamos, receba firmemente. Com esta água, salvaremos as pessoas. Não importa onde a água, que tipo de água se recolha, é para dar três goles. Vamos, vamos, vamos, não derrube, não retorne. Deus não diz para devolver. No entanto, se o seu coração estiver errado, ele retornará imediatamente. Se o seu coração não estiver errado, continuará para as gerações futuras. Deus não diz para devolver. Tenha muito cuidado para que seu coração não se desvie. Vamos, vamos, receba, receba firmemente. Sah , sah ,sah ,sah, não deveis deixar cair, nem mandar de volta. Deus não diz para devolvê-lo. No entanto, se errardes de espírito, terá de mandar logo de volta. Se não errar de espírito, continuará pelos filhos e netos, por todas as gerações."
+      }
+    ]
+  }
+
+
+
 
 ]
+
