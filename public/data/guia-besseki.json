@@ -1,0 +1,52 @@
+{
+  "titulo": "Guia do Besseki",
+  "consideracoes": [
+    "Para ouvir a preleção do Besseki, faz-se um voto a Deus-Parens. Por isso, é aconselhável assimilar ou mesmo memorizar os termos do voto.",
+    "Terminado o voto, o ouvinte encaminha-se a uma sala separada e tranquila para assistir à preleção. Daí, a origem da denominação Besseki, que significa literalmente lugar separado.",
+    "As palavras do Besseki são explanações da verdade feitas na Residência Original, Jiba, onde os homens foram criados por Deus-Parens.",
+    "Assim sendo, não devem ser ouvidas simplesmente para ter o conhecimento, satisfazer a curiosidade ou fazer amizades. A frequência e assistência à sessão do Besseki tem seu real significado quando o ouvinte fixa na mente os ensinamentos e, caso perceba na vida percorrida até então algum erro de pensamento, de atitude ou de ação, corrija-o, limpando e purificando o coração.",
+    "Para que os ensinamentos se conservem firmemente no espírito, ouvem-se preleções de mesmo teor por nove vezes. À proporção em que uma pessoa ouve as sessões, vai-se convencendo realmente das verdades e, ao mesmo tempo em que as grava no coração, coloca-as em prática.",
+    "Assistindo às nove sessões, perfaz-se uma série completa, Manseki, que é o preparativo para a Sessão Autêntica (Honseki).",
+    "A Sessão Autêntica é aquela em que o Shimbashira, como representante de Oyassama, entrega o Dom da Concessão (Sazuke-no-Ri). Este dom é concedido por Deus-Parens ao espírito sincero de salvar os outros, cultivado através das preleções do Besseki.",
+    "O Dom de Sazuke é uma dádiva do céu, um tesouro eterno, um meio para a pessoa se dedicar sinceramente à salvação da humanidade. Aquele que o recebe torna-se um yoboku (literalmente, madeira usável) para a construção do mundo pleno de alegria, o qual Deus-Parens deseja ver.",
+    "Deus-Parens trabalha livre e ilimitadamente, através do yoboku, quando este ministra o Dom de Sazuke com o espírito sincero de salvar os próximos."
+  ],
+  "voto_do_besseki": [
+    "O nosso Deus-Parens chama-se Tenri-Ô-no-Mikoto. Ele é o Deus original e verdadeiro que criou o mundo e o homem, donde não havia nenhum modelo formal.",
+    "Deus-Parens, tomando Oyassama, Nossa Mãe, como seu Sacrário, transmitiu sua vontade ao mundo humano. Assim, ouvimos pela primeira vez a vontade divina através de Oyassama.",
+    "Ela se chama Miki Nakayama.",
+    "Deus-Parens criou os homens com o desejo de compartilhar a alegria de todos, vendo-os viverem felizes e jubilosos. Portanto, a Vida Plena de Alegria é, de fato, o objetivo supremo da vida humana.",
+    "Vim a conhecer Deus-Parens através da sua orientação mediante................., e, desde então, tenho ouvido a respeito da sua vontade. Desta vez, regressei a Jiba para aprendê-la mais profundamente.",
+    "Ouvi que Jiba é o lugar onde Deus-Parens reside e é praticado o Serviço para a salvação da humanidade.",
+    "Em Jiba, desejo aprender profundamente os ensinamentos de Deus-Parens, manifestar a minha devoção a Oyassama e fazer o voto de seguir sua Vida-Modelo para satisfazer Deus-Parens e contentar os próximos."
+  ],
+  "nota": {
+    "observacoes": [
+      "As preleções do Besseki poderão ser ouvidas a partir do mês em que o interessado completa 17 anos de idade.",
+      "Para ouvir as preleções, devem ser entregues na recepção do Besseki o Requerimento do Besseki (Besseki Negai) e a Ficha do Besseki (Sekifuda), providenciados na igreja a que pertence."
+    ],
+    "horarios_recepcao": {
+      "manhã": "8:00 às 9:30",
+      "tarde": "12:00 às 13:30"
+    },
+    "horarios_especiais": {
+      "Grande Cerimônia de Janeiro (26 de janeiro)": {
+        "horario": "8:00 às 9:30",
+        "obs": "Não há preleção no período da tarde"
+      },
+      "Festa Natalícia de Oyassama (18 de abril)": {
+        "horario": "14:30 às 15:30",
+        "obs": "Não há preleção no período da manhã"
+      },
+      "Grande Cerimônia de Outubro (26 de outubro)": {
+        "horario": "12:30 às 13:30"
+      },
+      "Serviço Mensal (fora os dias supra citados)": {
+        "horario": "13:30 às 14:30",
+        "obs": "Não há preleção no período da manhã"
+      }
+    },
+    "periodo_sem_prelecao": "28 de dezembro a 1º de janeiro",
+    "informacoes_adicionais": "Para maiores informações, procure um responsável de sua igreja."
+  }
+}
