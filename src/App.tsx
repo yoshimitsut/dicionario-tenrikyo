@@ -323,7 +323,7 @@ function App() {
         </label>
         <label>
           <input type="checkbox" checked={buscarOssashizu} onChange={(e) => setBuscarOssashizu(e.target.checked)}/>
-          Ossashizu
+          Ossashizu(Incompleto)
         </label>
       </div>
 
