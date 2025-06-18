@@ -374,6 +374,7 @@ function App() {
                   <br />
                   <em>{destacarTexto(ep.conteudo_p, query) || 'Sem conteúdo em português'}</em>
                   <br />
+                  <br />
                   <em>{destacarTexto(ep.conteudo_j, query) || 'Sem conteúdo em japonês'}</em>
                 </li>
               ))}
@@ -385,7 +386,7 @@ function App() {
               {filteredHinos.map((hino, i) => (
                 <div key={`hino-${i}`} style={{ marginBottom: '1rem', borderBottom: '1px solid'}}>
                   <h3 className='titulo-principal'>
-                    {destacarTexto(hino.hino_romaji, query)} 
+                    {destacarTexto(hino.hino_romaji, query)} <br />
                     {destacarTexto(hino.hino_kanji, query)}
                   </h3>
                   <ul>
@@ -411,8 +412,8 @@ function App() {
                   </strong>
                   <br />
                   <em>
-                    {destacarTexto(ofudessaki.conteudo_j, query)} <br />
-                    {destacarTexto(ofudessaki.conteudo_r, query)} <br />
+                    {destacarTexto(ofudessaki.conteudo_j, query)} <br /><br />
+                    {destacarTexto(ofudessaki.conteudo_r, query)} <br /><br />
                     {destacarTexto(ofudessaki.conteudo_p, query)}
                   </em>
                 </li>
@@ -433,7 +434,7 @@ function App() {
                   <ul>
                     {ossashizu.paragrafos.map((paragrafos, j) => (
                       <li key={`paragrafo-${i}-${j}`} style={{marginBottom: '1rem'}}> 
-                        <em>{destacarTexto(paragrafos.conteudo_port, query)}</em> <br />
+                        <em>{destacarTexto(paragrafos.conteudo_port, query)}</em> <br /><br />
                         <em>{destacarTexto(paragrafos.conteudo_jap, query)}</em>
                       </li>
                     ))}
