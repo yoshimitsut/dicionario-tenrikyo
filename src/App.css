@@ -44,10 +44,11 @@ ul {
   justify-content: center; 
   margin-top: 1rem;
   gap: 10px;
-  
+  height: 40px;
+
   i{
     background-color: #000;
-    padding: 1rem;
+    padding: 0.8rem;
     cursor: pointer; 
     font-size: 16px;
   }
@@ -63,6 +64,14 @@ ul {
   text-align: center;
   margin-top: 1rem;
   color: gray;
+}
+
+.error-select {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
 }
 
 .optionBusca label:hover {
