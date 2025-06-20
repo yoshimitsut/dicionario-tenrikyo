@@ -1,5 +1,3 @@
-// src/components/TermoResult.tsx
-import React from 'react';
 import type { Termo } from '../types';
 import { destacarTexto } from '../utils';
 
