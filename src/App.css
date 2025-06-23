@@ -25,6 +25,7 @@ ul {
 .dict-section {
   font-family: sans-serif;
   white-space: break-spaces;
+  justify-content: center;
 }
 
 .resultado-busca em {
@@ -39,7 +40,7 @@ ul {
   color: #888;
 }
 
-.input-wrapper {
+/* .input-wrapper {
   display: flex;
   justify-content: center; 
   margin-top: 1rem;
@@ -58,7 +59,44 @@ ul {
     width: 20rem;
     font-size: 16px;
   }
+} */
+
+.container {
+  justify-items: center;
 }
+
+.input-wrapper {
+  margin: 20px 4px 20px 4px;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: #fff;
+  border-radius: 16px;
+  justify-content: center;
+  width: 30rem;
+
+  i {
+    background-color: #242424;
+    padding: 9px;
+    border-radius: 16px;
+    cursor: pointer;
+  }
+
+  input {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    width: 100%;
+  }
+  
+  input:focus-visible {
+    outline: none;  
+  }
+
+}
+
+
 
 .loading-p {
   text-align: center;

@@ -66,8 +66,8 @@ function App() {
         </label>
         ))}
       </div>
-
-      <div className='input-wrapper' >
+      <div className='container'>
+<div className='input-wrapper' >
         <input
           type="text"
           value={query}
@@ -77,6 +77,8 @@ function App() {
         />
         <i className='fa fa-search' ref={botaoRef} onClick={handleSearch}></i>
       </div>
+      </div>
+      
 
       {loading ? (
         <p>Carregando...</p>
