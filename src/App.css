@@ -65,7 +65,9 @@ ul {
     padding: 9px;
     border-radius: 16px;
     cursor: pointer;
+    margin-top: 3px;
   }
+  
   .textarea-wapper {
     width: 100%;
     display: flex;
