@@ -67,16 +67,16 @@ function App() {
         ))}
       </div>
       <div className='container'>
-<div className='input-wrapper' >
-        <input
-          type="text"
-          value={query}
-          id="input-buscar"
-          placeholder="Digite para buscar..."
-          onChange={(e) => setQuery(e.target.value)}
-        />
-        <i className='fa fa-search' ref={botaoRef} onClick={handleSearch}></i>
-      </div>
+        <div className='input-wrapper' >
+            <input
+              type="text"
+              value={query}
+              id="input-buscar"
+              placeholder="Digite para buscar..."
+              onChange={(e) => setQuery(e.target.value)}
+            />
+            <i className='fa fa-search' ref={botaoRef} onClick={handleSearch}></i>
+          </div>
       </div>
       
 
