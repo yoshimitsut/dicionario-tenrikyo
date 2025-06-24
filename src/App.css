@@ -40,36 +40,20 @@ ul {
   color: #888;
 }
 
-/* .input-wrapper {
-  display: flex;
-  justify-content: center; 
-  margin-top: 1rem;
-  gap: 10px;
-  height: 40px;
-
-  i{
-    background-color: #000;
-    padding: 0.8rem;
-    cursor: pointer; 
-    font-size: 16px;
-  }
-
-  input{
-    padding: 0.5rem;
-    width: 20rem;
-    font-size: 16px;
-  }
-} */
-
 .container {
   justify-items: center;
+
+  .search-icon-wrapper{
+    display: flex;
+    align-items: flex-start;
+  }
 }
 
 .input-wrapper {
   margin: 20px 4px 20px 4px;
   padding: 8px 12px;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   gap: 6px;
   background-color: #fff;
   border-radius: 16px;
@@ -82,15 +66,24 @@ ul {
     border-radius: 16px;
     cursor: pointer;
   }
-
-  input {
-    background-color: transparent;
-    border: none;
-    font-size: 18px;
+  .textarea-wapper {
     width: 100%;
+    display: flex;
+    padding-top: 3px;
+  }
+
+  .textarea-autogrow {
+    width: 100%;
+    resize: none;
+    overflow: hidden; 
+    font-size: 1rem;
+    padding: 5px 0px 0px 0px;
+    line-height: 1.4;
+    border: none;
+    height: 31px;
   }
   
-  input:focus-visible {
+  textarea:focus-visible {
     outline: none;  
   }
 

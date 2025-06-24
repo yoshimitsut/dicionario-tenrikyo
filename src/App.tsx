@@ -68,14 +68,23 @@ function App() {
       </div>
       <div className='container'>
         <div className='input-wrapper' >
-            <input
-              type="text"
+          <div  className="textarea-wapper">
+            <textarea
               value={query}
               id="input-buscar"
               placeholder="Digite para buscar..."
-              onChange={(e) => setQuery(e.target.value)}
+              onChange={(e) => {
+                setQuery(e.target.value);
+                e.target.style.height = 'auto';
+                e.target.style.height = `${e.target.scrollHeight}px`;
+              }}
+              rows={1}
+              className='textarea-autogrow'
             />
-            <i className='fa fa-search' ref={botaoRef} onClick={handleSearch}></i>
+            </div>
+            <div className="search-icon-wrapper">
+              <i className='fa fa-search' ref={botaoRef} onClick={handleSearch}></i>
+            </div>
           </div>
       </div>
       
