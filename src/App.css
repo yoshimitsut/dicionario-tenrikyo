@@ -67,13 +67,14 @@ ul {
     cursor: pointer;
     margin-top: 3px;
   }
-  
-  .textarea-wapper {
+   
+  input {
+    padding: 8px;
+    font-size: 16px;
     width: 100%;
-    display: flex;
-    padding-top: 3px;
+    border: none;
   }
-
+/*
   .textarea-autogrow {
     width: 100%;
     resize: none;
@@ -83,9 +84,9 @@ ul {
     line-height: 1.4;
     border: none;
     height: 31px;
-  }
+  } */
   
-  textarea:focus-visible {
+  input:focus-visible {
     outline: none;  
   }
 
